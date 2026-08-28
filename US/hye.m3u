@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",ARTN TV 1080p
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1 group-title="culture",KIIO-LD 10.4 480p
+https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8

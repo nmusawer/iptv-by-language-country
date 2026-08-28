@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="entertainment",TVCARiB 720p
+https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
+#EXTINF:-1 group-title="religious",TVCARiB Gospel 480p
+https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8

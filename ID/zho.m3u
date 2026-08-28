@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="religious",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1 group-title="religious",DAAI TV
+https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8

@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 group-title="music",360TuneBox 1080p
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="documentary",DocuBox
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="lifestyle",FashionBox
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="sports",Fast&FunBox
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="sports",FightBox
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+#EXTINF:-1 group-title="sports",FightBox
+https://webtvstream.bhtelecom.ba/fightbox.m3u8
+#EXTINF:-1 group-title="movies",Film1 Action
+http://86.87.15.10:8008/play/a01l/index.m3u8
+#EXTINF:-1 group-title="movies",FilmBox
+http://46.149.191.219:9100/play/a015
+#EXTINF:-1 group-title="relax",FunBox UHD
+https://webtvstream.bhtelecom.ba/funbox.m3u8
+#EXTINF:-1 group-title="entertainment",Gametoon
+https://webtvstream.bhtelecom.ba/gametoon.m3u8
+#EXTINF:-1 group-title="music",Hype Visual Radio 1080p
+https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
+#EXTINF:-1 group-title="lifestyle",INFAST 1080p
+https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="lifestyle",INFAST 1080p
+https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="lifestyle",INFAST 1080p
+https://amg00861-amg00861c11-rlaxx-uk-3950.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="lifestyle",INFAST 1080p
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="lifestyle",INFAST 1080p
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="lifestyle",INFAST 1080p
+https://amg00861-terninternation-lifestyle-samsungnz-e3zqy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="lifestyle",INFAST 1080p
+https://lifestyle-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="lifestyle",INFAST 1080p
+https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8
+#EXTINF:-1 group-title="travel",INTRAVEL 1080p
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="travel",INTRAVEL 1080p
+https://amg00861-terncloud-amg00861c10-samsung-gb-2298.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-intravelsamsunguk-samsunggb/playlist.m3u8
+#EXTINF:-1 group-title="travel",INTRAVEL 1080p
+https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="travel",INTRAVEL 1080p
+https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="auto,sports,outdoor",InTrouble 1080p
+https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="auto,sports,outdoor",InTrouble 1080p
+https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8
+#EXTINF:-1 group-title="auto,sports,outdoor",InTrouble 1080p
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="documentary",INWILD 720p
+https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="documentary",INWILD 1080p
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="documentary",INWILD 1080p
+https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="documentary",INWILD 1080p
+https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="science",InWonder 1080p
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="science",InWonder 720p
+https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="science",InWonder 1080p
+https://amg00861-amg00861c14-rlaxx-uk-3954.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="science",InWonder 1080p
+https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8
+#EXTINF:-1 group-title="science",InWonder 1080p
+https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="science",InWonder 1080p
+https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8
+#EXTINF:-1 group-title="science",InWonder 1080p
+https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="music",Radio Stad den Haag 720p
+https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8
+#EXTINF:-1 group-title="music",Rararadio 720p
+https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
+#EXTINF:-1 group-title="music",XITE Classic Country 720p
+https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
+#EXTINF:-1 group-title="music",XITE Classic Country 1080p
+https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8
+#EXTINF:-1 group-title="music",XITE Hits 1080p
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
+#EXTINF:-1 group-title="music",XITE Hits 1080p
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+#EXTINF:-1 group-title="music",XITE Hits 1080p
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="music",XITE Just Chill 1080p
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+#EXTINF:-1 group-title="music",XITE Reggae Vibes 1080p
+https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
+#EXTINF:-1 group-title="music",XITE Rock x Metal 1080p
+https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="music",XITE Rock x Metal 720p
+https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
+#EXTINF:-1 group-title="music",XITE Rock x Metal 1080p
+https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",MCOT HD
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="",Plus TLT 720p
+http://15.204.246.24:8080/PlusTLTHD/index.m3u8
+#EXTINF:-1 group-title="",Red CCTV 480p
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+#EXTINF:-1 group-title="",Red CCTV
+https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8

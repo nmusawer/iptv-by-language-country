@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 group-title="auto",100% Auto Moto TV 406p
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 group-title="kids",Disney Channel
+http://213.91.179.28:8000/play/a059
+#EXTINF:-1 group-title="documentary",H2
+http://213.91.179.28:8000/play/a03r
+#EXTINF:-1 group-title="documentary",National Geographic
+http://213.91.179.28:8000/play/a0ct
+#EXTINF:-1 group-title="movies",Star Channel
+http://213.91.179.28:8000/play/a0c9

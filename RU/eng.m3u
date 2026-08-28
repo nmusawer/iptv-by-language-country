@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 group-title="music",A1 576p
+http://31.148.48.15/A1/index.m3u8
+#EXTINF:-1 group-title="music",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 group-title="education",English Class 1080p
+http://31.148.48.15/English_club_TV_HD/index.m3u8
+#EXTINF:-1 group-title="lifestyle",Fashion&LifeStyle 1080p
+http://stream.mcquack.net/119/index.m3u8
+#EXTINF:-1 group-title="lifestyle",Fashion&LifeStyle 1080p
+http://31.148.48.15/Fashion_One_HD/index.m3u8
+#EXTINF:-1 group-title="",Insayt TV 2160p
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="",Insayt TV 1080p
+http://stream.mcquack.net/361/index.m3u8
+#EXTINF:-1 group-title="sports",MMA-TV.com
+https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="sports",MMA-TV.com 1080p
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 group-title="kids",Nickelodeon 576p
+http://stream.mcquack.net/443/index.m3u8
+#EXTINF:-1 group-title="general",NVK Sakha 1080p
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 group-title="outdoor",Okhota i rybalka 576p
+http://stream.mcquack.net/155/index.m3u8
+#EXTINF:-1 group-title="outdoor",Okhota i rybalka
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="news",RT 1080p
+http://31.148.48.15/RT_HD/index.m3u8
+#EXTINF:-1 group-title="news",RT 1080p
+https://wisewatchoott.wiseplayout.com/RT/master.m3u8
+#EXTINF:-1 group-title="news",RT
+https://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
+#EXTINF:-1 group-title="news",RT 720p
+http://212.5.144.156:8080/rt/index.m3u8
+#EXTINF:-1 group-title="news",RT 1080p
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="news",RT 1080p
+https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
+#EXTINF:-1 group-title="news",RT 1080p
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="news",RT 1080p
+https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
+#EXTINF:-1 group-title="documentary",RT Documentary 1080p
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="documentary",RT Documentary 1080p
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="travel",RTG int.
+http://213.91.179.28:8000/play/a0bw
+#EXTINF:-1 group-title="travel",RTG TV 720p
+http://31.148.48.15/RTG_HD/index.m3u8
+#EXTINF:-1 group-title="travel",RTG TV 576p
+http://31.148.48.15/RTG/index.m3u8
+#EXTINF:-1 group-title="general",RTR-Planeta 720p
+https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8
+#EXTINF:-1 group-title="travel",Travel+Adventure 1080p
+http://31.148.48.15/Travel_Adventure_HD/index.m3u8

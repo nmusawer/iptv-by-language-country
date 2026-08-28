@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Afroturk TV 1080p
+https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="news",DHA 720p
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1 group-title="sports",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="documentary,series",GZT 1080p
+https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:-1 group-title="kids",Minika Go 720p
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 group-title="kids",Minika Go 576p
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 group-title="culture",Natural TV 720p
+http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="culture",Natural TV 720p
+https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="sports",S Sport 2 720p
+https://corestream.siteyaptim.live/s-sport2/index.m3u8
+#EXTINF:-1 group-title="sports",S Sport 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="sports",S Sport 720p
+https://corestream.siteyaptim.live/s-sport/index.m3u8
+#EXTINF:-1 group-title="documentary",TRT Belgesel 720p
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="news",TRT World
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1 group-title="news",TRT World 1080p
+https://tv-trtworld.medya.trt.com.tr/master.m3u8

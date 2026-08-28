@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Arlaadi TV
+https://ap02.iqplay.tv:8082/iqb8002/alr114iapp/playlist.m3u8
+#EXTINF:-1 group-title="general",Hirshabelle TV 576p
+http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
+#EXTINF:-1 group-title="general",Puntland TV 720p
+http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8
+#EXTINF:-1 group-title="general",Saab TV 576p
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
+#EXTINF:-1 group-title="general",Saab TV 576p
+https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8
+#EXTINF:-1 group-title="general",SBC TV 720p
+http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8
+#EXTINF:-1 group-title="general",SNTV Daljir 576p
+https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
+#EXTINF:-1 group-title="general",Somali National TV 576p
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="",Aryen TV 1080p
+https://aryen.tv/live/tv/playlist.m3u8
+#EXTINF:-1 group-title="culture",Komala TV
+https://komhls.wns.live/hls/stream.m3u8

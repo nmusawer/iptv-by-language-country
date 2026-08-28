@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="religious",Mana Tserkov' Onlayn 1080p
+https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
+#EXTINF:-1 group-title="religious",TV Mana Russkiy 1080p
+https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8

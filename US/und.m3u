@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 group-title="movies",AMC Latin America 1080p
+http://45.171.108.253:8888/AMC/index.m3u8
+#EXTINF:-1 group-title="movies",AMC Latin America 1080p
+http://177.234.249.178:8888/AMC/index.m3u8
+#EXTINF:-1 group-title="movies",AXN Latin America 1080p
+http://15.204.246.24:8080/AXNHD/index.m3u8
+#EXTINF:-1 group-title="movies",AXN Latin America 1080p
+http://181.119.66.28:8081/AXN/index.m3u8
+#EXTINF:-1 group-title="movies",AXN Latin America 1080p
+http://190.93.224.42/AXN/index.m3u8
+#EXTINF:-1 group-title="kids",Baby Shark TV
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+#EXTINF:-1 group-title="documentary,business",Bloomberg Originals
+https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
+#EXTINF:-1 group-title="business",Bloomberg TV
+https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
+#EXTINF:-1 group-title="series",Cops
+https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
+#EXTINF:-1 group-title="animation",DreamWorks Channel Latin America 1080p
+http://138.121.15.230:9002/DREAMWORKS/index.m3u8
+#EXTINF:-1 group-title="animation",DreamWorks Channel Latin America 1080p
+https://live.nxplay.com.br/DREAMWORKS/index.m3u8
+#EXTINF:-1 group-title="animation",DreamWorks Channel Latin America 576p
+https://cdn-5.nxplay.com.br/DREAMWORKS/index.m3u8
+#EXTINF:-1 group-title="series",Duck Dynasty 1080p
+https://aegis-cloudfront-1.tubi.video/ae3cd8ce-3c41-452b-92a0-78fdb3c5b855/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Lone Star 1080p
+https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.m3u8
+#EXTINF:-1 group-title="religious",Mohabat TV
+https://mohabathls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="movies",MovieSphere 720p
+https://jmp2.uk/plu-6401d85a49839300087b116c.m3u8
+#EXTINF:-1 group-title="lifestyle",Revry 720p
+https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Stories by AMC
+https://jmp2.uk/plu-62f2ce24f328e00007e7f55a.m3u8
+#EXTINF:-1 group-title="lifestyle",The Design Network 1080p
+https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 group-title="weather",WeatherSpy 720p
+https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
+#EXTINF:-1 group-title="sports",Willow Sports 1080p
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8

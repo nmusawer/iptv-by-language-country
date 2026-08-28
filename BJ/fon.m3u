@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Eden TV 540p
+https://rtmp.edentv.bj/hls/stream.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="music",Stingray Classica 1080p
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="music",Stingray Classica
+https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8

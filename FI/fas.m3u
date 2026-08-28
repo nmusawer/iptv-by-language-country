@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="music",Navahang TV 720p
+https://hls.navahang.live/hls/stream.m3u8
+#EXTINF:-1 group-title="music",Navahang TV
+https://simahls.wns.live/hls/stream.m3u8

@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Alsat
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+#EXTINF:-1 group-title="general",Alsat 576p
+http://5.254.89.106/8713/index.m3u8
+#EXTINF:-1 group-title="general",Cool TV 1080p
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+#EXTINF:-1 group-title="music",Folk TV 1080p
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+#EXTINF:-1 group-title="music",Jazz TV 1080p
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+#EXTINF:-1 group-title="general",Kanal 5 360p
+https://s2.teve.mk/tvstanici/2/playlist.m3u8
+#EXTINF:-1 group-title="music",Love TV 1080p
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 group-title="general",M-Net HD 720p
+http://ares.mnet.mk/hls/mnet.m3u8
+#EXTINF:-1 group-title="general",M-Net HD
+https://live.mnet.mk/hls/mnet.m3u8
+#EXTINF:-1 group-title="news",M-Net Info
+https://live.mnet.mk/hls/mnet-info.m3u8
+#EXTINF:-1 group-title="kids",M-Net Kids 720p
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 group-title="sports",M-Net Sport 720p
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 group-title="sports",M-Net Sport
+https://live.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 group-title="legislative",MRT Sobraniski kanal
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+#EXTINF:-1 group-title="general",MTM
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
+#EXTINF:-1 group-title="general",Nasa TV 1080p
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 group-title="music",Rock TV 1080p
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 group-title="",Sitel 480p
+http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
+#EXTINF:-1 group-title="",Sitel 480p
+https://teve.mk/tvstanici/s1/playlist.m3u8
+#EXTINF:-1 group-title="music",Sky Folk TV 720p
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 group-title="music",Sky Folk TV 720p
+https://skyfolk.mk/live.m3u8
+#EXTINF:-1 group-title="music",Star Plus Televizija 1080p
+https://live.muzickatv.mk/live/StarMusic2.m3u8
+#EXTINF:-1 group-title="general",Sutel TV
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
+#EXTINF:-1 group-title="general",TV21
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+#EXTINF:-1 group-title="general",TV NOVA 12 576p
+http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:-1 group-title="",TV Shenja
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
+#EXTINF:-1 group-title="general",TV Zdravkin 400p
+http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8

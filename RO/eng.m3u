@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="music",Atomic TV 360p
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 group-title="comedy",Comedy Central
+https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
+#EXTINF:-1 group-title="kids",Disney Junior
+https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
+#EXTINF:-1 group-title="documentary",National Geographic
+https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
+#EXTINF:-1 group-title="kids",Nicktoons
+https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
+#EXTINF:-1 group-title="music",Radio Fx Net 720p
+https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8

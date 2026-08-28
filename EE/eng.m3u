@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 group-title="music",Best of Dance TV 1080p
+https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+#EXTINF:-1 group-title="music",DanceTV Algorhythm 1080p
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
+#EXTINF:-1 group-title="music",DanceTV Deep House District 1080p
+https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 group-title="music",DanceTV EDM Mainstage 1080p
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+#EXTINF:-1 group-title="music",DanceTV House Floor 1080p
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
+#EXTINF:-1 group-title="music",DanceTV Minimal Tech 1080p
+https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+#EXTINF:-1 group-title="music",DanceTV Techno Warehouse 1080p
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 group-title="kids",KidZone Max 1080p
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
+#EXTINF:-1 group-title="music",Vantage Classic 720p
+https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8
+#EXTINF:-1 group-title="music",Vantage Classic 720p
+https://hls.vantagetv.ee/vclassic_stream/index.m3u8
+#EXTINF:-1 group-title="music",Vantage Dance 720p
+https://cdn-backup.lulzy.eu/vdance_stream/index.m3u8
+#EXTINF:-1 group-title="music",Vantage Dance 720p
+https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
+#EXTINF:-1 group-title="music",Vantage Music 720p
+https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8
+#EXTINF:-1 group-title="music",Vantage Music 720p
+https://cdn-backup.lulzy.eu/vrock_stream/index.m3u8
+#EXTINF:-1 group-title="music",Vantage Music 720p
+https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
+#EXTINF:-1 group-title="music",Vantage Music 1080p
+https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
+#EXTINF:-1 group-title="music",Vantage Rock 720p
+https://hls.vantagetv.ee/vrock_stream/index.m3u8

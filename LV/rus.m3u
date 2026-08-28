@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Gribu visu zinat 576p
+https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
+#EXTINF:-1 group-title="movies,classic",Movify Kino 576p
+https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8

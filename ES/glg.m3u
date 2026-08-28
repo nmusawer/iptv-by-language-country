@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="general,public",Galicia TV Europa 720p
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 group-title="general",TVG2 720p
+https://crtvg-tvg2.flumotion.cloud/playlist.m3u8

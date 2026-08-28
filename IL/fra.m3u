@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="news",i24NEWS French 1080p
+https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 group-title="news",i24NEWS French 720p
+https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8

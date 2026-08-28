@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="",Dej TV
+https://rdejhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="",Khalij TV
+https://khalijhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="",Zed TV
+https://zedhls.wns.live/hls/stream.m3u8

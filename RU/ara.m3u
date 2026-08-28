@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="news",RT Arabic 1080p
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 group-title="news",RT Arabic 1080p
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8

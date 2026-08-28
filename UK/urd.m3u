@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="news",Dunya News UK 720p
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
+#EXTINF:-1 group-title="religious",Iqra TV
+https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8
+#EXTINF:-1 group-title="religious",MTA1 World 720p
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
+#EXTINF:-1 group-title="religious",MTA2 Europe 720p
+https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
+#EXTINF:-1 group-title="religious",MTA4 Africa 1080p
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
+#EXTINF:-1 group-title="religious",MTA5 Africa 1080p
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
+#EXTINF:-1 group-title="religious",MTA6 Asia 1080p
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+#EXTINF:-1 group-title="religious",MTA7 Asia 1080p
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+#EXTINF:-1 group-title="religious",Noor TV 720p
+https://sscsott.com/srt/noortvuk/index.m3u8

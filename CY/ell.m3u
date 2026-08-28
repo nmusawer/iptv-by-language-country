@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="sports",Alfa Sport 1080p
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 group-title="entertainment",ANT1 Cyprus 1080p
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 group-title="",City Channel 720p
+https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 group-title="",RIK 1
+http://213.7.216.229:8888/udp/239.23.0.1:1234
+#EXTINF:-1 group-title="",RIK 2
+http://213.7.216.229:8888/udp/239.23.0.2:1234
+#EXTINF:-1 group-title="",RIK HD
+http://213.7.216.229:8888/udp/239.23.0.5:1234
+#EXTINF:-1 group-title="",RIK Sat 720p
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 group-title="",RIK Sat 720p
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 group-title="",Sigma TV 576p
+https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:-1 group-title="news",Vouli TV 1080p
+https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx

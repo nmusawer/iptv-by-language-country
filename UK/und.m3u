@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="movies",AMC Europe
+https://dokagents.site/live/amc/mono.m3u8
+#EXTINF:-1 group-title="series",Epic Drama
+http://82.78.243.219:45739/play/a01p/index.m3u8
+#EXTINF:-1 group-title="documentary,entertainment",Jail
+https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
+#EXTINF:-1 group-title="religious",Kalemeh TV
+https://klmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="comedy,kids",Mr Bean Live Action 1080p
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="music",Now 70s 720p
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 group-title="music",Now 80s 1080p
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 group-title="music",NOW Rock 1080p
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 group-title="",Setareh TV
+https://setarehhls.wns.live/hls/stream.m3u8

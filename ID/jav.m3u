@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="",Channel Jowo
+https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8
+#EXTINF:-1 group-title="news,music,religious",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 group-title="",Matrix TV Yogyakarta 720p
+https://stream.matrixtv.id/hls/0/stream.m3u8
+#EXTINF:-1 group-title="",Stara TV 720p
+https://bojonegoro.staratv.id/hls/stream.m3u8
+#EXTINF:-1 group-title="",Stara TV 1080p
+https://malang.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 group-title="general",TVRI 720p
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8

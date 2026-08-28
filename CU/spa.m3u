@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Cubavision Internacional 720p
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+#EXTINF:-1 group-title="news",Prensa Latina TV 1080p
+https://eu1.servers10.com:8081/8192/index.m3u8

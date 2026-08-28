@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Alvin Channel TV 360p
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 group-title="news",APA Tv 1080p
+http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 group-title="general",Ayaz TV 720p
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1 group-title="general",Az TV 1080p
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 group-title="general",Az TV
+http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+#EXTINF:-1 group-title="general",Az TV
+https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="news",Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 group-title="sports",CBC Sport
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 group-title="general",EL TV 260p
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 group-title="general",EL TV
+https://live.eltv.az/live/eltv/playlist.m3u8
+#EXTINF:-1 group-title="general",Ictimai TV
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 group-title="general",Kanal 35 720p
+https://str2.yodacdn.net/kanal35/index.m3u8
+#EXTINF:-1 group-title="general",Kanal S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1 group-title="news",Kapaz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 group-title="music",KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="culture",Medeniyyet TV 1080p
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1 group-title="general",Naxcivan TV 720p
+https://str2.yodacdn.net/ntv/video.m3u8
+#EXTINF:-1 group-title="general",Vilayet TV
+https://nl.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:-1 group-title="general",Xezer TV 720p
+https://www.xezerxeber.az/stream/index.m3u8

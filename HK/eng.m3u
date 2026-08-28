@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="business",Hong Kong International Business Channel 1080p
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 group-title="business",Hong Kong International Business Channel
+https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
+#EXTINF:-1 group-title="entertainment",KIX
+https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
+#EXTINF:-1 group-title="news",NewsWorld 1080p
+https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
+#EXTINF:-1 group-title="",RTHK TV 32 1080p
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 group-title="",RTHK TV 32 360p
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+#EXTINF:-1 group-title="",RTHK TV 33 1080p
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:-1 group-title="",RTHK TV 34 1080p
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+#EXTINF:-1 group-title="news",RTHK TV 35 1080p
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+#EXTINF:-1 group-title="movies",Thrill 540p
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd

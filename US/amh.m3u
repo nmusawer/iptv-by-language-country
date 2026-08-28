@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="culture",EBS 1080p
+https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
+#EXTINF:-1 group-title="movies",EBS Cinema 720p
+https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
+#EXTINF:-1 group-title="music",EBS Musika 720p
+https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8

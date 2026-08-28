@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="religious",Noursat English 576p
+https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",OTV 1080p
+https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8

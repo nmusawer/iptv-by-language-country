@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="music",Finest TV 288p
+https://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 group-title="entertainment",MC TV 720p
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 group-title="general",YOL TV
+https://live.yoltv.com/hls/stream.m3u8

@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",DD Odia 504p
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
+#EXTINF:-1 group-title="news",Kalinga TV
+https://cdn-4.pishow.tv/live/1470/master.m3u8
+#EXTINF:-1 group-title="news",Kalinga TV 576p
+https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8
+#EXTINF:-1 group-title="general",Nandighosha TV 576p
+https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
+#EXTINF:-1 group-title="news",News18 Odia 1080p
+https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="culture",Odisha TV 720p
+https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
+#EXTINF:-1 group-title="culture",Odisha TV
+https://cdn-2.pishow.tv/live/1600/master.m3u8
+#EXTINF:-1 group-title="culture",Odisha TV 576p
+https://streams.tangotv.in/OTVLIVE24X7/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="news",Prameya News7 576p
+https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8
+#EXTINF:-1 group-title="",Prarthana TV 720p
+https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
+#EXTINF:-1 group-title="animation,kids",Sony Yay!
+https://s3.itcnbd.live/channel/b22941f1341d7243.m3u8
+#EXTINF:-1 group-title="music",Tarang Music 720p
+https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Tarang TV 720p
+https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8

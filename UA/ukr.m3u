@@ -1,0 +1,311 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",1+1 International 720p
+https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+#EXTINF:-1 group-title="general",1+1 International
+http://158.101.222.193:88/georgia_play.php?id=1plus1international
+#EXTINF:-1 group-title="general",1+1 Marafon 1080p
+https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
+#EXTINF:-1 group-title="general",1+1 Ukraina 1080p
+http://stream.mcquack.net/219/index.m3u8
+#EXTINF:-1 group-title="general",2+2 1080p
+http://stream.mcquack.net/173/index.m3u8
+#EXTINF:-1 group-title="general",2+2 Marathon 1080p
+https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8
+#EXTINF:-1 group-title="general",6 sotok 1080p
+http://stream.mcquack.net/405/index.m3u8
+#EXTINF:-1 group-title="news",24 Kanal 720p
+https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
+#EXTINF:-1 group-title="news,business",100% NEWS 576p
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 group-title="lifestyle",36.6 TV
+https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
+#EXTINF:-1 group-title="news",Apostrophe TV 1080p
+https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
+#EXTINF:-1 group-title="news",Army TV 1080p
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+#EXTINF:-1 group-title="news",Army TV 576p
+http://195.54.52.40/test/index.m3u8
+#EXTINF:-1 group-title="culture",ATR 720p
+https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
+#EXTINF:-1 group-title="general",Avers 480p
+https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1 group-title="general",Balta TV 768p
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 group-title="travel",BamBarBia.TV 720p
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+#EXTINF:-1 group-title="",Bigudi 576p
+http://stream.mcquack.net/340/index.m3u8
+#EXTINF:-1 group-title="general",Black Sea TV
+https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
+#EXTINF:-1 group-title="movies,series",Bolt 1080p
+http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1 group-title="news",Channel 5 1080p
+http://stream.mcquack.net/291/index.m3u8
+#EXTINF:-1 group-title="news",Channel 5 1080p
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTINF:-1 group-title="general",Channel 7 Ukraine 720p
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 group-title="general",Channel 7 Ukraine 720p
+https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
+#EXTINF:-1 group-title="",Channel 8
+https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
+#EXTINF:-1 group-title="general",Channel 11 720p
+https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8
+#EXTINF:-1 group-title="news",Channel 24 1080p
+https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="education,documentary",Chemodan TV 1080p
+http://stream.mcquack.net/399/index.m3u8
+#EXTINF:-1 group-title="news",Cherniveckiy promin 720p
+https://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 group-title="news",ChP info 576p
+http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
+#EXTINF:-1 group-title="",Continent E 1080p
+http://stream.mcquack.net/449/index.m3u8
+#EXTINF:-1 group-title="",Dacha 1080p
+https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
+#EXTINF:-1 group-title="general",DIM
+https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
+#EXTINF:-1 group-title="sports",DiviSport 1080p
+http://stream.mcquack.net/457/index.m3u8
+#EXTINF:-1 group-title="general",Dnipro TV 1080p
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+#EXTINF:-1 group-title="news",Donbass Online 1080p
+http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
+#EXTINF:-1 group-title="sports",Dynamo Kyiv TV 1080p
+http://stream.mcquack.net/396/index.m3u8
+#EXTINF:-1 group-title="science",Eko TV 720p
+https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
+#EXTINF:-1 group-title="movies",Enter-Film 1080p
+http://stream.mcquack.net/322/index.m3u8
+#EXTINF:-1 group-title="sports",Equalympic 1080p
+http://stream.mcquack.net/485/index.m3u8
+#EXTINF:-1 group-title="news",Espreso TV
+https://dash4.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:-1 group-title="news",Espreso TV 1080p
+https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+#EXTINF:-1 group-title="news",Espreso TV 1080p
+https://dash2.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:-1 group-title="religious",EWTN Ukraine 1080p
+https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="education",Fauna 576p
+http://stream.mcquack.net/401/index.m3u8
+#EXTINF:-1 group-title="movies,series",FilmUADrama 1080p
+http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF:-1 group-title="movies,series",FilmUADrama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+#EXTINF:-1 group-title="movies",FilmUA Live
+https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+#EXTINF:-1 group-title="news",GIT 720p
+https://stream.uagit.tv/gittv.m3u8
+#EXTINF:-1 group-title="religious",Glas 576p
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1 group-title="general",Herson Plyus 576p
+http://46.175.163.130/ks_plus/index.m3u8
+#EXTINF:-1 group-title="religious",Hope Channel Ukraine 576p
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:-1 group-title="religious",Hope Channel Ukraine
+https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8
+#EXTINF:-1 group-title="entertainment",ICTV2 1080p
+http://stream.mcquack.net/368/index.m3u8
+#EXTINF:-1 group-title="entertainment",ICTV 1080p
+http://stream.mcquack.net/158/index.m3u8
+#EXTINF:-1 group-title="music",InRating TV 1080p
+http://stream.mcquack.net/147/index.m3u8
+#EXTINF:-1 group-title="general",Inter 1080p
+http://stream.mcquack.net/174/index.m3u8
+#EXTINF:-1 group-title="general",Inter+ 720p
+https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
+#EXTINF:-1 group-title="general",IRT 720p
+https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
+#EXTINF:-1 group-title="",Islandia 720p
+https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8
+#EXTINF:-1 group-title="general",ITV 480p
+https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="general",ITV
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1 group-title="news",I-UA.tv 1080p
+https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8
+#EXTINF:-1 group-title="general",Izmail TV 384p
+https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",K1 1080p
+http://stream.mcquack.net/270/index.m3u8
+#EXTINF:-1 group-title="entertainment",K2 720p
+https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
+#EXTINF:-1 group-title="movies",Kinoliving 1080p
+http://stream.mcquack.net/445/index.m3u8
+#EXTINF:-1 group-title="movies",Kinowood 1080p
+http://stream.mcquack.net/446/index.m3u8
+#EXTINF:-1 group-title="",Kus-Kus
+https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Kvartal TV
+http://158.101.222.193:88/georgia_play.php?id=kvartal95
+#EXTINF:-1 group-title="entertainment",Kvartal TV International
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+#EXTINF:-1 group-title="news",Kyiv 1080p
+https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1 group-title="kids",Lale
+https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
+#EXTINF:-1 group-title="music",M1 1080p
+http://stream.mcquack.net/218/index.m3u8
+#EXTINF:-1 group-title="music",M1 720p
+http://158.101.222.193:88/georgia_play.php?id=m1
+#EXTINF:-1 group-title="music",M2 1080p
+http://stream.mcquack.net/330/index.m3u8
+#EXTINF:-1 group-title="sports",Maincast Cybersport 1080p
+http://stream.mcquack.net/487/index.m3u8
+#EXTINF:-1 group-title="sports",Maincast Sport 1080p
+http://stream.mcquack.net/490/index.m3u8
+#EXTINF:-1 group-title="entertainment",Mason TV 1080p
+http://stream.mcquack.net/346/index.m3u8
+#EXTINF:-1 group-title="",Mega 720p
+https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
+#EXTINF:-1 group-title="music",Megogo Music
+https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
+#EXTINF:-1 group-title="general",Misto+ 360p
+http://93.78.206.172:8080/stream3/stream.m3u8
+#EXTINF:-1 group-title="music",Muzvar 1080p
+https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
+#EXTINF:-1 group-title="general",My Ukraina+
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+#EXTINF:-1 group-title="news",My-Ukraina TV 1080p
+http://stream.mcquack.net/442/index.m3u8
+#EXTINF:-1 group-title="movies",Nashe Lubimoe Kino Ukraine 1080p
+http://stream.mcquack.net/456/index.m3u8
+#EXTINF:-1 group-title="music",NASHE Music 720p
+https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
+#EXTINF:-1 group-title="documentary",National Geographic Wild 720p
+http://46.32.176.50/natgeowild/index.m3u8
+#EXTINF:-1 group-title="science",Nauka 576p
+http://stream.mcquack.net/403/index.m3u8
+#EXTINF:-1 group-title="kids",Niki Junior
+http://158.101.222.193:88/georgia_play.php?id=nikijunior
+#EXTINF:-1 group-title="entertainment",Novyi Channel 1080p
+http://stream.mcquack.net/157/index.m3u8
+#EXTINF:-1 group-title="general",NTK TV 1080p
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 group-title="general",NTN 1080i
+https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
+#EXTINF:-1 group-title="news",Obozrevatel TV
+https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
+#EXTINF:-1 group-title="general",One Planet 1080p
+http://stream.mcquack.net/448/index.m3u8
+#EXTINF:-1 group-title="general",Orbita TV 360p
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:-1 group-title="entertainment",OTSE 1080p
+http://stream.mcquack.net/329/index.m3u8
+#EXTINF:-1 group-title="",OTV
+https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8
+#EXTINF:-1 group-title="news",Pershiy XTV Media 576p
+https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8
+#EXTINF:-1 group-title="general",Pershyi 1080p
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:-1 group-title="auto",Pershyi avtomobilnyi 1080p
+http://stream.mcquack.net/404/index.m3u8
+#EXTINF:-1 group-title="legislative",Pershyi Zahidnyi 1080p
+http://stream.mcquack.net/246/index.m3u8
+#EXTINF:-1 group-title="general",Pervyy gorodskoy. Odessa 1080p
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 group-title="general",Pervyy gorodskoy. Odessa 576p
+http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
+#EXTINF:-1 group-title="kids",Pixel TV 720p
+https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
+#EXTINF:-1 group-title="kids",PLUSPLUS 1080p
+http://stream.mcquack.net/339/index.m3u8
+#EXTINF:-1 group-title="",PravdaTUT 720p
+https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8
+#EXTINF:-1 group-title="news",PTV 720p
+https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
+#EXTINF:-1 group-title="legislative",Rada TV 1080p
+https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/RADA.m3u8
+#EXTINF:-1 group-title="general",Renome TV 576p
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:-1 group-title="news",Reporter 720p
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:-1 group-title="general",Rivne 1 720p
+https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
+#EXTINF:-1 group-title="outdoor",Rybalka 1080p
+https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
+#EXTINF:-1 group-title="",Salt TV 1080p
+http://stream.mcquack.net/398/index.m3u8
+#EXTINF:-1 group-title="sports",Setanta Sports+ Ukraine 1080p
+http://stream.mcquack.net/390/index.m3u8
+#EXTINF:-1 group-title="general",Sfera-TV
+http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
+#EXTINF:-1 group-title="general",Sfera-TV 720p
+https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
+#EXTINF:-1 group-title="general",Simon 720p
+https://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1 group-title="news",SK 1 720p
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 group-title="news",SK 1
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Sonce
+https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
+#EXTINF:-1 group-title="sports",Sport 1 576p
+http://stream.mcquack.net/391/index.m3u8
+#EXTINF:-1 group-title="sports",Sport 1 Baltic 1080p
+http://stream.mcquack.net/461/index.m3u8
+#EXTINF:-1 group-title="sports",Sport 2 1080p
+http://stream.mcquack.net/392/index.m3u8
+#EXTINF:-1 group-title="sports",Sport 3 1080p
+http://stream.mcquack.net/393/index.m3u8
+#EXTINF:-1 group-title="sports",Sport 4 576p
+http://stream.mcquack.net/394/index.m3u8
+#EXTINF:-1 group-title="",STB 1080p
+http://stream.mcquack.net/156/index.m3u8
+#EXTINF:-1 group-title="general",Suspilne. Krym 1080p
+http://stream.mcquack.net/436/index.m3u8
+#EXTINF:-1 group-title="culture",Suspilne. Kultura 1080p
+http://stream.mcquack.net/435/index.m3u8
+#EXTINF:-1 group-title="general",Suspilne. Kyiv 360p
+https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8
+#EXTINF:-1 group-title="sports",Suspilne. Sport 1080p
+http://stream.mcquack.net/444/index.m3u8
+#EXTINF:-1 group-title="entertainment",Svarozhychy
+http://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
+#EXTINF:-1 group-title="general",Svit+ 1080p
+http://stream.mcquack.net/358/index.m3u8
+#EXTINF:-1 group-title="general",Telekanal RAI 480p
+https://stream.rai.ua/rai/stream.m3u8
+#EXTINF:-1 group-title="general",Telekanal RAI
+http://92.253.233.136/uploads/playlist.m3u8
+#EXTINF:-1 group-title="",Televsesvit 1080p
+https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8
+#EXTINF:-1 group-title="news",Ternopil 1 720p
+https://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1 group-title="",Terra 576p
+http://stream.mcquack.net/402/index.m3u8
+#EXTINF:-1 group-title="",TET 1080p
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6377/index.m3u8
+#EXTINF:-1 group-title="",TET 1080p
+http://stream.mcquack.net/338/index.m3u8
+#EXTINF:-1 group-title="",TIS TV 720p
+https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
+#EXTINF:-1 group-title="",TRK Aleks 576p
+http://46.46.112.223/live/livestream1.m3u8
+#EXTINF:-1 group-title="general",TRK Ildana 720p
+https://pravdatytkyiv.cdn-01.cosmonova.net.ua/hls/pradva-tut-ildana_ua_hi/index.m3u8
+#EXTINF:-1 group-title="outdoor",Trofei 1080p
+http://stream.mcquack.net/357/index.m3u8
+#EXTINF:-1 group-title="shop",TUSO 720p
+https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
+#EXTINF:-1 group-title="",TV-4 720p
+https://vs2126.vcdn.biz/c27a63fda28be51f87a7d0046de1f4b8_megogo/live/hls/b/700_2490/u_sid/0/o/71044361/rsid/393818da-edd4-44bd-b2db-4ebf226abd3d/u_uid/0/u_vod/1/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/5.63.189.224*asn/u_did/web_0voqy4czLIxD4iwJZ0z0GctEMa9GIH7A/type.live/playlist.m3u8
+#EXTINF:-1 group-title="general",TV7+
+https://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1 group-title="",TVA 576p
+http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
+#EXTINF:-1 group-title="",TVA 576p
+https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="",TVA 576p
+http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="",TVA 576p
+http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="series",Tviy serial 1080p
+http://stream.mcquack.net/466/index.m3u8
+#EXTINF:-1 group-title="general",UNIAN Serial 1080p
+http://stream.mcquack.net/341/index.m3u8
+#EXTINF:-1 group-title="",Z 1080p
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1 group-title="entertainment",Zoom 1080p
+http://stream.mcquack.net/327/index.m3u8

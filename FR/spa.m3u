@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 group-title="news",Euronews Spanish 720p
+https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
+#EXTINF:-1 group-title="news",Euronews Spanish 720p
+https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
+#EXTINF:-1 group-title="news",Euronews Spanish 1080p
+https://cdn1tlinkgo.tlink.cl/euronews/index.m3u8
+#EXTINF:-1 group-title="news",Euronews Spanish 1080p
+https://iptv.bitred.cl/euronews/index.m3u8
+#EXTINF:-1 group-title="news",Euronews Spanish 684p
+https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
+#EXTINF:-1 group-title="news",France 24 1080p
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="news",France 24 1080p
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="news",France 24 720p
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="news",France 24 720p
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="news",France 24 576p
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_900.m3u8
+#EXTINF:-1 group-title="news",France 24 576p
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_900.m3u8
+#EXTINF:-1 group-title="news",France 24 360p
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
+#EXTINF:-1 group-title="news",France 24 360p
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_500.m3u8
+#EXTINF:-1 group-title="news",France 24 720p
+https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
+#EXTINF:-1 group-title="news",France 24 720p
+https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
+#EXTINF:-1 group-title="relax",MyZen TV 1080p
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 group-title="relax",MyZen TV 1080p
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
+#EXTINF:-1 group-title="movies",Persiana Latino
+https://latinohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="general",TV5Monde Latin America 720p
+http://45.162.231.38:7779/TV5_Monde/index.m3u8
+#EXTINF:-1 group-title="general",TV5Monde Latin America
+http://45.235.0.78/TV5_Monde/index.m3u8

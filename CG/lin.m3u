@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Tele Congo
+http://trn03.bozztv.com/gin-telecongo/index.m3u8
+#EXTINF:-1 group-title="general",Tele Congo 720p
+http://51.254.199.122:8080/telecongo/index.m3u8

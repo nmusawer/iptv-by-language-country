@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="movies",Afghan Nobel Movies 720p
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+#EXTINF:-1 group-title="general",Afghan Nobel TV 720p
+https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8
+#EXTINF:-1 group-title="general",Sohail TV 1080p
+https://iptv.sohailtv.com/sohail/playlist/index.m3u8

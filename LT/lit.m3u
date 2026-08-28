@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 group-title="",Balticum TV 576p
+http://stream.mcquack.net/376/index.m3u8
+#EXTINF:-1 group-title="",BTV 576p
+http://stream.mcquack.net/35/index.m3u8
+#EXTINF:-1 group-title="entertainment",Lietuvos Rytas TV 1080p
+https://live.lietuvosryto.tv/live/hls/eteris.m3u8
+#EXTINF:-1 group-title="general",LNK 1080p
+http://stream.mcquack.net/30/index.m3u8
+#EXTINF:-1 group-title="music",LRT Klasika 1080p
+https://stream-live.lrt.lt/klasika/master.m3u8
+#EXTINF:-1 group-title="general",LRT Lituanica 1080p
+https://stream-live.lrt.lt/lituanica/master.m3u8
+#EXTINF:-1 group-title="music",LRT Opus 1080p
+https://stream-live.lrt.lt/opus/master.m3u8
+#EXTINF:-1 group-title="culture,sports",LRT Plius 1080p
+https://stream-live.lrt.lt/plius/master.m3u8
+#EXTINF:-1 group-title="culture,sports",LRT Plius 1080p
+http://stream.mcquack.net/353/index.m3u8
+#EXTINF:-1 group-title="news",LRT Radijas 1080p
+https://stream-live.lrt.lt/radijas/master.m3u8
+#EXTINF:-1 group-title="general",LRT TV 1080p
+https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8
+#EXTINF:-1 group-title="general",LRT TV 1080p
+http://stream.mcquack.net/31/index.m3u8
+#EXTINF:-1 group-title="music",M-1 480p
+https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
+#EXTINF:-1 group-title="music",Power Hit Radio 576p
+https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
+#EXTINF:-1 group-title="",TV3 1080p
+http://stream.mcquack.net/29/index.m3u8
+#EXTINF:-1 group-title="",TV6 576p
+http://stream.mcquack.net/375/index.m3u8
+#EXTINF:-1 group-title="",TV8 576p
+http://stream.mcquack.net/374/index.m3u8

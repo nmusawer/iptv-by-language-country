@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",BBN TV 720p
+https://streamer2.nexgen.bz/06-BBN/index.m3u8
+#EXTINF:-1 group-title="travel",BHA TV 1080p
+https://streamer2.nexgen.bz/15-BHA/index.m3u8
+#EXTINF:-1 group-title="general",Channel 7 720p
+https://streamer2.nexgen.bz/07-CHANNEL7/index.m3u8
+#EXTINF:-1 group-title="entertainment",Color Blind TV 1080p
+https://streamer2.nexgen.bz/12-CBTV/index.m3u8
+#EXTINF:-1 group-title="news",CTV3 720p
+https://streamer2.nexgen.bz/03-CTVOW/index.m3u8
+#EXTINF:-1 group-title="religious",Guadalupe Media 720p
+https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
+#EXTINF:-1 group-title="music",Hitz TV 1080p
+https://streamer2.nexgen.bz/13-HITZ/index.m3u8
+#EXTINF:-1 group-title="news",Love Television 720p
+https://streamer2.nexgen.bz/01-LOVE/index.m3u8
+#EXTINF:-1 group-title="music",Max TV 1080p
+https://streamer2.nexgen.bz/14-MAX/index.m3u8
+#EXTINF:-1 group-title="news",PGTV 720p
+https://streamer2.nexgen.bz/16-PGTV/index.m3u8
+#EXTINF:-1 group-title="general",PlusTV 720p
+https://streamer2.nexgen.bz/04-PLUS/index.m3u8
+#EXTINF:-1 group-title="entertainment",The National Channel 10 1080p
+https://streamer2.nexgen.bz/10-TNC/index.m3u8
+#EXTINF:-1 group-title="sports",TNC Sports 1080p
+https://streamer1.nexgen.bz/TNC_SPORTS/index.m3u8
+#EXTINF:-1 group-title="general",Vibes Media 480p
+https://streamer2.nexgen.bz/09-POSVIBES/index.m3u8
+#EXTINF:-1 group-title="music",WAVE TV 480p
+https://streamer2.nexgen.bz/08-WAVE/index.m3u8
+#EXTINF:-1 group-title="general",XTV 720p
+https://streamer2.nexgen.bz/02-KREM/index.m3u8

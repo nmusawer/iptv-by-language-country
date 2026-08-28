@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="kids",JimJam
+http://88.212.15.19/live/jim_jam_hun/index.m3u8
+#EXTINF:-1 group-title="",Sorozat+
+http://88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="",Viasat2
+http://88.212.15.19/live/viasat2/index.m3u8
+#EXTINF:-1 group-title="",Viasat 3
+http://88.212.15.19/live/viasat3/index.m3u8
+#EXTINF:-1 group-title="",Viasat 6
+http://88.212.15.19/live/viasat6/index.m3u8
+#EXTINF:-1 group-title="movies",Viasat Film
+http://88.212.15.19/live/viasat_film/index.m3u8

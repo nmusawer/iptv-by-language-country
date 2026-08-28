@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="religious",Angel TV 720p
+https://janya-digimix.akamaized.net/vglive-sk-109639/nepali/ngrp:angelnepali_all/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Nepal 1 396p
+https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
+#EXTINF:-1 group-title="entertainment",Nepal 1
+https://cdn-6.pishow.tv/live/1490/master.m3u8
+#EXTINF:-1 group-title="entertainment",Nepal 1 576p
+https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8

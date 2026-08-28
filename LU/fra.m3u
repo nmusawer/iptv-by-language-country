@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="lifestyle",Luxe TV 1080p
+http://103.154.3.101:5001/live/1736.m3u8
+#EXTINF:-1 group-title="lifestyle",Luxe TV 1080p
+http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8
+#EXTINF:-1 group-title="entertainment",RTL9 720p
+http://145.239.5.177/308/index.m3u8
+#EXTINF:-1 group-title="general",RTL Zwee 1080p
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8

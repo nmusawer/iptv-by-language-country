@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="sports",Arena Sport 1 720p
+https://nl1.nghk.ai/AS1HRHD/index.m3u8
+#EXTINF:-1 group-title="sports",Arena Sport 2 720p
+https://nl1.nghk.ai/AS2HRHD/index.m3u8
+#EXTINF:-1 group-title="sports",Arena Sport 3 1080p
+https://nl1.nghk.ai/AS3HRHD/index.m3u8
+#EXTINF:-1 group-title="sports",Arena Sport 4 1080p
+https://nl1.nghk.ai/AS4HRHD/index.m3u8
+#EXTINF:-1 group-title="sports",Arena Sport 5 720p
+https://nl1.nghk.ai/AS5HRHD/index.m3u8
+#EXTINF:-1 group-title="sports",Arena Sport 6 720p
+https://nl1.nghk.ai/AS6HRHD/index.m3u8
+#EXTINF:-1 group-title="sports",Arena Sport 7 720p
+https://nl1.nghk.ai/AS7HRHD/index.m3u8
+#EXTINF:-1 group-title="sports",Arena Sport 8 1080p
+https://nl1.nghk.ai/AS8HRHD/index.m3u8
+#EXTINF:-1 group-title="sports",Arena Sport 9 1080p
+https://nl1.nghk.ai/AS9HRHD/index.m3u8
+#EXTINF:-1 group-title="sports",Arena Sport 10 720p
+https://nl1.nghk.ai/AS10HRHD/index.m3u8

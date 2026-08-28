@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 group-title="news",Assam Talks 576p
+http://tvsen7.aynascope.net/AssamTalks/index.m3u8
+#EXTINF:-1 group-title="news",Assam Talks 576p
+https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
+#EXTINF:-1 group-title="general",DD Assam 504p
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
+#EXTINF:-1 group-title="news",DY 365 360p
+https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
+#EXTINF:-1 group-title="general",Jonack 576p
+http://103.175.73.12:8080/live/676/master.m3u8
+#EXTINF:-1 group-title="general",Jonack 576p
+https://cdn-6.pishow.tv/live/10006/master.m3u8
+#EXTINF:-1 group-title="general",Jonack 360p
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 group-title="news",News18 Assam North-East 1080p
+https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="news",News Live 576p
+https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
+#EXTINF:-1 group-title="news",News Live 576p
+https://cdn-6.pishow.tv/live/10011/master.m3u8
+#EXTINF:-1 group-title="news",NK TV 24x7 1080p
+https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
+#EXTINF:-1 group-title="entertainment",Pear TV 576p
+http://103.175.73.12:8080/live/695/master.m3u8
+#EXTINF:-1 group-title="entertainment",Pear TV 576p
+https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
+#EXTINF:-1 group-title="news",Prag News 576p
+https://streams.tangotv.in/PRAGNEWS/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="news",Pratham Khabar 24x7 576p
+https://livelegitpro.in/hls2/newstime/index.m3u8
+#EXTINF:-1 group-title="news",Pratidin Time 576p
+https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8
+#EXTINF:-1 group-title="news",Pratidin Time 576p
+https://streams.tangotv.in/PROTIDINTIME/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="",Ramdhenu 576p
+https://cdn-7.pishow.tv/live/10016/master.m3u8
+#EXTINF:-1 group-title="",Ramdhenu 576p
+https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/index.m3u8
+#EXTINF:-1 group-title="",Rang 576p
+https://cdn-7.pishow.tv/live/10017/master.m3u8
+#EXTINF:-1 group-title="",Rang 576p
+https://streams.tangotv.in/RANG/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="",Rengoni 576p
+http://103.175.73.12:8080/live/709/master.m3u8
+#EXTINF:-1 group-title="",Rengoni 396p
+https://d1msejlow1t3l4.cloudfront.net/fta/rengonitv/playlist.m3u8
+#EXTINF:-1 group-title="",Rengoni 576p
+https://streams.tangotv.in/RENGONI/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="entertainment",Spondon 1080p
+https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Spondon 576p
+https://cdn-7.pishow.tv/live/10019/master.m3u8
+#EXTINF:-1 group-title="entertainment",Spondon 576p
+https://mumt05.tangotv.in/87NeALx2SPONDON/index.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="relax",MyZen TV 1080p
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 group-title="relax",MyZen TV 1080p
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8

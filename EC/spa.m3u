@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",America Estereo Guayaquil 360p
+https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
+#EXTINF:-1 group-title="general",America Estereo Ibarra 720p
+https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
+#EXTINF:-1 group-title="general",America Estereo Quito 1080p
+https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
+#EXTINF:-1 group-title="general",America Estereo Tulcan 614p
+https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
+#EXTINF:-1 group-title="",Antena Uno Radiovideo 360p
+https://tvdatta.com:3578/live/antenaunolive.m3u8
+#EXTINF:-1 group-title="religious",Asomavision 614p
+https://asomatv.cloud-ip.cc/livestream/stream.m3u8
+#EXTINF:-1 group-title="general",Austral TV 1080p
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Bacan Te Veo 360p
+https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
+#EXTINF:-1 group-title="general",Capricho TV 720p
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+#EXTINF:-1 group-title="culture",Ciracu TV 720p
+https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
+#EXTINF:-1 group-title="general",Curiquingue TV 720p
+https://video2.lhdserver.es/pjtv/live.m3u8
+#EXTINF:-1 group-title="general",Duende Tv 720p
+https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8
+#EXTINF:-1 group-title="general",Duran TV 480p
+https://cloudvideo.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 group-title="news",Ecotel TV 720p
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 group-title="general",Ecuador TV 1080p
+http://45.224.97.181:9999/EcuadorTV/index.m3u8
+#EXTINF:-1 group-title="general",Ecuador TV
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
+#EXTINF:-1 group-title="music",EcuaMundo Radio TV 720p
+https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
+#EXTINF:-1 group-title="general",Ecuavisa 1080p
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+#EXTINF:-1 group-title="general",Ecuavisa 1080p
+http://45.171.108.253:8888/ECUAVISA/index.m3u8
+#EXTINF:-1 group-title="general",Ecuavisa 1080p
+http://45.224.97.181:9999/Ecuavisa/index.m3u8
+#EXTINF:-1 group-title="general",Ecuavisa 1080p
+http://177.234.249.178:8888/ECUAVISA/index.m3u8
+#EXTINF:-1 group-title="general",Ecuavisa 1080p
+http://179.60.51.134:8888/ECUAVISA/index.m3u8
+#EXTINF:-1 group-title="general",Ecuavisa 1080p
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1 group-title="education",Educa TV 720p
+https://avm.ecuamedia.net/educatv/live/playlist.m3u8
+#EXTINF:-1 group-title="music",El Sol Network TV 1080p
+https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
+#EXTINF:-1 group-title="music",FM Mundo 1080p
+https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+#EXTINF:-1 group-title="general",Gamavision 1080p
+http://45.224.97.181:9999/Gamavision/index.m3u8
+#EXTINF:-1 group-title="general",Gamavision 720p
+https://stream.esradioecuador.com/hls/stream.m3u8
+#EXTINF:-1 group-title="entertainment",Gaviota TV
+https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
+#EXTINF:-1 group-title="general",GM7 Digital
+https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
+#EXTINF:-1 group-title="general",Hechos Ecuador 1080p
+https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
+#EXTINF:-1 group-title="religious",IeanJesus Ecuador 720p
+https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="general",Imperio TV Canal 6 720p
+https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8
+#EXTINF:-1 group-title="music",Infinita TV 1080p
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1 group-title="education",Inti TV 1080p
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+#EXTINF:-1 group-title="general",KCHTV 1080p
+http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",La Nueva Radio TV 97.7 1080p
+https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
+#EXTINF:-1 group-title="music",La Perla Radio TV 720p
+https://eu1.servers10.com:8081/8068/index.m3u8
+#EXTINF:-1 group-title="entertainment",LatacungaTV 360p
+https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
+#EXTINF:-1 group-title="general",Loreto TV 720p
+https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
+#EXTINF:-1 group-title="general",Majestad Television 720p
+https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
+#EXTINF:-1 group-title="entertainment",MakroDigital Television 1080p
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",MakroDigital Television 720p
+http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8
+#EXTINF:-1 group-title="culture",Manavision 480p
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+#EXTINF:-1 group-title="general",Marca TV 1080p
+http://200.7.219.221:8088/live/livetv/index.m3u8
+#EXTINF:-1 group-title="news",Mario Pinto TV 720p
+https://eu1.servers10.com:8081/8028/index.m3u8
+#EXTINF:-1 group-title="entertainment",Mel Radio TV 360p
+https://eu1.servers10.com:8081/8334/index.m3u8
+#EXTINF:-1 group-title="music",Metropoli Medios TV 720p
+https://eu1.servers10.com:8081/8214/index.m3u8
+#EXTINF:-1 group-title="general",Multicanal Catamayo 720p
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 group-title="general",Nuka TV 720p
+https://cloudvideo.servers10.com:8081/8118/index.m3u8
+#EXTINF:-1 group-title="general",Ondas Quevedenas TV 720p
+https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
+#EXTINF:-1 group-title="general",Oromar TV 1080p
+http://45.224.97.181:9999/Oromar/index.m3u8
+#EXTINF:-1 group-title="general",Oromar TV 1080p
+http://179.60.51.134:8888/OROMAR-TV/index.m3u8
+#EXTINF:-1 group-title="general",Oromar TV 720p
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 group-title="general",Oromar TV+ 720p
+https://stream.oromar.tv/hls/camriva/index.m3u8
+#EXTINF:-1 group-title="movies,series",Pantalla Clasica EC 512p
+https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+#EXTINF:-1 group-title="general",Planeta Channel
+https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
+#EXTINF:-1 group-title="general",Plus TV 720p
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 group-title="general",Puruwa TV 1080p
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+#EXTINF:-1 group-title="music",Radio Bonita 106.7 720p
+https://cloudvideo.servers10.com:8081/8154/index.m3u8
+#EXTINF:-1 group-title="music",Radio Cuenca Estereo 720p
+https://eu1.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 group-title="music",Radio Fantastica 98.9 FM 1080p
+http://190.107.232.9:8082/livestream/stream.m3u8
+#EXTINF:-1 group-title="",Radio Impacto 2 288p
+https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8
+#EXTINF:-1 group-title="music",Radio Monumental TV 720p
+https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
+#EXTINF:-1 group-title="general",Red TVE Ventanas 432p
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+#EXTINF:-1 group-title="general",RTRTV 1080p
+https://tv3ecuador.site/hls/stream/index.m3u8
+#EXTINF:-1 group-title="general",RTS 1080p
+http://45.171.108.253:8888/RTS/index.m3u8
+#EXTINF:-1 group-title="general",RTS 1080p
+http://45.224.97.181:9999/RTS/index.m3u8
+#EXTINF:-1 group-title="general",RTS 1080p
+http://177.234.249.178:8888/RTS/index.m3u8
+#EXTINF:-1 group-title="general",RTS 720p
+http://157.100.248.242:8080/RTSHD/index.m3u8
+#EXTINF:-1 group-title="general",RTS 480p
+https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 group-title="news",RTU 1080p
+https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
+#EXTINF:-1 group-title="news",RTU 1080p
+http://45.224.97.181:9999/RTU/index.m3u8
+#EXTINF:-1 group-title="general",RTV 720p
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+#EXTINF:-1 group-title="",Sono Onda TV 720p
+https://live.obslivestream.com/sonoondatv/index.m3u8
+#EXTINF:-1 group-title="general",TC Television 1080p
+http://45.224.97.181:9999/TC/index.m3u8
+#EXTINF:-1 group-title="general",TC Television 1080p
+http://177.234.249.178:8888/TC/index.m3u8
+#EXTINF:-1 group-title="general",TC Television
+http://177.234.218.66:8084/play/a089/index.m3u8
+#EXTINF:-1 group-title="general",Teleamazonas 1080p
+http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8
+#EXTINF:-1 group-title="general",Teleamazonas 1080p
+http://45.224.97.181:9999/Teleamazonas/index.m3u8
+#EXTINF:-1 group-title="general",Teleamazonas 720p
+http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
+#EXTINF:-1 group-title="general",Teleamazonas 720p
+http://179.60.51.134:8888/TELEAMAZONAS/index.m3u8
+#EXTINF:-1 group-title="general",Teleamazonas 1080p
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
+#EXTINF:-1 group-title="general",Telecosta
+https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8
+#EXTINF:-1 group-title="general",Telemar 720p
+https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+#EXTINF:-1 group-title="general",Telerama 240p
+https://play.once.net.ec/telerama/live.tv/538.m3u8
+#EXTINF:-1 group-title="general",Telesucesos 720p
+https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/streams/UIO-HD_adaptive.m3u8
+#EXTINF:-1 group-title="general",TVC 1080p
+http://45.224.97.181:9999/TVC/index.m3u8
+#EXTINF:-1 group-title="general",TVC 720p
+http://157.100.248.242:8080/TVCHD/index.m3u8
+#EXTINF:-1 group-title="general",TVC 480i
+https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 group-title="general",TV Cisne 1080p
+https://video2.lhdserver.es/tvcisne/live.m3u8
+#EXTINF:-1 group-title="general",TV Color Canal 36 720p
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+#EXTINF:-1 group-title="legislative",TV Legislativa 1080p
+https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
+#EXTINF:-1 group-title="general",TvOro 1080p
+http://45.187.0.19:9090/tvusa/index.m3u8
+#EXTINF:-1 group-title="religious",TV Universal Ecuador 720p
+https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
+#EXTINF:-1 group-title="education",UEBI TV Online 720p
+https://ventaxtv.com:3575/live/uebilive.m3u8
+#EXTINF:-1 group-title="education",UNIANDES TV 720p
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+#EXTINF:-1 group-title="",Unsion TV 1080p
+http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
+#EXTINF:-1 group-title="",VitoTVO 1080p
+http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
+#EXTINF:-1 group-title="music",Vos y TV 720p
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+#EXTINF:-1 group-title="general",Wuan+
+https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
+#EXTINF:-1 group-title="general",Zaracay TV 1080p
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8

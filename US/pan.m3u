@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Diya TV 1080p
+https://stream.diyatvinc.com/diya.m3u8
+#EXTINF:-1 group-title="culture",Jus Punjabi 1080p
+http://103.154.3.101:5001/live/959.m3u8

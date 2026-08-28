@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="news",Almahriah TV 576p
+https://starmenajo.com/hls/almahriah/index.m3u8
+#EXTINF:-1 group-title="religious",Al-Rafidain TV 720p
+https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
+#EXTINF:-1 group-title="general",Elsharq TV 1080p
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 group-title="news",Mekameleen TV 1080p
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Qaf TV 1080p
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
+#EXTINF:-1 group-title="news",TRT Arabi 1080p
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8

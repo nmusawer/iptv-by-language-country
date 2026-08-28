@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",3 Stones TV 240p
+https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
+#EXTINF:-1 group-title="general",Nice TV Kenya 720p
+https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
+#EXTINF:-1 group-title="religious",Pillar TV 720p
+https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="movies",FILMBOX+ Emotion
+http://213.91.179.28:8000/play/a04r
+#EXTINF:-1 group-title="movies",FILMBOX+ Love & Crime
+http://213.91.179.28:8000/play/a066
+#EXTINF:-1 group-title="movies",FILMBOX+ One
+http://213.91.179.28:8000/play/a06i

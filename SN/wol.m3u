@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="music",A2i Music 720p
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1 group-title="education",A2i Naija 720p
+https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+#EXTINF:-1 group-title="religious",A2i Religion 720p
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+#EXTINF:-1 group-title="general",RTS 3 720p
+http://145.239.5.177/224/index.m3u8

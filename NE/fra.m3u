@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Dounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8
+#EXTINF:-1 group-title="news",Saraounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
+#EXTINF:-1 group-title="entertainment",Tal TV 1080p
+https://mediaserver1.castpin.com/hls/taltv/index.m3u8
+#EXTINF:-1 group-title="general",Tele Sahel 1080p
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8

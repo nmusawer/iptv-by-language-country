@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 group-title="entertainment",7/8 TV
+http://213.91.179.28:8000/play/a0cn
+#EXTINF:-1 group-title="auto",100% Auto Moto TV 406p
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 group-title="outdoor",Agro TV 480p
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 group-title="business",Bloomberg TV Bulgaria
+http://213.91.179.28:8000/play/a04m
+#EXTINF:-1 group-title="general",BNT 1 1080p
+https://shift03.isp.bg/BNT1_HD/index.m3u8
+#EXTINF:-1 group-title="general",BNT 1
+http://213.91.179.28:8000/play/a046
+#EXTINF:-1 group-title="general",BNT 2 1080p
+https://shift03.isp.bg/BNT2_HD/index.m3u8
+#EXTINF:-1 group-title="general",BNT 2
+http://213.91.179.28:8000/play/a049
+#EXTINF:-1 group-title="general",BNT 3 1080p
+https://shift03.isp.bg/BNT3_HD/index.m3u8
+#EXTINF:-1 group-title="general",BNT 3
+http://213.91.179.28:8000/play/a03x
+#EXTINF:-1 group-title="general",BNT 4 1080p
+https://shift03.isp.bg/BNT4_HD/index.m3u8
+#EXTINF:-1 group-title="general",BNT 4
+http://213.91.179.28:8000/play/a04u
+#EXTINF:-1 group-title="music",BOX TV
+http://213.91.179.28:8000/play/a0an
+#EXTINF:-1 group-title="general",bTV
+http://213.91.179.28:8000/play/a03w
+#EXTINF:-1 group-title="movies",bTV Action
+http://213.91.179.28:8000/play/a04n
+#EXTINF:-1 group-title="movies",bTV Cinema
+http://213.91.179.28:8000/play/a04i
+#EXTINF:-1 group-title="comedy",bTV Comedy
+http://213.91.179.28:8000/play/a04k
+#EXTINF:-1 group-title="movies",bTV Lady
+http://213.91.179.28:8000/play/a05i
+#EXTINF:-1 group-title="news",Bulgaria On Air
+http://213.91.179.28:8000/play/a05x
+#EXTINF:-1 group-title="movies",cine.box
+http://212.70.131.37:8000/play/a08b
+#EXTINF:-1 group-title="movies",CineStar 1 Bulgaria
+http://213.91.179.28:8000/play/a05h
+#EXTINF:-1 group-title="music",City TV 576p
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 group-title="lifestyle",Code Fashion TV 1080p
+https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1 group-title="lifestyle",Code Health TV 1080p
+https://cdn2.invivo.bg/codehealth_test/index.m3u8
+#EXTINF:-1 group-title="movies",Diema
+http://213.91.179.28:8000/play/a045
+#EXTINF:-1 group-title="family",Diema Family
+http://213.91.179.28:8000/play/a047
+#EXTINF:-1 group-title="kids",Disney Channel
+http://213.91.179.28:8000/play/a059
+#EXTINF:-1 group-title="music",DSTV 614p
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 group-title="kids",EKids 576p
+http://78.108.244.134:8899/ekids
+#EXTINF:-1 group-title="general",Eurocom 360p
+https://live.ecomservice.bg/hls/stream.m3u8
+#EXTINF:-1 group-title="news",Euronews Bulgaria
+http://213.91.179.28:8000/play/a05e
+#EXTINF:-1 group-title="documentary",H2
+http://213.91.179.28:8000/play/a03r
+#EXTINF:-1 group-title="documentary",History
+http://213.91.179.28:8000/play/a0c1
+#EXTINF:-1 group-title="music",Hit Mix Music
+http://213.91.179.28:8000/play/a0cl
+#EXTINF:-1 group-title="religious",Hope Channel Bulgaria
+https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
+#EXTINF:-1 group-title="documentary",ID
+http://213.91.179.28:8000/play/a0cf
+#EXTINF:-1 group-title="movies",Kino Nova
+http://213.91.179.28:8000/play/a041
+#EXTINF:-1 group-title="religious",Light Channel 480p
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 group-title="music",Magic TV 720p
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 group-title="sports",Max Sport 1 720p
+http://213.91.179.28:8000/play/a0as
+#EXTINF:-1 group-title="sports",Max Sport 2 720p
+http://213.91.179.28:8000/play/a0at
+#EXTINF:-1 group-title="sports",Max Sport 3 720p
+http://213.91.179.28:8000/play/a0ar
+#EXTINF:-1 group-title="sports",Max Sport 4
+http://213.91.179.28:8000/play/a05n
+#EXTINF:-1 group-title="movies",Movie Star 720p
+https://shift03.isp.bg/MovieStar/index.m3u8
+#EXTINF:-1 group-title="movies",Movie Star
+http://85.14.32.26:8800/udp/239.100.10.160:5000
+#EXTINF:-1 group-title="documentary",National Geographic
+http://213.91.179.28:8000/play/a0ct
+#EXTINF:-1 group-title="documentary",National Geographic Wild
+http://213.91.179.28:8000/play/a0cu
+#EXTINF:-1 group-title="kids",Nickelodeon
+http://213.91.179.28:8000/play/a056
+#EXTINF:-1 group-title="classic",Nostalgia
+http://213.91.179.28:8000/play/a03q
+#EXTINF:-1 group-title="general",Nova
+http://213.91.179.28:8000/play/a03l
+#EXTINF:-1 group-title="news",Nova News
+http://213.91.179.28:8000/play/a063
+#EXTINF:-1 group-title="religious",Plovdiv Orthodox TV 1080p
+http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+#EXTINF:-1 group-title="kids",RING
+http://213.91.179.28:8000/play/a06e
+#EXTINF:-1 group-title="",RMTV 288p
+https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 group-title="movies",Star Channel
+http://213.91.179.28:8000/play/a0c9
+#EXTINF:-1 group-title="series",Star Crime
+http://213.91.179.28:8000/play/a0cs
+#EXTINF:-1 group-title="series",Star Life
+http://213.91.179.28:8000/play/a0cr
+#EXTINF:-1 group-title="music",The Voice 720p
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1 group-title="entertainment",This is Bulgaria HD 1080p
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+#EXTINF:-1 group-title="music",Tiankov Folk 576p
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+#EXTINF:-1 group-title="music",Tiankov Orient Folk 576p
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:-1 group-title="travel",Travel TV 576p
+https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:-1 group-title="movies",TV1000
+http://85.14.32.26:8800/udp/239.100.10.100:5000
+#EXTINF:-1 group-title="music",TV Rodina 1080p
+https://shift03.isp.bg/RodinaTV/index.m3u8
+#EXTINF:-1 group-title="general",TV Spravedliva Bulgariya
+https://tv.tvsb.bg/112.m3u8
+#EXTINF:-1 group-title="general",TV Zagora 576p
+http://zagoratv.ddns.net:8080/tvzagora.m3u8
+#EXTINF:-1 group-title="documentary",Viasat Explore 1080p
+https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+#EXTINF:-1 group-title="documentary",Viasat History 1080p
+https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+#EXTINF:-1 group-title="documentary",Viasat Nature 1080p
+https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+#EXTINF:-1 group-title="",Vivacom Arena
+http://213.91.179.28:8000/play/a053

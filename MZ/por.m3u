@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",MNTV
+https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
+#EXTINF:-1 group-title="kids",Reino Infantil
+https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
+#EXTINF:-1 group-title="general",TVM 480p
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",TVM 480p
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",TVM
+https://stream.tvm.co.mz/hls/tvm/playlist.m3u8
+#EXTINF:-1 group-title="religious",TV Mana Mocambique 720p
+http://145.239.5.177/141/index.m3u8
+#EXTINF:-1 group-title="religious",TV Mana Mocambique 1080p
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",TVM Internacional 480p
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",TV Vitoria 720p
+https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8

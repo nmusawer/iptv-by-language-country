@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",CAtv 1080p
+https://video2.getstreamhosting.com:19360/8216/8216.m3u8
+#EXTINF:-1 group-title="religious",CDM Internacional 480p
+https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
+#EXTINF:-1 group-title="business",DeFiance Media 1080p
+https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8

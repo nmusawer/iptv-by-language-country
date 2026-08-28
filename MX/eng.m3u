@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="comedy",Distrito Comedia 1080p
+http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 group-title="",Panico 576p
+http://181.78.8.199:8000/play/a0bt/index.m3u8

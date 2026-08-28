@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",31 Kanal 576p
+http://stream.mcquack.net/388/index.m3u8
+#EXTINF:-1 group-title="general",31 Kanal
+https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8
+#EXTINF:-1 group-title="culture",Abai TV 720p
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 group-title="",Alau TV 576p
+https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:-1 group-title="general",Aqjaiyq 576p
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:-1 group-title="general",Aqtobe 576p
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1 group-title="general",Astana TV 576p
+http://stream.mcquack.net/28/index.m3u8
+#EXTINF:-1 group-title="general",Atyray 720p
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:-1 group-title="kids",Balapan 1080p
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 group-title="kids",Balapan International 1080p
+https://live-3.otcnet.ru/Balapan/index.m3u8
+#EXTINF:-1 group-title="general",Ertis 1080p
+https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1 group-title="general",Jambyl 360p
+https://stream.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:-1 group-title="general",Jibek Joly 1080p
+https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
+#EXTINF:-1 group-title="general",Kokshe 720p
+https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1 group-title="general",KTK 720p
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 group-title="general",KTK 720p
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",KTK 576p
+http://stream.mcquack.net/26/index.m3u8
+#EXTINF:-1 group-title="general",Mangystay 540p
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+#EXTINF:-1 group-title="music",MuzzOne
+https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
+#EXTINF:-1 group-title="general",Novoe televidenie 576p
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 group-title="general",Novoe televidenie
+https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
+#EXTINF:-1 group-title="general",NTK 576p
+http://stream.mcquack.net/389/index.m3u8
+#EXTINF:-1 group-title="general",Ontustik 360p
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+#EXTINF:-1 group-title="general",Qazaqstan 1080p
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+#EXTINF:-1 group-title="general",Qazaqstan 1080p
+http://stream.mcquack.net/71/index.m3u8
+#EXTINF:-1 group-title="general",Qazaqstan 1080p
+https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8
+#EXTINF:-1 group-title="general",Qazaqstan International
+https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="sports",QazSport 1080p
+http://stream.mcquack.net/72/index.m3u8
+#EXTINF:-1 group-title="sports",QazSport 480p
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Qonaev Media
+https://s.qonaevtv.kz/live/qonaev/playlist.m3u8
+#EXTINF:-1 group-title="",Qostanai 576p
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1 group-title="",Qyzyljar 720p
+https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+#EXTINF:-1 group-title="general",Qyzylorda 720p
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1 group-title="general",Rika TV 480p
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+#EXTINF:-1 group-title="general",Saryarqa 720p
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1 group-title="general",Semei 1080p
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1 group-title="general",Silk Way 1080p
+https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
+#EXTINF:-1 group-title="general",Silk Way
+https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
+#EXTINF:-1 group-title="movies",Silk Way Cinema 1080p
+https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
+#EXTINF:-1 group-title="general",Ulytau
+https://ulytau.tv/hls/master.m3u8

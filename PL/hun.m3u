@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="movies",FILMBOX+ Comedy 576p
+http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="movies",FILMBOX+ Emotion 1080p
+http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="movies",FILMBOX+ One
+http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8

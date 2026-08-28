@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="",Univision Latin America 1080p
+http://15.204.246.24:8080/UnivisionHD/index.m3u8
+#EXTINF:-1 group-title="",Univision Latin America 1080p
+http://177.234.249.178:8888/UNIVISION/index.m3u8
+#EXTINF:-1 group-title="",Univision Latin America 1080p
+http://190.93.224.42/UNIVISION/index.m3u8

@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 group-title="music",4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="music",4 Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="music",4 Music
+https://itthls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="",Iran Nama
+https://iran613hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="movies",Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="movies",Persiana Cinema
+https://todayhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="comedy",Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="documentary",Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="movies",Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="sports",Persiana Fight
+https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="music",Persiana Folk
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="movies",Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="kids",Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="movies",Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="movies",Persiana Latino
+https://latinohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="education",Persiana Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="education",Persiana Medical
+https://tfnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="music,classic",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="movies",Persiana Plus
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="entertainment",Persiana Reality
+https://twohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="series",Persiana Series
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="kids",Persiana Teen
+https://kphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="documentary",Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="documentary",Persiana Travel
+https://mardomhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="entertainment",Persiana Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="music",Persiana Vibe
+https://raphls.persiana.live/hls/stream.m3u8

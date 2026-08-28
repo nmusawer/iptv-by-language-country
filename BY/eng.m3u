@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="news",Belarus-24 1080p
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 group-title="news",Belarus-24 576p
+https://streaming.thestream.cyou/live/7003.m3u8
+#EXTINF:-1 group-title="news",Belarus-24 576p
+http://ott-7.sevstar.net/belarus24/index.m3u8
+#EXTINF:-1 group-title="news",Belarus-24 576p
+http://31.148.48.15/Belarus_24/index.m3u8

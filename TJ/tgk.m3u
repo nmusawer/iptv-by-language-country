@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Badakhshon 576p
+https://live.teleradiocom.tj/11/3m.m3u8
+#EXTINF:-1 group-title="general",Dushanbe HD 1080p
+https://live.teleradiocom.tj/7/3m.m3u8
+#EXTINF:-1 group-title="sports",Futbol 1080p
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 group-title="science",Ilm va Tabiat 1080p
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 group-title="general",Jahonnamo 1080p
+https://live.teleradiocom.tj/4/3m.m3u8
+#EXTINF:-1 group-title="general",Khatlon 576p
+https://live.teleradiocom.tj/10/3m.m3u8
+#EXTINF:-1 group-title="general",TMT 1080p
+https://live.teleradiocom.tj/9/3m.m3u8
+#EXTINF:-1 group-title="general",Tojikiston 1080p
+https://live.teleradiocom.tj/1/3m.m3u8
+#EXTINF:-1 group-title="kids",TV Bahoriston 1080p
+https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1 group-title="general",TV Kulob 576p
+https://live.teleradiocom.tj/12/3m.m3u8
+#EXTINF:-1 group-title="",TV Safina 1080p
+https://live.teleradiocom.tj/2/3m.m3u8
+#EXTINF:-1 group-title="travel",TV Sayohi 1080p
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 group-title="",TV Sinamo 1080p
+https://live.teleradiocom.tj/6/3m.m3u8
+#EXTINF:-1 group-title="general",TV Sugd 1080p
+https://live.teleradiocom.tj/14/3m.m3u8

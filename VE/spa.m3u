@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTINF:-1 group-title="",AbejalesTV 720p
+https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Aguacate TV 1080p
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 group-title="religious",Alcance TV 720p
+https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8
+#EXTINF:-1 group-title="general",Anzoategui TV 360p
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 group-title="sports",AS3 Sport TV 1080p
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="religious",Audaz TV 432p
+https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
+#EXTINF:-1 group-title="general",Barinas TV 720p
+https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8
+#EXTINF:-1 group-title="music",BTA TV 720p
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 group-title="general",Canal 21 Tachira 360p
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-1 group-title="general",Canal C del Zulia 1080p
+https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8
+#EXTINF:-1 group-title="culture",Canal Diplomatico
+https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
+#EXTINF:-1 group-title="news",Canal I 1080p
+https://streaming.canal-i.com/canal-i/live/master.m3u8
+#EXTINF:-1 group-title="general",Catatumbo TV 406p
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+#EXTINF:-1 group-title="animation",eSports Max TV
+https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
+#EXTINF:-1 group-title="science",EXC TV 720p
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+#EXTINF:-1 group-title="general",GlobalTV 480p
+https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
+#EXTINF:-1 group-title="general",Globovision 576p
+http://181.78.8.199:8000/play/a09k/index.m3u8
+#EXTINF:-1 group-title="general",Grande TV 720p
+https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8
+#EXTINF:-1 group-title="general",Grande TV
+https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
+#EXTINF:-1 group-title="entertainment",Guaro TV 720p
+https://stream.guarotv.net:3592/hybrid/play.m3u8
+#EXTINF:-1 group-title="entertainment",Inter TV 1080p
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 group-title="general",Isla TV 480p
+https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
+#EXTINF:-1 group-title="music",Italianissimo 360p
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+#EXTINF:-1 group-title="music",KandelaTV 480p
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:-1 group-title="music",LaPuraCrema Television
+https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Lara en Redes
+https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
+#EXTINF:-1 group-title="entertainment",La Tele Tuya 576p
+http://181.78.8.199:8000/play/a0fs/index.m3u8
+#EXTINF:-1 group-title="general",Latina TV 1080p
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 group-title="religious",LGD Television 720p
+https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
+#EXTINF:-1 group-title="entertainment",Mas Talk 1080p
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+#EXTINF:-1 group-title="animation",MAX Anime 1080p
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Maxima TV
+https://maximatv.net/hls/stream.m3u8
+#EXTINF:-1 group-title="sports",Meridiano TV 576p
+http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1 group-title="general",Monagas Vision 720p
+https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Nortena Tv 576p
+https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
+#EXTINF:-1 group-title="general",Oasis Television 720p
+http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8
+#EXTINF:-1 group-title="general",Onza TV 720p
+https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
+#EXTINF:-1 group-title="general",Onza TV
+https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
+#EXTINF:-1 group-title="music",Oxigeno TV 360p
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1 group-title="lifestyle",Plous TV 1080p
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 group-title="general",Portuguesa Television 480p
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+#EXTINF:-1 group-title="religious",Proclamacion TV
+https://video2.getstreamhosting.com:19360/8000/8000.m3u8
+#EXTINF:-1 group-title="general",PromarTV 1080p
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+#EXTINF:-1 group-title="general",PromarTV 576p
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-1 group-title="religious",Reforma TV 1080p
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 group-title="culture,music",ShowVen TV 720p
+https://cdnbarinas.tvzamora.com/showven/index.m3u8
+#EXTINF:-1 group-title="general",Siembra TV
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
+#EXTINF:-1 group-title="general",Somos TV 720p
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
+#EXTINF:-1 group-title="general",TAM TV
+https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
+#EXTINF:-1 group-title="general",TeleAragua 480p
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+#EXTINF:-1 group-title="general",Telebocono 720p
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8
+#EXTINF:-1 group-title="general",Telecentro 480p
+https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
+#EXTINF:-1 group-title="news",Telesur 1080p
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 group-title="news",Telesur 720p
+http://45.190.28.50/TELESUR_HD/index.m3u8
+#EXTINF:-1 group-title="news",Telesur 720p
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8
+#EXTINF:-1 group-title="news",Telesur 480p
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 group-title="general",Televen 576p
+http://181.78.8.199:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="general",Televisora de Oriente 406p
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+#EXTINF:-1 group-title="general",TNO Radio 720p
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
+#EXTINF:-1 group-title="general",Torococo TV 720p
+https://us.streaminghd.cl/torococotelevision/video.m3u8
+#EXTINF:-1 group-title="general",TRT 410p
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+#EXTINF:-1 group-title="general",Tu TV 720p
+https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
+#EXTINF:-1 group-title="general",TV Andes 720p
+https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8
+#EXTINF:-1 group-title="family",TV Familia 720p
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+#EXTINF:-1 group-title="family",TV Familia
+https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
+#EXTINF:-1 group-title="general",TVM para ti 1080p
+https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
+#EXTINF:-1 group-title="general",TV Oasis Monay 720p
+https://servilive.com:3562/live/vav4c8z38live.m3u8
+#EXTINF:-1 group-title="general",TVS 720p
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:-1 group-title="general",UniTV 720p
+https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
+#EXTINF:-1 group-title="general",Vale TV 480p
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+#EXTINF:-1 group-title="general",Vale TV 480p
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+#EXTINF:-1 group-title="general",Venevision 720p
+http://177.234.249.178:8888/VENEVISION/index.m3u8
+#EXTINF:-1 group-title="general",Venevision 576p
+http://181.78.8.199:8000/play/a0if/index.m3u8
+#EXTINF:-1 group-title="general",Venevision 480p
+https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
+#EXTINF:-1 group-title="general",Venevision Internacional 720p
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 group-title="general",Vepaco TV 480p
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+#EXTINF:-1 group-title="general",Wata Vision
+https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8

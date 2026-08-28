@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="news",i24NEWS English World 1080p
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 group-title="news",i24NEWS English World 1080p
+https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8
+#EXTINF:-1 group-title="kids",TeenNick
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8

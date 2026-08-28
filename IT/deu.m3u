@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="shop",Juwelo 480p
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
+#EXTINF:-1 group-title="outdoor,travel",Peer TV Sudtirol 1080p
+https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:-1 group-title="",Rai Sudtirol
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8

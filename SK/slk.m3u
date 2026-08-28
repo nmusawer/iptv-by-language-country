@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 group-title="news",:24 1080p
+http://88.212.15.27/live/test_trojka_25p/playlist.m3u8
+#EXTINF:-1 group-title="news",Antik Info TV 1080p
+https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
+#EXTINF:-1 group-title="sports",Arena Sport 1
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+#EXTINF:-1 group-title="sports",Arena Sport 2
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1 group-title="kids",ducktv PLUS
+https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+#EXTINF:-1 group-title="documentary",Dvojka
+http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
+#EXTINF:-1 group-title="comedy",HAHA TV
+https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
+#EXTINF:-1 group-title="general",Jednotka
+http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
+#EXTINF:-1 group-title="religious",LifeTv 1080p
+https://lifetv.mpks.sk/s.m3u8
+#EXTINF:-1 group-title="general",MTR 1080p
+https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+#EXTINF:-1 group-title="general",NZTV 486p
+http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1 group-title="general",NZTV
+https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
+#EXTINF:-1 group-title="",Prima Cool SK 1080p
+http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="",Prima Krimi SK
+http://88.212.15.19/live/prima_krimi_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="",Prima love SK 1080p
+http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="",Prima SK
+http://88.212.15.19/live/test_prima_plus_25p/playlist.m3u8
+#EXTINF:-1 group-title="",Senzi 720p
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+#EXTINF:-1 group-title="sports",Sport 1080p
+http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 group-title="general",Televizia Mocenok 720p
+https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
+#EXTINF:-1 group-title="",Turbo TV 1080p
+https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="",TV8 576p
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="",TV8 360p
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="",TV8
+https://dash3.antik.sk/live/test_osem/playlist.m3u8
+#EXTINF:-1 group-title="",TV9
+https://dash4.antik.sk/live/test_tv9/playlist.m3u8
+#EXTINF:-1 group-title="general",TV Brezova 540p
+http://95.105.193.219:88/hls/tvb.m3u8
+#EXTINF:-1 group-title="",TV Central 540p
+https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
+#EXTINF:-1 group-title="",TV Central
+https://dash4.antik.sk/live/test_central/playlist.m3u8
+#EXTINF:-1 group-title="",TV DK 486p
+http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
+#EXTINF:-1 group-title="",TV DK 486p
+https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
+#EXTINF:-1 group-title="general",TV Liptov 1080p
+http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
+#EXTINF:-1 group-title="",TV LocAll 406p
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+#EXTINF:-1 group-title="",TV LocAll
+https://dash3.antik.sk/live/test_locall/playlist.m3u8
+#EXTINF:-1 group-title="",TV Lux 720p
+https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w617812057.m3u8
+#EXTINF:-1 group-title="",TV Lux 720p
+https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="general",TV Mistral
+https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
+#EXTINF:-1 group-title="general",TV Myjava 540p
+http://95.105.193.219:88/hls/tvm.m3u8
+#EXTINF:-1 group-title="general",TV Nitricka
+https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
+#EXTINF:-1 group-title="legislative",TV NRSR 720p
+https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
+#EXTINF:-1 group-title="general",TV Panorama
+https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8
+#EXTINF:-1 group-title="general",TV Poprad 1080p
+http://213.81.153.221:8080/poprad
+#EXTINF:-1 group-title="",TV Povazie 1080p
+https://dash3.antik.sk/live/test_povazie/playlist.m3u8
+#EXTINF:-1 group-title="",TV Raj 720p
+https://ottst05.flexitv.sk/2827-tv-pc.m3u8
+#EXTINF:-1 group-title="",TV Romana 720p
+http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
+#EXTINF:-1 group-title="",TV Ruzinov 1080p
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+#EXTINF:-1 group-title="general",TV Sen 540p
+http://95.105.193.219:88/hls/tvsen.m3u8
+#EXTINF:-1 group-title="",TV Severka 576p
+http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
+#EXTINF:-1 group-title="general",TV Skalica 540p
+http://95.105.193.219:88/hls/tvs.m3u8
+#EXTINF:-1 group-title="general",TV Stara Tura 540p
+http://95.105.193.219:88/hls/tvst.m3u8
+#EXTINF:-1 group-title="",TVT 486p
+https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
+#EXTINF:-1 group-title="",TV Vega 576p
+http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8
+#EXTINF:-1 group-title="culture",TV Vita
+https://dash3.antik.sk/live/test_vita/playlist.m3u8
+#EXTINF:-1 group-title="",VIO TV 480p
+http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
+#EXTINF:-1 group-title="general",Zapadoslovenska TV
+https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8

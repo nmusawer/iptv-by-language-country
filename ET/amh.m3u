@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Addis TV 720p
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+#EXTINF:-1 group-title="news",Mereja TV 1080p
+https://rumble.com/live-hls-dvr/4c14o3/playlist.m3u8
+#EXTINF:-1 group-title="news",Mereja TV
+https://g4wlkqp8l23a-hls-live.5centscdn.com/MerejaTV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 group-title="religious",Nesiha TV 720p
+https://stream.cisk.tech/nasihatv/index.m3u8

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="religious",ABN TV India 540p
+https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
+#EXTINF:-1 group-title="general",Diya TV 1080p
+https://stream.diyatvinc.com/diya.m3u8
+#EXTINF:-1 group-title="culture",Jus Hindi 1080p
+http://103.154.3.101:5001/live/960.m3u8
+#EXTINF:-1 group-title="culture",Jus One 1080p
+http://103.154.3.101:5001/live/961.m3u8
+#EXTINF:-1 group-title="religious",LLBN TV South Asia 480p
+https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8
+#EXTINF:-1 group-title="",Sony KAL Hindi 1080p
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="",The Q India 576p
+http://103.175.73.12:8080/live/25/25_0.m3u8
+#EXTINF:-1 group-title="",The Q India 576p
+https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8

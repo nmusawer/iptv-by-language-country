@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="kids",BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+#EXTINF:-1 group-title="kids",BabyFirst 720p
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+#EXTINF:-1 group-title="kids",BabyFirst 480p
+http://181.78.106.127:5000/play/a0sa/index.m3u8

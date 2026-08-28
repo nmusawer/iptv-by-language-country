@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="",RTV 1 576p
+mmsh://212.200.255.151/rtv1
+#EXTINF:-1 group-title="",RTV 1 576p
+rtsp://212.200.255.151/rtv1

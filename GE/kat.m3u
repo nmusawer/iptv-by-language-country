@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",1TV 720p
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 group-title="general",1TV
+http://nue01-edge01.itdc.ge/gpb/mpegts
+#EXTINF:-1 group-title="general",2 TV 720p
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 group-title="sports",Adjarasport 1
+https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
+#EXTINF:-1 group-title="business",BMG TV
+https://tv.nucast.tv/lb/ge/bmg/index.m3u8
+#EXTINF:-1 group-title="comedy",Comedy TV
+http://31.146.5.178:8087/play/a00b/index.m3u8
+#EXTINF:-1 group-title="religious",Ertsulovneba
+https://stream.sstv.ge/live/sstv/playlist.m3u8
+#EXTINF:-1 group-title="news",Euronews Georgia
+http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
+#EXTINF:-1 group-title="news",Formula 1080p
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 group-title="news",Formula 1080p
+https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
+#EXTINF:-1 group-title="general",GDS TV
+http://31.146.5.178:8087/play/a00a/index.m3u8
+#EXTINF:-1 group-title="general",GMS TV
+http://158.101.222.193:88/georgia_play.php?id=gms
+#EXTINF:-1 group-title="general",Imedi TV 1080p
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 group-title="general",Imedi TV
+http://nue01-edge01.itdc.ge/imedihd/mpegts
+#EXTINF:-1 group-title="general",Mtavari Arkhi
+https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8
+#EXTINF:-1 group-title="news",Obieqtivi TV
+https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
+#EXTINF:-1 group-title="news",Palitra News 480p
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 group-title="news",Palitra News 480p
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 group-title="",Rioni TV 720p
+http://video.rionitv.com:9090/hls/live/rioni.m3u8
+#EXTINF:-1 group-title="",Rustavi 2
+http://31.146.5.178:8087/play/a008/index.m3u8
+#EXTINF:-1 group-title="",Rustavi 2
+http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
+#EXTINF:-1 group-title="sports",Setanta Sports 3
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
+#EXTINF:-1 group-title="general",TVC 1080p
+http://31.146.5.178:8087/play/a009/index.m3u8
+#EXTINF:-1 group-title="general",TV Pirveli
+http://nue01-edge01.itdc.ge/pirvelitv/mpegts

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Afaq TV
+https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8
+#EXTINF:-1 group-title="news",Channel8 720p
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-1 group-title="news",Dijlah TV 1080p
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:-1 group-title="religious",Imam Hussein TV 3 1080p
+https://live.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:-1 group-title="religious",Imam Hussein TV 3 1080p
+http://en.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:-1 group-title="religious",Marjaeyat TV English 1080p
+https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8

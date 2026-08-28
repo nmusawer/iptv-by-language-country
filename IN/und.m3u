@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="music",B4U Music 576p
+http://103.175.73.12:8080/live/157/master.m3u8
+#EXTINF:-1 group-title="music",ETV Music 1080p
+https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+#EXTINF:-1 group-title="business",NDTV Profit 1080p
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8

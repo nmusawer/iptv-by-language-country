@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="music",Muzyka Pervogo 576p
+http://stream.mcquack.net/153/index.m3u8
+#EXTINF:-1 group-title="music",Muzyka Pervogo
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="general",Za! TV
+https://streaming.televizor-24-tochka.ru/live/25.m3u8

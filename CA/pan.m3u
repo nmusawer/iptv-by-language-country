@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="entertainment",5AAB TV 720p
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 group-title="culture",Dukh Nivaran 720p
+http://cdn12.henico.net:8080/live/dncal/index.m3u8
+#EXTINF:-1 group-title="general",Gaunda Punjab TV 720p
+http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 group-title="news",Hamdard TV 1080p
+https://tv.hamdardtv.com/hamdard/index.m3u8
+#EXTINF:-1 group-title="entertainment",Prime Canada TV 720p
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+#EXTINF:-1 group-title="",PTC Punjabi Canada 1080p
+https://stream.ottlive.co.in/ptccanada/index.m3u8
+#EXTINF:-1 group-title="",Sikh Spiritual Centre Rexdale 720p
+https://cdn12.henico.net:8443/live/ssct/index.m3u8
+#EXTINF:-1 group-title="news",TV Punjab 720p
+https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8

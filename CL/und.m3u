@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="animation",EnerGeek 720p
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 group-title="culture",Suyai TV 720p
+https://origin.skarnetchile.com:8081/suyai-tv-hd/index.m3u8

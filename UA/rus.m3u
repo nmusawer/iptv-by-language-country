@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 group-title="news,business",100% NEWS 576p
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 group-title="culture",ATR 720p
+https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
+#EXTINF:-1 group-title="general",Black Sea TV
+https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
+#EXTINF:-1 group-title="",Dacha 1080p
+https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
+#EXTINF:-1 group-title="education",Fauna 576p
+http://stream.mcquack.net/401/index.m3u8
+#EXTINF:-1 group-title="movies,series",FilmUADrama 1080p
+http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF:-1 group-title="movies,series",FilmUADrama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+#EXTINF:-1 group-title="news",FREEDOM
+https://dash2.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 group-title="news",FREEDOM 1080p
+https://dash4.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 group-title="news",FREEDOM 720p
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1 group-title="movies",Kino 1 1080p
+http://stream.mcquack.net/395/index.m3u8
+#EXTINF:-1 group-title="movies",Kino 2 1080p
+http://stream.mcquack.net/465/index.m3u8
+#EXTINF:-1 group-title="entertainment",Kvartal TV
+http://158.101.222.193:88/georgia_play.php?id=kvartal95
+#EXTINF:-1 group-title="entertainment",Kvartal TV International
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+#EXTINF:-1 group-title="general",Lugansk 24
+https://streaming.televizor-24-tochka.ru/live/29.m3u8
+#EXTINF:-1 group-title="movies",Nashe Lubimoe Kino Ukraine 1080p
+http://stream.mcquack.net/456/index.m3u8
+#EXTINF:-1 group-title="science",Nauka 576p
+http://stream.mcquack.net/403/index.m3u8
+#EXTINF:-1 group-title="entertainment",Novyi Channel 1080p
+http://stream.mcquack.net/157/index.m3u8
+#EXTINF:-1 group-title="news",Obshchestvennoe Nezavisimoe Televidenie 576p
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 group-title="general",Pervyy gorodskoy. Odessa 1080p
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 group-title="general",Pervyy gorodskoy. Odessa 576p
+http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Quiz TV 1080p
+http://stream.mcquack.net/397/index.m3u8
+#EXTINF:-1 group-title="legislative",Rada TV 1080p
+https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/RADA.m3u8
+#EXTINF:-1 group-title="entertainment",RAZ 1 1080p
+http://stream.mcquack.net/463/index.m3u8
+#EXTINF:-1 group-title="entertainment",RAZ 2 1080p
+http://stream.mcquack.net/464/index.m3u8
+#EXTINF:-1 group-title="sports",Setanta Sports+ Ukraine 1080p
+http://stream.mcquack.net/390/index.m3u8
+#EXTINF:-1 group-title="general",Simon 720p
+https://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1 group-title="sports",Sport 1 Baltic 1080p
+http://stream.mcquack.net/461/index.m3u8
+#EXTINF:-1 group-title="",Terra 576p
+http://stream.mcquack.net/402/index.m3u8
+#EXTINF:-1 group-title="outdoor",Trofei 1080p
+http://stream.mcquack.net/357/index.m3u8

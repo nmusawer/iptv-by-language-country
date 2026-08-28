@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 group-title="entertainment,family,general",1KZN TV 576p
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="music",BOKTV 720p
+https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
+#EXTINF:-1 group-title="general",Cape Town TV 576p
+https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Crime and Evidence 720p
+https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8
+#EXTINF:-1 group-title="religious",Faith Africa 1080p
+https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8
+#EXTINF:-1 group-title="religious",GNF TV 576p
+https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8
+#EXTINF:-1 group-title="religious",Homebase TV 576p
+https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8
+#EXTINF:-1 group-title="religious",Homebase TV 480p
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8
+#EXTINF:-1 group-title="religious",Hope Channel Africa 1080p
+https://jstre.am/live/jsl:i1onRBELcGV.m3u8
+#EXTINF:-1 group-title="news",LN24SA 1080p
+https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",NuView TV 360p
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8
+#EXTINF:-1 group-title="religious",RLW TV 576p
+https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8
+#EXTINF:-1 group-title="",ROV TV 576p
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8
+#EXTINF:-1 group-title="",SABC 1 720p
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
+#EXTINF:-1 group-title="",SABC 2
+https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
+#EXTINF:-1 group-title="news",SABC Lehae
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
+#EXTINF:-1 group-title="news",SABC News 720p
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+#EXTINF:-1 group-title="religious",Seraphim TV
+https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8
+#EXTINF:-1 group-title="entertainment,family",Soweto TV 576p
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="",Trigger
+https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8
+#EXTINF:-1 group-title="entertainment,family,general",Tshwane TV 576p
+https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",TV BRICS Africa 1080p
+https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="outdoor,relax,documentary,education",WildEarth 1080p
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 group-title="outdoor,relax,documentary,education",WildEarth 1080p
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
+#EXTINF:-1 group-title="outdoor,relax,documentary,education",WildEarth 1080p
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8
+#EXTINF:-1 group-title="outdoor,relax,documentary,education",WildEarth 1080p
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 group-title="outdoor,relax,documentary,education",WildEarth 1080p
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 group-title="outdoor,relax,documentary,education",WildEarth 1080p
+https://wildearth-xumo.amagi.tv/master.m3u8

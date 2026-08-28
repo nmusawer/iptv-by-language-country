@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="",Ilke TV 1080p
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+#EXTINF:-1 group-title="religious,culture,general",Sercem TV 1080p
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 group-title="",TRT Kurdi 720p
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="",Zarok TV 720p
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8

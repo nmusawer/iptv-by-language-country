@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="news",Euronews Russian 720p
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:-1 group-title="news",Euronews Russian 576p
+http://tmptv.sunduk.tv/CH31/index.m3u8
+#EXTINF:-1 group-title="news",Euronews Russian
+https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="relax",MyZen TV 1080p
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 group-title="relax",MyZen TV 1080p
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
+#EXTINF:-1 group-title="sports",Trace Sport Stars 720p
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8

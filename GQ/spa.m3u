@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="entertainment",SolTV 720p
+https://stream.solmediaeg.com/soltv/soltv.m3u8
+#EXTINF:-1 group-title="general",TVGE
+http://rtmp.ott.mx1.com/tvge1/tvge1/playlist.m3u8

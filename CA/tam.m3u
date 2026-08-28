@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="culture",EET TV 1080p
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 group-title="entertainment",Sooriyan TV 1080p
+https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+#EXTINF:-1 group-title="",TamilVision-TV 1080p
+https://live.cmr24.fm/TVI/HD/chunks.m3u8

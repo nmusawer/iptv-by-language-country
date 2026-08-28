@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",DR1 1080p
+https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
+#EXTINF:-1 group-title="general",DR1
+https://7nyaler.streamhostingcdn.top/stream/45/index.m3u8
+#EXTINF:-1 group-title="culture",DR2 1080p
+https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8
+#EXTINF:-1 group-title="kids",DR Ramasjang 720p
+https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8
+#EXTINF:-1 group-title="general",DRTV 1080p
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+#EXTINF:-1 group-title="general",Kanal Hovedstaden 720p
+http://khkbh.dk:8080/hls/livestream/index.m3u8
+#EXTINF:-1 group-title="religious",KKRtv 720p
+http://stream.kkr.dk/live/kkr/playlist.m3u8
+#EXTINF:-1 group-title="religious",KKRtv 720p
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
+#EXTINF:-1 group-title="",TV 2/Bornholm 1080p
+https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
+#EXTINF:-1 group-title="sports",TV 2 Sport
+https://7nyaler.streamhostingcdn.top/stream/57/index.m3u8
+#EXTINF:-1 group-title="",TV3+
+https://7nyaler.streamhostingcdn.top/stream/49/index.m3u8
+#EXTINF:-1 group-title="legislative",TV from the Danish Parliament 1080p
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 group-title="general",TVMarineret 1080p
+http://sdream.info:8080/hls/livestream/index.m3u8
+#EXTINF:-1 group-title="general",TV Storbyen 720p
+https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8

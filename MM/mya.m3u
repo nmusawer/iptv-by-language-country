@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 group-title="entertainment",5 Plus 720p
+https://mmtvs.exliatycl.online/5plus/stream.m3u8
+#EXTINF:-1 group-title="",Channel 9 720p
+https://mmtvs.exliatycl.online/channel9/stream.m3u8
+#EXTINF:-1 group-title="entertainment",Channel K 720p
+https://mmtvs.exliatycl.online/channelk/stream.m3u8
+#EXTINF:-1 group-title="news",DVB TV 720p
+https://live-stream.dvb.no/hls/stream_src/index.m3u8
+#EXTINF:-1 group-title="entertainment",Fortune TV 720p
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
+#EXTINF:-1 group-title="entertainment",Fortune TV 720p
+https://mmtvs.exliatycl.online/fortunetv/stream.m3u8
+#EXTINF:-1 group-title="legislative",Hluttaw S & D
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
+#EXTINF:-1 group-title="entertainment",M Entertainment Channel 720p
+https://mmtvs.exliatycl.online/mchannel/stream.m3u8
+#EXTINF:-1 group-title="general",MRTV
+https://mrtvott.com/cache/MRTV-HD/master.m3u8
+#EXTINF:-1 group-title="entertainment",MRTV Entertainment
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
+#EXTINF:-1 group-title="documentary,lifestyle",MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+#EXTINF:-1 group-title="news",MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+#EXTINF:-1 group-title="culture",MRTV NRC
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
+#EXTINF:-1 group-title="sports",MRTV Sports
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+#EXTINF:-1 group-title="general",MWD 720p
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 group-title="documentary",MWD Documentary
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1 group-title="movies",MWD Movies
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1 group-title="entertainment",MWD Variety 720p
+http://203.81.84.130/hls/mwd_variety/index.m3u8

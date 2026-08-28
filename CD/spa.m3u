@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="news",Le Monde en 24h
+https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8

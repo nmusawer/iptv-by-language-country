@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="news",DW 1080p
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1 group-title="movies",Nash Kinomir 576p
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 group-title="culture,news",Ost West 24 1080p
+http://stream.mcquack.net/455/index.m3u8
+#EXTINF:-1 group-title="news,culture",Ost West 576p
+http://hls127.freeott.top:8080/OstWest/video.m3u8
+#EXTINF:-1 group-title="",TVRUS
+http://213.91.179.28:8000/play/a082
+#EXTINF:-1 group-title="series",TVRUS+
+http://83.228.75.166:8000/play/a0aq

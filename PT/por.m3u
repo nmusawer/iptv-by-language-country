@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 group-title="religious",ADB TV 1080p
+https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
+#EXTINF:-1 group-title="legislative",ARTV 720p
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1 group-title="movies",AXN
+http://znty.dyndns.org:5010/hls/axn.m3u8
+#EXTINF:-1 group-title="movies",AXN Movies 720p
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:-1 group-title="kids",Disney Channel 1080p
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 group-title="kids",Disney Channel
+http://zntx.dyndns.org:8085/hls/disney.m3u8
+#EXTINF:-1 group-title="music",Famatv 1080p
+https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+#EXTINF:-1 group-title="movies",Kuriakos Cine 1080p
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 group-title="animation,kids,religious",Kuriakos Kids 1080p
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 group-title="music",Kuriakos Music 1080p
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 group-title="religious",Kuriakos TV 1080p
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 group-title="religious",Mana Igreja Online 1080p
+https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
+#EXTINF:-1 group-title="music",NPC Radio e TV 720p
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
+#EXTINF:-1 group-title="music",ON FM 720p
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1 group-title="general",Porto Canal 720p
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",Radio Sines 720p
+https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
+#EXTINF:-1 group-title="music",RFPtv 360p
+https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
+#EXTINF:-1 group-title="general",RTP 1 720p
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",RTP 2 720p
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",RTP Acores 720p
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",RTP Acores 504p
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",RTP Africa 504p
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",RTP Madeira 504p
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",RTP Memoria 504p
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",RTP Mundo
+https://op-group1-swiftservehd-1.dens.tv/s/s38/index.m3u8
+#EXTINF:-1 group-title="general",RTP Mundo 504p
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title="news",RTP Noticias 720p
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 group-title="news",RTP Noticias 504p
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",SIC 1080p
+https://sic.live.impresa.pt/sic.m3u8
+#EXTINF:-1 group-title="",SIC Alta Definicao 1080p
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+#EXTINF:-1 group-title="",SIC Mulher
+http://zntx.dyndns.org:8085/hls/sicm.m3u8
+#EXTINF:-1 group-title="news",SIC Noticias 1080p
+https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:-1 group-title="",SIC Radical
+http://znty.dyndns.org:5010/hls/sicr.m3u8
+#EXTINF:-1 group-title="",SIC Replay 1080p
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+#EXTINF:-1 group-title="sports",Sport TV1
+http://znty.dyndns.org:5010/hls/stv1.m3u8
+#EXTINF:-1 group-title="sports",Sport TV2
+http://znty.dyndns.org:5010/hls/stv2.m3u8
+#EXTINF:-1 group-title="sports",Sport TV5
+http://znty.dyndns.org:5010/hls/stv5.m3u8
+#EXTINF:-1 group-title="sports",Sport TV6
+http://zntx.dyndns.org:8085/hls/stv6.m3u8
+#EXTINF:-1 group-title="sports",Sport TV7
+http://zntx.dyndns.org:8085/hls/stv7.m3u8
+#EXTINF:-1 group-title="sports",Sport TV+
+http://znty.dyndns.org:5010/hls/sportv+.m3u8
+#EXTINF:-1 group-title="entertainment",Star Channel
+http://znty.dyndns.org:5010/hls/fox.m3u8
+#EXTINF:-1 group-title="comedy",Star Comedy
+http://znty.dyndns.org:5010/hls/foxcomedy.m3u8
+#EXTINF:-1 group-title="lifestyle",Star Crime
+http://znty.dyndns.org:5010/hls/foxcrime.m3u8
+#EXTINF:-1 group-title="lifestyle",Star Life
+http://znty.dyndns.org:5010/hls/foxlife.m3u8
+#EXTINF:-1 group-title="movies",Star Movies
+http://znty.dyndns.org:5010/hls/foxm.m3u8
+#EXTINF:-1 group-title="general",TVI 720p
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
+#EXTINF:-1 group-title="general",TVI
+http://zntx.dyndns.org:8085/hls/tvi.m3u8
+#EXTINF:-1 group-title="series",TVI Ficcao 720p
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
+#EXTINF:-1 group-title="entertainment",TVI Reality 720p
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8
+#EXTINF:-1 group-title="religious",TV Mana 1 1080p
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+#EXTINF:-1 group-title="religious",TV Mana 2 1080p
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+#EXTINF:-1 group-title="religious",TV Mana Brasil 1080p
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",V+ TVI 720p
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8

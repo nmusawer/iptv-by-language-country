@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",DD Goa 504p
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
+#EXTINF:-1 group-title="news",RDX Goa 720p
+https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8

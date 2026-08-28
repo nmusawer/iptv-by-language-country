@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Barrandov Krimi 1080p
+https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="news",CNN Prima News 1080p
+http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:-1 group-title="general",CT1
+http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
+#EXTINF:-1 group-title="documentary",CT2
+http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 group-title="news",CT24 1080p
+http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
+#EXTINF:-1 group-title="news",CT24
+https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="kids",CT Decko 1080p
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="sports",CT Sport 720p
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="kids",Disney Channel
+http://88.212.15.19/live/test_disney/playlist.m3u8
+#EXTINF:-1 group-title="kids",Disney Junior
+http://88.212.15.19/live/test_disney_junior/playlist.m3u8
+#EXTINF:-1 group-title="",Elektrika TV 1080p
+https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="sports",Eurosport 4K Czechia
+http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
+#EXTINF:-1 group-title="movies",Film+
+http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 group-title="sports",Golf Channel
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 group-title="documentary",History
+http://88.212.15.19/live/test_history/playlist.m3u8
+#EXTINF:-1 group-title="general",JC1 1080p
+https://stream.jc1.cz/hls/jc1.m3u8
+#EXTINF:-1 group-title="general",Jihoceska televize 1080p
+https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
+#EXTINF:-1 group-title="movies",Kino Barrandov
+http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+#EXTINF:-1 group-title="",Mnau TV 1080p
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+#EXTINF:-1 group-title="documentary",National Geographic
+http://88.212.15.19/live/test_ngc/playlist.m3u8
+#EXTINF:-1 group-title="documentary",National Geographic Wild
+http://88.212.15.29/live/test_ngw/playlist.m3u8
+#EXTINF:-1 group-title="kids",Nickelodeon
+http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
+#EXTINF:-1 group-title="kids",Nicktoons
+http://88.212.15.19/live/test_nicktoons/playlist.m3u8
+#EXTINF:-1 group-title="music",Ocko 540p
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1 group-title="music",Ocko 540p
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 group-title="music",Ocko Black
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+#EXTINF:-1 group-title="music",Ocko Expres 540p
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1 group-title="music",Ocko Gold 540p
+https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:-1 group-title="music",Ocko Gold 540p
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 group-title="music",Ocko Star
+https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
+#EXTINF:-1 group-title="general",Plzen TV 1080p
+https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+#EXTINF:-1 group-title="general",Polar TV 1080p
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTINF:-1 group-title="general",Polar TV
+https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8
+#EXTINF:-1 group-title="",Prima 1080p
+http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="",Prima Cool
+http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8
+#EXTINF:-1 group-title="",Prima Krimi
+http://88.212.15.19/live/test_prima_krimi_cz/playlist.m3u8
+#EXTINF:-1 group-title="",Prima Love
+http://88.212.15.19/live/prima_love_cz_avc/index.m3u8
+#EXTINF:-1 group-title="",Prima Max
+http://88.212.15.19/live/test_prima_max_cz/playlist.m3u8
+#EXTINF:-1 group-title="",Prima Show 1080p
+http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8
+#EXTINF:-1 group-title="",Prima Star 1080p
+http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
+#EXTINF:-1 group-title="",Prima Zoom 1080p
+http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="music",Retro Music TV 360p
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="music",Retro Music TV 360p
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="music",Retro Music TV 360p
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="",RTM+ 720p
+https://www.rtmplus.cz/live/1-playlist.m3u8
+#EXTINF:-1 group-title="music",Slager Muzika
+https://stream-23.mazana.tv/slagrmuzika.m3u8s
+#EXTINF:-1 group-title="music",Slager Original
+https://stream-13.mazana.tv/slagroriginal.m3u8s
+#EXTINF:-1 group-title="documentary",Spektrum
+http://88.212.15.19/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Spektrum Home
+http://88.212.15.19/live/test_home_hevc/playlist.m3u8
+#EXTINF:-1 group-title="sports",Sport1
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 group-title="sports",Sport2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 group-title="sports",Sporty TV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:-1 group-title="general",Televize Prerov 1080p
+https://173.212.247.21/live/tvprerov.m3u8
+#EXTINF:-1 group-title="",Televize Seznam 1080p
+http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
+#EXTINF:-1 group-title="",TV Barrandov
+http://88.212.15.19/live/test_barrandov/playlist.m3u8
+#EXTINF:-1 group-title="general",TV Brno 1 1080p
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+#EXTINF:-1 group-title="",TV Noe 720p
+https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8
+#EXTINF:-1 group-title="general",TV Noe+ 720p
+https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8
+#EXTINF:-1 group-title="lifestyle,travel",TV Paprika
+http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="",Up Network
+https://dash.antik.sk/live/test_upnetwork/playlist.m3u8
+#EXTINF:-1 group-title="",UTV 1080p
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+#EXTINF:-1 group-title="documentary",Viasat Explore
+http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
+#EXTINF:-1 group-title="documentary",Viasat History
+http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8
+#EXTINF:-1 group-title="documentary",Viasat Nature
+http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1 group-title="",Vychodoceska TV 1080p
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8

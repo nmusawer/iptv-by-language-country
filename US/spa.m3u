@@ -1,0 +1,865 @@
+#EXTM3U
+#EXTINF:-1 group-title="religious",3ABN Latino
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+#EXTINF:-1 group-title="family",6 Wise Tv 720p
+https://live.enhdtv.com:8081/8150/index.m3u8
+#EXTINF:-1 group-title="series",Acapulco Shore
+https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
+#EXTINF:-1 group-title="movies",Adrenalina Pura TV 720p
+https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:-1 group-title="entertainment",Adult Swim Latin America 720p
+https://streamer.metronethn.com/AdultSwim/index.m3u8
+#EXTINF:-1 group-title="entertainment",A&E Latin America 1080p
+http://138.121.15.230:9002/A&E/index.m3u8
+#EXTINF:-1 group-title="entertainment",A&E Latin America 1080p
+http://190.93.224.42/AYE/index.m3u8
+#EXTINF:-1 group-title="entertainment",A&E Latin America 720p
+https://streamer.metronethn.com/AE/index.m3u8
+#EXTINF:-1 group-title="comedy",AFV Espanol 720p
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="religious",Aliento Vision 720p
+https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",AMC en Espanol 720p
+https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="movies",AMC Latin America 1080p
+http://15.204.246.24:8080/AMCHD/index.m3u8
+#EXTINF:-1 group-title="movies",AMC Latin America 1080p
+http://45.162.193.35/AMC/index.m3u8
+#EXTINF:-1 group-title="movies",AMC Latin America 720p
+https://streamer.metronethn.com/AMC/index.m3u8
+#EXTINF:-1 group-title="movies",AMC Latin America 1080p
+https://cdn1tlinkgo.tlink.cl/amchd/index.m3u8
+#EXTINF:-1 group-title="general",AMP 1 720p
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch1/video.m3u8
+#EXTINF:-1 group-title="culture",AMP 2 720p
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8
+#EXTINF:-1 group-title="series",Ana y los 7
+https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
+#EXTINF:-1 group-title="series",Andromeda
+https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
+#EXTINF:-1 group-title="series",Andromeda
+https://jmp2.uk/plu-663a163f8ea5560008a3f234.m3u8
+#EXTINF:-1 group-title="series",Andromeda
+https://jmp2.uk/plu-6177fb39b68ef1000725e59e.m3u8
+#EXTINF:-1 group-title="series",Andromeda
+https://jmp2.uk/plu-6178156e54712100072d6b2b.m3u8
+#EXTINF:-1 group-title="series",Andromeda
+https://jmp2.uk/plu-617807a1a3a6160007f615e4.m3u8
+#EXTINF:-1 group-title="documentary",Archivos Forenses
+https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
+#EXTINF:-1 group-title="documentary",Archivos Forenses
+https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
+#EXTINF:-1 group-title="legislative",ATL 26
+https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8
+#EXTINF:-1 group-title="kids",Avatar: La Leyenda de Aang
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+#EXTINF:-1 group-title="movies",AXN Latin America 1080p
+http://177.234.249.178:8888/AXN/index.m3u8
+#EXTINF:-1 group-title="movies",AXN Latin America 1080p
+http://138.121.15.230:9002/AXN/index.m3u8
+#EXTINF:-1 group-title="movies",AXN Latin America
+http://45.167.1.138:8000/play/a04s
+#EXTINF:-1 group-title="movies",AXN Latin America 1080p
+https://cdn1tlinkgo.tlink.cl/axnhd/index.m3u8
+#EXTINF:-1 group-title="movies",AXN Latin America
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+#EXTINF:-1 group-title="movies",AXN Latin America
+http://45.228.235.116:8000/play/a0iy/index.m3u8
+#EXTINF:-1 group-title="kids",BabyFirst 720p
+http://168.228.44.241:9997/play/a07u/index.m3u8
+#EXTINF:-1 group-title="kids",BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+#EXTINF:-1 group-title="kids",BabyFirst 720p
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+#EXTINF:-1 group-title="kids",BabyFirst 480p
+http://181.78.106.127:5000/play/a0sa/index.m3u8
+#EXTINF:-1 group-title="sports",beIN SPORTS XTRA en Espanol 1080p
+http://201.190.41.246:9060/play/a03y/index.m3u8
+#EXTINF:-1 group-title="sports",beIN SPORTS XTRA en Espanol 1080p
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 group-title="sports",beIN SPORTS XTRA en Espanol 720p
+https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
+#EXTINF:-1 group-title="sports",beIN SPORTS XTRA en Espanol 1080p
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="kids",Bob Esponja Pantalones Cuadrados 720p
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+#EXTINF:-1 group-title="religious",Canal de la Fe 720p
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8
+#EXTINF:-1 group-title="kids",Canal Infantil 1080p
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
+#EXTINF:-1 group-title="kids",Canal Infantil
+http://177.234.218.66:8084/play/a01x/index.m3u8
+#EXTINF:-1 group-title="entertainment",Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
+#EXTINF:-1 group-title="entertainment",Canela TV 1080p
+https://d3cx6yargdnl7q.cloudfront.net/canelatv.m3u8
+#EXTINF:-1 group-title="documentary",Cazador de Homicidas
+https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
+#EXTINF:-1 group-title="documentary",Cazador de Homicidas
+https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8
+#EXTINF:-1 group-title="religious",CBN Espanol 1080p
+https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8
+#EXTINF:-1 group-title="general",Cerritos TV3 360p
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
+#EXTINF:-1 group-title="movies",Cine Adrenalina
+https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
+#EXTINF:-1 group-title="movies",Cine Amor
+https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
+#EXTINF:-1 group-title="movies",Cinecanal 1080p
+http://138.121.15.230:9002/CINECANAL/index.m3u8
+#EXTINF:-1 group-title="movies",Cinecanal 1080p
+http://15.204.246.24:8080/CinecanalHD/index.m3u8
+#EXTINF:-1 group-title="movies",Cinecanal 1080p
+http://181.119.66.28:8081/CINECANAL-HD/index.m3u8
+#EXTINF:-1 group-title="movies",Cinecanal 1080p
+https://cdn1tlinkgo.tlink.cl/cinecanalhd/index.m3u8
+#EXTINF:-1 group-title="movies",Cinecanal 1080p
+http://45.162.193.35/CINECANAL/index.m3u8
+#EXTINF:-1 group-title="movies",Cine Familiar 1080p
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
+#EXTINF:-1 group-title="movies",Cine Familiar
+http://177.234.218.66:8084/play/a001/index.m3u8
+#EXTINF:-1 group-title="movies",Cine Hispano 1080p
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
+#EXTINF:-1 group-title="",Cinemax Latino 480p
+https://streamer.metronethn.com/Cinemax/index.m3u8
+#EXTINF:-1 group-title="movies",Cine Mexicano 1080p
+http://177.234.249.178:8888/AMERICA/index.m3u8
+#EXTINF:-1 group-title="movies",Cine Premiere
+https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
+#EXTINF:-1 group-title="movies",Cine Premium 1080p
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
+#EXTINF:-1 group-title="movies",Cine Premium
+http://190.61.90.17:40000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="lifestyle",CinePride 720p
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2223
+#EXTINF:-1 group-title="movies",Cine Sony 1080p
+http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
+#EXTINF:-1 group-title="movies",Cine Sony 720p
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 group-title="movies",Cine Terror
+https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
+#EXTINF:-1 group-title="movies",Cine Terror
+https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
+#EXTINF:-1 group-title="legislative",City TV Channel 3/41 360p
+https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
+#EXTINF:-1 group-title="comedy",Comedy Central en Espanol
+https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
+#EXTINF:-1 group-title="comedy",Comedy Central Latin America 1080p
+http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
+#EXTINF:-1 group-title="comedy",Comedy Central Latin America 1080p
+http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
+#EXTINF:-1 group-title="comedy",Comedy Central Latin America
+http://103.111.40.244:9999/play/a0i5/index.m3u8
+#EXTINF:-1 group-title="comedy",Comedy Central Pluto TV
+https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
+#EXTINF:-1 group-title="animation,comedy",Comedy Central South Park
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+#EXTINF:-1 group-title="general",Comercio TV 1080p
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16960
+#EXTINF:-1 group-title="general",Comercio TV 720p
+https://amg00082-amg00082c1-zapitv-emea-7424.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="general",Comercio TV 720p
+https://amg00082-tarima-amg00082c1-tunein-us-7960.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-tuneinus/playlist.m3u8
+#EXTINF:-1 group-title="general",Comercio TV 720p
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/basket_TV.stream/playlist.m3u8
+#EXTINF:-1 group-title="music",Concert Channel 720p
+https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
+#EXTINF:-1 group-title="general",CreaTV Channel 30 720p
+https://reflect-creatv.cablecast.tv/live-16/live/live.m3u8
+#EXTINF:-1 group-title="legislative",Cruz TV
+https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
+#EXTINF:-1 group-title="",CSI en espanol
+https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
+#EXTINF:-1 group-title="series",CSI: Miami
+https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
+#EXTINF:-1 group-title="",CTV 480p
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
+#EXTINF:-1 group-title="series",Curro Jimenez
+https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
+#EXTINF:-1 group-title="comedy",Daria
+https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
+#EXTINF:-1 group-title="religious",Daystar TV Espanol 720p
+https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
+#EXTINF:-1 group-title="movies",De Pelicula US 720p
+http://138.121.15.230:9002/DEPELICULA/index.m3u8
+#EXTINF:-1 group-title="animation,kids",Detective Conan
+https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
+#EXTINF:-1 group-title="movies",DHE 1080p
+http://15.204.246.24:8080/DHEHD/index.m3u8
+#EXTINF:-1 group-title="movies",DHE 1080p
+http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
+#EXTINF:-1 group-title="movies",DHE 1080p
+https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
+#EXTINF:-1 group-title="movies",DHE 720p
+http://177.234.249.178:8888/PARAMOUNT/index.m3u8
+#EXTINF:-1 group-title="movies",DHE 1080p
+https://cdn1tlinkgo.tlink.cl/dhehd/index.m3u8
+#EXTINF:-1 group-title="kids",Disney Channel 720p
+http://212.5.144.156/disney/index.m3u8
+#EXTINF:-1 group-title="kids",Disney Junior 720p
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 group-title="kids",Disney Junior 576p
+http://212.5.144.156/disneyjr/index.m3u8
+#EXTINF:-1 group-title="kids",Disney Junior 480p
+http://tvsen5.aynascope.net/disney/index.m3u8
+#EXTINF:-1 group-title="kids",Disney Junior 480p
+http://tvsen7.aynascope.net/disney/index.m3u8
+#EXTINF:-1 group-title="kids",Disney Junior 480p
+http://tvsen7.aynascope.net/disneyjr/index.m3u8
+#EXTINF:-1 group-title="kids",Disney XD 720p
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="news",DNews 720p
+http://38.19.16.151:8000/play/a0a3
+#EXTINF:-1 group-title="entertainment,news",E! Latin America 720p
+http://72.1.184.5:8089/play/a05d/index.m3u8
+#EXTINF:-1 group-title="entertainment,news",E! Latin America 1080p
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+#EXTINF:-1 group-title="series",El Comisario
+https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8
+#EXTINF:-1 group-title="series",El encantador de perros
+https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
+#EXTINF:-1 group-title="series",El encantador de perros
+https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
+#EXTINF:-1 group-title="religious",El Sembrador Nueva Evangelizacion ESNE
+http://190.61.90.17:40000/play/a025/index.m3u8
+#EXTINF:-1 group-title="series",Empenos a lo bestia
+https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
+#EXTINF:-1 group-title="series",Empenos a lo bestia
+https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8
+#EXTINF:-1 group-title="entertainment",En el punto de mira
+https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8
+#EXTINF:-1 group-title="sports",ESPN Deportes 720p
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="entertainment,family",Estrella Games 1080p
+https://estrella-games-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment,family",Estrella Games 1080p
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment,family",Estrella Games 1080p
+https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment,family",Estrella Games 1080p
+https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
+#EXTINF:-1 group-title="entertainment,family",Estrella Games 1080p
+https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8
+#EXTINF:-1 group-title="news",Estrella News 1080p
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="news",Estrella News 1080p
+https://amg00567-estrellamedia-estrellanews-distrotv-ddste.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-distrotv/playlist.m3u8
+#EXTINF:-1 group-title="news",Estrella News 720p
+https://estrellanews-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="news",Estrella News 1080p
+https://estrellanews-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="news",Estrella News 720p
+https://jmp2.uk/plu-60492e6d7f3f560007ab0f62.m3u8
+#EXTINF:-1 group-title="news",Estrella News 1080p
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="news",Estrella News 1080p
+https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="news",Estrella News 720p
+https://aegis-cloudfront-1.tubi.video/0383cf2d-1ca5-4765-aa18-ba81329a7b05/playlist.m3u8
+#EXTINF:-1 group-title="news",Estrella News 1080p
+https://estrellanews-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Estrella TV 1080p
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Estrella TV 1080p
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Estrella TV 1080p
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Estrella TV 1080p
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Estrella TV 720p
+https://jmp2.uk/plu-5cf0622da00ca1e2f6fac712.m3u8
+#EXTINF:-1 group-title="entertainment",Estrella TV 1080p
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Estrella TV 1080p
+https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8
+#EXTINF:-1 group-title="entertainment",Estrella TV 720p
+https://aegis-cloudfront-1.tubi.video/20bf77c0-dc60-46ae-8e87-c01cc7a836fc/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Estrella TV 1080p
+https://estrellatv-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="religious",EWTN 720p
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="religious",EWTN 720p
+https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="kids",FMH Kids 1080p
+https://cdn1tlinkgo.tlink.cl/fmhkidshd/index.m3u8
+#EXTINF:-1 group-title="movies",FMH Movies 1080p
+https://cdn1tlinkgo.tlink.cl/fmhmovies/index.m3u8
+#EXTINF:-1 group-title="documentary",Forensic Files
+https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
+#EXTINF:-1 group-title="documentary",Forensic Files
+https://jmp2.uk/plu-6181241c1a35d50007874c27.m3u8
+#EXTINF:-1 group-title="documentary",Forensic Files
+https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8
+#EXTINF:-1 group-title="documentary",Forensic Files
+https://jmp2.uk/plu-6181262dc68b92000780fed2.m3u8
+#EXTINF:-1 group-title="documentary",Forensic Files
+https://jmp2.uk/plu-618124b2e53c8d00077b37f8.m3u8
+#EXTINF:-1 group-title="documentary",Forensic Files
+https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
+#EXTINF:-1 group-title="sports",Fox Deportes 720p
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 group-title="sports",Fox Deportes 720p
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",FX Latin America 1080p
+http://15.204.246.24:8080/FXHD/index.m3u8
+#EXTINF:-1 group-title="entertainment",FX Latin America 1080p
+http://45.162.193.35/FX/index.m3u8
+#EXTINF:-1 group-title="entertainment",FX Latin America 1080p
+http://181.119.66.28:8081/FX-HD/index.m3u8
+#EXTINF:-1 group-title="entertainment",FX Latin America 1080p
+http://190.93.224.42/FX/index.m3u8
+#EXTINF:-1 group-title="entertainment",FX Latin America 1080p
+https://cdn1tlinkgo.tlink.cl/fxhd/index.m3u8
+#EXTINF:-1 group-title="entertainment",FX Latin America 720p
+http://72.1.184.5:8089/play/a05i/index.m3u8
+#EXTINF:-1 group-title="entertainment",FX Latin America 720p
+https://streamer.metronethn.com/FX/index.m3u8
+#EXTINF:-1 group-title="movies",FX Movie Channel 1080p
+https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
+#EXTINF:-1 group-title="movies",FX Movie Channel 720p
+http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8
+#EXTINF:-1 group-title="sports",Golf Channel Latin America 1080p
+http://15.204.246.24:8080/GolfChannelHD/index.m3u8
+#EXTINF:-1 group-title="sports",Golf Channel Latin America 1080p
+http://72.1.184.5:8089/play/a0cw/index.m3u8
+#EXTINF:-1 group-title="sports",Golf Channel Latin America 720p
+http://143.14.178.35/TCM-HD/index.m3u8
+#EXTINF:-1 group-title="kids",Hey Arnold!
+https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
+#EXTINF:-1 group-title="documentary",History 2 Latin America 1080p
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+#EXTINF:-1 group-title="documentary",History 2 Latin America 1080p
+http://177.234.249.178:8888/HISTORY2/index.m3u8
+#EXTINF:-1 group-title="documentary",History 2 Latin America 1080p
+http://181.119.66.28:8081/HISTORY-2/index.m3u8
+#EXTINF:-1 group-title="documentary",History 2 Latin America 1080p
+http://190.93.224.42/HISTORY-2/index.m3u8
+#EXTINF:-1 group-title="documentary",History 2 Latin America 1080p
+https://cdn1tlinkgo.tlink.cl/history2hd/index.m3u8
+#EXTINF:-1 group-title="documentary",History Latin America 1080p
+http://15.204.246.24:8080/HistoryHD/index.m3u8
+#EXTINF:-1 group-title="documentary",History Latin America 1080p
+http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
+#EXTINF:-1 group-title="documentary",History Latin America 1080p
+http://177.234.249.178:8888/HISTORY/index.m3u8
+#EXTINF:-1 group-title="documentary",History Latin America 1080p
+http://181.119.66.28:8081/History-HD/index.m3u8
+#EXTINF:-1 group-title="documentary",History Latin America 1080p
+http://190.93.224.42/HISTORY/index.m3u8
+#EXTINF:-1 group-title="entertainment",Hola! TV Latin America 1080p
+http://15.204.246.24:8080/HOLATVHD/index.m3u8
+#EXTINF:-1 group-title="entertainment",Hola! TV Latin America 1080p
+http://177.234.249.178:8888/HOLA-TV/index.m3u8
+#EXTINF:-1 group-title="religious",Hope Channel Inter-America
+https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
+#EXTINF:-1 group-title="series",iCarly
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
+#EXTINF:-1 group-title="series",Investiga
+https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
+#EXTINF:-1 group-title="education",KBEV 1080p
+https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1 group-title="series",Kenan & Kel
+https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
+#EXTINF:-1 group-title="entertainment",KFTR-DT 46.1
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+#EXTINF:-1 group-title="general",KMEX-DT 34.1
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
+#EXTINF:-1 group-title="entertainment",KRGV-TV 5.2
+https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8
+#EXTINF:-1 group-title="religious",KSCE 38.1 360p
+https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
+#EXTINF:-1 group-title="religious",KSCE 38.2 360p
+https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
+#EXTINF:-1 group-title="religious",KSCE 38.3 360p
+https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
+#EXTINF:-1 group-title="general",KUVN-DT 49.1
+https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
+#EXTINF:-1 group-title="legislative",LA CityView 35 1080p
+https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 group-title="music",La Que Buena Atlanta
+https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
+#EXTINF:-1 group-title="animation",Las Tortugas Ninja 720p
+https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
+#EXTINF:-1 group-title="entertainment",LATV 1080p
+https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",LATV 720p
+https://amg00779-latv-amg00779c1-klowdtv-us-2135.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-klowdtvus/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Lifetime Latin America 1080p
+http://138.121.15.230:9002/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="entertainment",Lifetime Latin America 1080p
+http://181.119.66.28:8081/Lifetime-HD/index.m3u8
+#EXTINF:-1 group-title="entertainment",Lifetime Latin America 720p
+http://181.209.105.115:2525/play/lifetime/index.m3u8
+#EXTINF:-1 group-title="entertainment",Lifetime Latin America 720p
+https://streamer.metronethn.com/Lifetime/index.m3u8
+#EXTINF:-1 group-title="entertainment",Lifetime Latin America 1080p
+https://cdn1tlinkgo.tlink.cl/lifetime/index.m3u8
+#EXTINF:-1 group-title="movies",Lifetime Movies 1080p
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1 group-title="religious",Living Faith TV 540p
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
+#EXTINF:-1 group-title="religious",LLBN TV Latino 480p
+https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
+#EXTINF:-1 group-title="series",Los archivos del FBI
+https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8
+#EXTINF:-1 group-title="series",Los archivos del FBI
+https://jmp2.uk/plu-5e67d41b93312100076f3fca.m3u8
+#EXTINF:-1 group-title="series",Los Asesinatos de Midsomer
+https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8
+#EXTINF:-1 group-title="series",Los Asesinatos de Midsomer
+https://jmp2.uk/plu-6764203df433320008836bc6.m3u8
+#EXTINF:-1 group-title="classic",MacGyver
+https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
+#EXTINF:-1 group-title="religious",Majestad TV 480p
+https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
+#EXTINF:-1 group-title="music",Metaleitor TV
+https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
+#EXTINF:-1 group-title="series",Mi Extrana Obsesion
+https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
+#EXTINF:-1 group-title="religious",Ministerio La Voz De Un Remanente TV
+https://vs20.live.opencaster.com/remanente_5925b089/index.m3u8
+#EXTINF:-1 group-title="series",Misterios sin resolver
+https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
+#EXTINF:-1 group-title="series",Misterios sin resolver
+https://jmp2.uk/plu-5f4d882d5233170007ee880e.m3u8
+#EXTINF:-1 group-title="sports",MLB Network 1080p
+https://messi.damitv.st/papi/ts/mlbnetwork-usa/playlist.m3u8
+#EXTINF:-1 group-title="sports",MLB Strike Zone 720p
+http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+#EXTINF:-1 group-title="movies",MoreMax 1080p
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="sports",MSG 720p
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:-1 group-title="entertainment",MTV2 720p
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:-1 group-title="music",MTV Biggest Pop 1080p
+https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
+#EXTINF:-1 group-title="entertainment",MTV Catfish 720p
+https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
+#EXTINF:-1 group-title="music",MTV Classic 720p
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+#EXTINF:-1 group-title="entertainment",MTV Con Mi Ex
+https://jmp2.uk/plu-638693db857364000781b471.m3u8
+#EXTINF:-1 group-title="series",MTV Dating 720p
+https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
+#EXTINF:-1 group-title="entertainment",MTV Drag
+https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
+#EXTINF:-1 group-title="entertainment",MTV en Espanol
+https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
+#EXTINF:-1 group-title="music",MTV Flow Latino 720p
+https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
+#EXTINF:-1 group-title="entertainment",MTV Latin America 1080p
+http://15.204.246.24:8080/MTVHD/index.m3u8
+#EXTINF:-1 group-title="entertainment",MTV Latin America 1080p
+http://179.60.51.134:8888/MTV/index.m3u8
+#EXTINF:-1 group-title="entertainment",MTV Latin America 720p
+https://streamer.metronethn.com/MTV/index.m3u8
+#EXTINF:-1 group-title="entertainment",MTV Pluto TV 720p
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
+#EXTINF:-1 group-title="entertainment",MTV Reality 720p
+https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
+#EXTINF:-1 group-title="entertainment",MTV Ridiculousness 720p
+https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
+#EXTINF:-1 group-title="entertainment",MTV Rocks
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
+#EXTINF:-1 group-title="series",MTV Teen Mom 720p
+https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
+#EXTINF:-1 group-title="animation",Naruto en espanol
+https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
+#EXTINF:-1 group-title="animation",Naruto Shippuden
+https://jmp2.uk/plu-64c92f965580090008084968.m3u8
+#EXTINF:-1 group-title="animation",Naruto Shippuden
+https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
+#EXTINF:-1 group-title="documentary",National Geographic Latin America 1080p
+http://15.204.246.24:8080/NatGeoHD/index.m3u8
+#EXTINF:-1 group-title="documentary",National Geographic Latin America 1080p
+http://45.162.193.35/NATGEO/index.m3u8
+#EXTINF:-1 group-title="documentary",National Geographic Latin America 1080p
+http://177.234.249.178:8888/NATGEO/index.m3u8
+#EXTINF:-1 group-title="documentary",National Geographic Latin America 1080p
+http://181.119.66.28:8081/NATGEO-HD/index.m3u8
+#EXTINF:-1 group-title="documentary",National Geographic Latin America 1080p
+http://190.93.224.42/NAT-GEO/index.m3u8
+#EXTINF:-1 group-title="documentary",National Geographic Latin America 1080p
+https://cdn1tlinkgo.tlink.cl/natgeohd/index.m3u8
+#EXTINF:-1 group-title="entertainment",NBC Universo 720p
+http://187.102.210.46/universo/index.m3u8
+#EXTINF:-1 group-title="entertainment",NBC Universo 720p
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1 group-title="series",NCIS
+https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
+#EXTINF:-1 group-title="news",Newsmax Spanish 1080p
+https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8
+#EXTINF:-1 group-title="news",News of the World 1080p
+https://live.nowtelly.com/now_spanish/live/playlist.m3u8
+#EXTINF:-1 group-title="kids",Nickelodeon Clasico 720p
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 group-title="kids",Nickelodeon Latin America 1080p
+http://15.204.246.24:8080/NickHD/index.m3u8
+#EXTINF:-1 group-title="kids",Nickelodeon Latin America 1080p
+http://177.234.249.178:8888/NICK/index.m3u8
+#EXTINF:-1 group-title="kids",Nickelodeon Latin America 1080p
+http://179.60.51.134:8888/NICK/index.m3u8
+#EXTINF:-1 group-title="kids",Nickelodeon Latin America 1080p
+http://190.93.224.42/NICK/index.m3u8
+#EXTINF:-1 group-title="kids",Nickelodeon Latin America 720p
+https://streamer.metronethn.com/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="kids",Nickelodeon Teen 720p
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+#EXTINF:-1 group-title="kids",Nickelodeon Toons 720p
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+#EXTINF:-1 group-title="kids",Nick Jr. Club 720p
+https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+#EXTINF:-1 group-title="kids",Nick Jr. Latin America 1080p
+http://177.234.249.178:8888/NICK-JR/index.m3u8
+#EXTINF:-1 group-title="kids",Nick Jr. Latin America 1080p
+http://179.60.51.134:8888/NICK-JR/index.m3u8
+#EXTINF:-1 group-title="kids",Nick Jr. Latin America 720p
+https://streamer.metronethn.com/NickJr/index.m3u8
+#EXTINF:-1 group-title="series",Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:-1 group-title="news,lifestyle",NowMedia Television 1080p
+https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
+#EXTINF:-1 group-title="series",Numeros
+https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
+#EXTINF:-1 group-title="animation",One Piece
+https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
+#EXTINF:-1 group-title="animation",One Piece
+https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
+#EXTINF:-1 group-title="entertainment",Pasiones Latin America 1080p
+http://15.204.246.24:8080/PasionesHD/index.m3u8
+#EXTINF:-1 group-title="entertainment",Pasiones Latin America 1080p
+http://45.162.193.35/PASIONESHD/index.m3u8
+#EXTINF:-1 group-title="entertainment",Pasiones Latin America 1080p
+http://45.224.97.181:9999/Pasiones/index.m3u8
+#EXTINF:-1 group-title="entertainment",Pasiones Latin America 1080p
+http://177.234.249.178:8888/PASIONES/index.m3u8
+#EXTINF:-1 group-title="entertainment",Pasiones Latin America 1080p
+http://179.60.51.134:8888/PASIONES/index.m3u8
+#EXTINF:-1 group-title="entertainment",Pasiones Latin America 1080p
+http://190.93.224.42/PASIONES/index.m3u8
+#EXTINF:-1 group-title="entertainment",Pasiones Latin America 1080p
+https://cdn1tlinkgo.tlink.cl/pasioneshd/index.m3u8
+#EXTINF:-1 group-title="general",PCT Channel 26 720p
+https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="general",PCT Channel 27 720p
+https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="legislative",PHXTV
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8
+#EXTINF:-1 group-title="movies",Pluto TV A La Mexicana
+https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
+#EXTINF:-1 group-title="entertainment",Pluto TV Amor y Mentiras
+https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
+#EXTINF:-1 group-title="animation",Pluto TV Anime
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Aventura
+https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
+#EXTINF:-1 group-title="movies",Pluto TV Cine Accion
+https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
+#EXTINF:-1 group-title="movies",Pluto TV Cine Clasico
+https://jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8
+#EXTINF:-1 group-title="movies",Pluto TV Cine Comedia
+https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
+#EXTINF:-1 group-title="movies",Pluto TV Cine Comedia
+https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
+#EXTINF:-1 group-title="movies",Pluto TV Cine Crimen
+https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
+#EXTINF:-1 group-title="movies",Pluto TV Cine Drama
+https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
+#EXTINF:-1 group-title="movies",Pluto TV Cine Estelar
+https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
+#EXTINF:-1 group-title="movies",Pluto TV Cine Familia
+https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
+#EXTINF:-1 group-title="movies",Pluto TV Cine Inspirador
+https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
+#EXTINF:-1 group-title="movies",Pluto TV Cine Romance
+https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
+#EXTINF:-1 group-title="movies",Pluto TV Cine Suspenso
+https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
+#EXTINF:-1 group-title="",Pluto TV Competencias
+https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8
+#EXTINF:-1 group-title="sports",Pluto TV Deportes
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:-1 group-title="",Pluto TV Documentales
+https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Dog el cazarrecompensas
+https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Dramas Coreanos
+https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Dramas Coreanos Teen
+https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8
+#EXTINF:-1 group-title="",Pluto TV El Reino Infantil
+https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8
+#EXTINF:-1 group-title="",Pluto TV El Reino Infantil
+https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
+#EXTINF:-1 group-title="",Pluto TV El Reino Infantil
+https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
+#EXTINF:-1 group-title="sports",Pluto TV E-Sports
+https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
+#EXTINF:-1 group-title="lifestyle",Pluto TV Estilo de Vida
+https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
+#EXTINF:-1 group-title="movies",Pluto TV Estrellas de Accion
+https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+#EXTINF:-1 group-title="",Pluto TV Historia
+https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
+#EXTINF:-1 group-title="",Pluto TV Historias de Ultratumba
+https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
+#EXTINF:-1 group-title="",Pluto TV Humor
+https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8
+#EXTINF:-1 group-title="kids",Pluto TV Junior
+https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
+#EXTINF:-1 group-title="music",Pluto TV Karaoke por Stingray 720p
+https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
+#EXTINF:-1 group-title="kids",Pluto TV Kids
+https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
+#EXTINF:-1 group-title="",Pluto TV Los nuevos detectives
+https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8
+#EXTINF:-1 group-title="",Pluto TV Melrose Place
+https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
+#EXTINF:-1 group-title="",Pluto TV Melrose Place
+https://jmp2.uk/plu-62a0ae0e4e47a30007fe21bb.m3u8
+#EXTINF:-1 group-title="",Pluto TV Melrose Place
+https://jmp2.uk/plu-6245c03922d9d4000760d205.m3u8
+#EXTINF:-1 group-title="",Pluto TV Melrose Place
+https://jmp2.uk/plu-62a0ada2f1bdc5000738e020.m3u8
+#EXTINF:-1 group-title="",Pluto TV Melrose Place
+https://jmp2.uk/plu-62a0b070d4566c0007a0d1bd.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Minuto Para Ganar
+https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
+#EXTINF:-1 group-title="documentary",Pluto TV Mi Obsesion Favorita
+https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
+#EXTINF:-1 group-title="education",Pluto TV Misterios
+https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Misterios Medicos
+https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
+#EXTINF:-1 group-title="documentary,outdoor",Pluto TV Naturaleza
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Novelas
+https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Novelas
+https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Novelas de Mexico
+https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Novelas de Otros Continentes
+https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Novelas de Venezuela
+https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
+#EXTINF:-1 group-title="movies",Pluto TV Nuestro Cine
+https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
+#EXTINF:-1 group-title="",Pluto TV Peleas
+https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
+#EXTINF:-1 group-title="entertainment",Pluto TV Reality
+https://jmp2.uk/plu-5dcde197f6591d0009839e04.m3u8
+#EXTINF:-1 group-title="series,movies",Pluto TV Sci-Fi
+https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
+#EXTINF:-1 group-title="series,movies",Pluto TV Sci-Fi
+https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Series
+https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Series de Accion
+https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Series de Comedia
+https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Series de Crimen
+https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Series de Drama
+https://jmp2.uk/plu-655f636d954b020008c93299.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Series de Otros Continentes
+https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Series de Sci-Fi
+https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
+#EXTINF:-1 group-title="series",Pluto TV Series Latinas
+https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
+#EXTINF:-1 group-title="classic",Pluto TV Series Retro
+https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
+#EXTINF:-1 group-title="",Pluto TV Velocidad
+https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
+#EXTINF:-1 group-title="education",Pluto TV Vida Real
+https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8
+#EXTINF:-1 group-title="religious",RadioMensaje TV 720p
+https://eu1.servers10.com:8081/8230/index.m3u8
+#EXTINF:-1 group-title="general",Radio y Television Marti 720p
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
+#EXTINF:-1 group-title="entertainment,series",Rakuten Viki 1080p
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="general",RCTV3 480p
+https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
+#EXTINF:-1 group-title="entertainment",Revry LatinX 720p
+https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="kids",Rugrats
+https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
+#EXTINF:-1 group-title="movies",Runtime Espanol 720p
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+#EXTINF:-1 group-title="religious",SBN TV 720p
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_c5402f016A/live.m3u8
+#EXTINF:-1 group-title="religious",SBN TV Global 720p
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8
+#EXTINF:-1 group-title="religious",SBN TV International 720p
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_09a4778E89/live.m3u8
+#EXTINF:-1 group-title="news",SC Currents
+https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
+#EXTINF:-1 group-title="",Semillitas TV 576p
+http://45.5.117.99:8000/play/a0g3/index.m3u8
+#EXTINF:-1 group-title="series",Sin tetas no hay paraiso
+https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
+#EXTINF:-1 group-title="documentary",Smithsonian Channel Pluto TV
+https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
+#EXTINF:-1 group-title="movies",Sony Canal Novelas
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1 group-title="",Sony Channel Andes 1080p
+http://15.204.246.24:8080/SonyHD/index.m3u8
+#EXTINF:-1 group-title="",Sony Channel Andes 1080p
+http://177.234.249.178:8888/SONY-TV/index.m3u8
+#EXTINF:-1 group-title="",Sony Channel Andes 1080p
+http://181.119.66.28:8081/SONY-HD/index.m3u8
+#EXTINF:-1 group-title="",Sony Channel Andes 1080p
+http://190.93.224.42/SONY-CHANNEL/index.m3u8
+#EXTINF:-1 group-title="",Sony Channel Andes 1080p
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/sonychannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="",Sony Channel Andes 1080p
+https://cdn1tlinkgo.tlink.cl/sonyhd/index.m3u8
+#EXTINF:-1 group-title="movies",Sony Movies Latin America 720p
+http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
+#EXTINF:-1 group-title="movies",Sony Movies Latin America 720p
+http://177.52.24.163/SONY-MOVIES-HD/index.m3u8
+#EXTINF:-1 group-title="movies",Sony Movies Latin America 720p
+https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
+#EXTINF:-1 group-title="animation,comedy",South Park: Coleccion Cartman
+https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
+#EXTINF:-1 group-title="animation,comedy",South Park: Coleccion Kenny
+https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
+#EXTINF:-1 group-title="animation,comedy",South Park: Coleccion Kyle
+https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
+#EXTINF:-1 group-title="animation,comedy",South Park: Coleccion Stan
+https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
+#EXTINF:-1 group-title="movies,series",Star Channel Latin America 1080p
+https://streamer.metronethn.com/StarChannel/index.m3u8
+#EXTINF:-1 group-title="movies,series",Star Channel Latin America 1080p
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+#EXTINF:-1 group-title="movies,series",Star Channel Latin America 1080p
+http://45.162.193.35/STAR_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="movies,series",Star Channel Latin America 1080p
+http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8
+#EXTINF:-1 group-title="movies,series",Star Channel Latin America 1080p
+http://181.119.66.28:8081/STAR-CHANNEL/index.m3u8
+#EXTINF:-1 group-title="movies,series",Star Channel Latin America 1080i
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="movies,series",Star Channel Latin America 1080p
+https://cdn1tlinkgo.tlink.cl/starchannelhd/index.m3u8
+#EXTINF:-1 group-title="series",Star Trek
+https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
+#EXTINF:-1 group-title="",Starz 1080p
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 group-title="movies",Starz Cinema 720p
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:-1 group-title="comedy",Starz Comedy 1080p
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:-1 group-title="",Starz Edge 720p
+http://168.228.44.241:9998/play/a0e0/index.m3u8
+#EXTINF:-1 group-title="kids",Starz Kids & Family 1080p
+http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+#EXTINF:-1 group-title="",Studio Universal Latin America 1080p
+http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
+#EXTINF:-1 group-title="",Studio Universal Latin America 1080p
+http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1 group-title="",Studio Universal Latin America 1080p
+http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1 group-title="",Studio Universal Latin America 1080p
+http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1 group-title="",Studio Universal Latin America 1080p
+https://cdn1tlinkgo.tlink.cl/studiouniversalhd/index.m3u8
+#EXTINF:-1 group-title="religious",SUMtv Latino 1080p
+https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
+#EXTINF:-1 group-title="religious",SUMtv Latino 1080p
+https://rpn.bozztv.com/ssstv/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
+#EXTINF:-1 group-title="cooking",Tastemade en Espanol 1080p
+https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="general",Telemundo Al Dia
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+#EXTINF:-1 group-title="general",Telemundo Al Dia 720p
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573
+#EXTINF:-1 group-title="entertainment",Telemundo Corpus Christi 720p
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 group-title="general",Telemundo Internacional 1080p
+http://190.60.46.156:8089/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="general",Telemundo Internacional 1080p
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="general",Telemundo Internacional 1080p
+http://177.234.249.178:8888/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="general",Telemundo Internacional 1080p
+http://179.60.51.134:8888/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="general",Telemundo Internacional 1080p
+http://190.93.224.42/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="religious",Teve Vida Network 480p
+https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
+#EXTINF:-1 group-title="legislative",The City of Marina 720p
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8
+#EXTINF:-1 group-title="general",The Monterey Channel 720p
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch3/video.m3u8
+#EXTINF:-1 group-title="series",The New Detectives
+https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
+#EXTINF:-1 group-title="legislative",The Peninsula Channel 720p
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8
+#EXTINF:-1 group-title="family",The Pet Collective
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="",The Walking Dead en Espanol 720p
+https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8
+#EXTINF:-1 group-title="series",TNT Novelas 1080p
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
+#EXTINF:-1 group-title="",TUDN 1080p
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 group-title="",TUDN 1080p
+http://45.190.13.8/TUDNHD/index.m3u8
+#EXTINF:-1 group-title="general",TV Hispanic
+https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
+#EXTINF:-1 group-title="general",TV Quisqueya 720p
+https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
+#EXTINF:-1 group-title="general",TVSA Public Channel 720p
+https://edge-f.swagit.com/live/sanantoniotx/live-2-a/playlist.m3u8
+#EXTINF:-1 group-title="",Unidad de investigacion
+https://jmp2.uk/plu-61bb2814ac085a00074309a6.m3u8
+#EXTINF:-1 group-title="",UniMas 1080p
+http://168.228.44.241:9997/play/a09e/index.m3u8
+#EXTINF:-1 group-title="",Universal TV Latin America 1080p
+http://15.204.246.24:8080/UniversalHD/index.m3u8
+#EXTINF:-1 group-title="",Universal TV Latin America 1080p
+http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
+#EXTINF:-1 group-title="",Universal TV Latin America 1080p
+http://177.234.249.178:8888/UNIVERSAL/index.m3u8
+#EXTINF:-1 group-title="",Universal TV Latin America 1080p
+http://181.119.66.28:8081/Universal-HD/index.m3u8
+#EXTINF:-1 group-title="series",Univision Tlnovelas 1080p
+http://45.6.4.35/TELENOVELAS/index.m3u8
+#EXTINF:-1 group-title="",USA Network Latin America 1080p
+http://138.121.15.230:9002/USA/index.m3u8
+#EXTINF:-1 group-title="",USA Network Latin America 1080p
+http://177.234.249.178:8888/SYFY/index.m3u8
+#EXTINF:-1 group-title="",USA Network Latin America 1080p
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/SYFY.stream/playlist.m3u8
+#EXTINF:-1 group-title="music",Vallenato Internacional 720p
+https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
+#EXTINF:-1 group-title="comedy",Vaya semanita
+https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8
+#EXTINF:-1 group-title="religious",Vida Mejor TV 480p
+https://tgn.bozztv.com/betterlife/bettervida/bettervida/index.m3u8
+#EXTINF:-1 group-title="general",Vision Latina Network 1080p
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/c1804a4c-ccbf-46e5-87c3-0f8d4a94d9e3/master.m3u8
+#EXTINF:-1 group-title="",WLTV-DT 23.1
+https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
+#EXTINF:-1 group-title="",WLTV-DT 23.1 720p
+http://168.228.44.241:9997/play/a09d/index.m3u8
+#EXTINF:-1 group-title="news",WTMO-CD 31.1 720p
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
+#EXTINF:-1 group-title="music",XITE Nuevo Latino 1080p
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1 group-title="music",XITE Siempre Latino 1080p
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+#EXTINF:-1 group-title="legislative",YouDotGov
+https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
+#EXTINF:-1 group-title="legislative",Yuma77
+https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8
+#EXTINF:-1 group-title="legislative",Yuma Channel 72 1080p
+https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="legislative",Yuma Channel 73 1080p
+https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8

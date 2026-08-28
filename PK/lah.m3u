@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="",Rohi 576p
+http://103.250.28.74:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="",Waseb TV 576p
+http://103.250.28.74:8000/play/a04k/index.m3u8

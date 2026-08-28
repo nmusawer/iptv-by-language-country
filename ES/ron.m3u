@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="music",LiraTV 720p
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",ROTV Valencia 720p
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8

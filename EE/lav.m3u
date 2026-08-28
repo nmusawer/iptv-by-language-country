@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="sports",Go3 Sport 1 1080p
+http://stream.mcquack.net/416/index.m3u8
+#EXTINF:-1 group-title="kids",KidZone Max 1080p
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd

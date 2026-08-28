@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="travel,entertainment",Chile Channel 720p
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 group-title="entertainment,lifestyle,music",PRIDEtv LATAM 1080p
+https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH

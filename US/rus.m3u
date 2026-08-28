@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",ARTN TV 1080p
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1 group-title="kids",BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+#EXTINF:-1 group-title="kids",BabyFirst 720p
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+#EXTINF:-1 group-title="kids",BabyFirst 480p
+http://181.78.106.127:5000/play/a0sa/index.m3u8
+#EXTINF:-1 group-title="comedy",Gagsnetwork 576p
+http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
+#EXTINF:-1 group-title="general",RTVi US 1080p
+https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8

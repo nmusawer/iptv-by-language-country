@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Studio + TV 720p
+https://cloudvideo.servers10.com:8081/8184/index.m3u8
+#EXTINF:-1 group-title="general",Teleamazonas 1080p
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8

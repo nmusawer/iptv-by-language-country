@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="religious",Imam Hussein TV 5 720p
+http://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Kurdistan TV 720p
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8

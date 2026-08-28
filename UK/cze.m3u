@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="documentary",BBC Earth
+http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
+#EXTINF:-1 group-title="series",Viasat Epic Drama
+http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8

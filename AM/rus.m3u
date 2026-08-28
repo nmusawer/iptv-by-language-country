@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Armenia TV Satellite 576p
+http://stream.mcquack.net/175/index.m3u8
+#EXTINF:-1 group-title="general",Kentron TV 1080p
+http://stream.mcquack.net/39/index.m3u8

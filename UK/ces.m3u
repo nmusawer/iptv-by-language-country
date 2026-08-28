@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="kids",JimJam Europe 720p
+http://212.5.144.156:8080/jimjam/index.m3u8
+#EXTINF:-1 group-title="kids",JimJam Europe 576p
+http://158.160.149.81:8080/269/index.m3u8
+#EXTINF:-1 group-title="kids",JimJam Europe 576p
+http://stream.mcquack.net/150/index.m3u8

@@ -1,0 +1,197 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",A7TV 1080p
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+#EXTINF:-1 group-title="outdoor",Agro TV 360p
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 group-title="business",Aleph Business 1280p
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="news",Aleph News 720p
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="religious",Alfa Omega TV 1080p
+https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
+#EXTINF:-1 group-title="religious",Angelus TV 1080p
+https://video.angelustv.ro/hls/angelustv.m3u8
+#EXTINF:-1 group-title="general",Antena 1
+https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+#EXTINF:-1 group-title="general",Antena 1 1080p
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8
+#EXTINF:-1 group-title="entertainment",Antena Stars 720p
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1 group-title="general",Arges TV 720p
+https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+#EXTINF:-1 group-title="music",Atomic Academy TV 480p
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 group-title="music",Atomic TV 360p
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 group-title="movies,classic",Bollywood Classic
+https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
+#EXTINF:-1 group-title="music",Boom TV 1080p
+https://tvboom.ro/live-tv/live.m3u8
+#EXTINF:-1 group-title="",Bucovina TV 576i
+https://www.bucovinatv.ro/proxy/video/playlist.m3u8
+#EXTINF:-1 group-title="general",Columna TV
+https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
+#EXTINF:-1 group-title="comedy",Comedy Play 576i
+https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+#EXTINF:-1 group-title="religious",Credo TV 720p
+http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
+#EXTINF:-1 group-title="religious",Credo TV 720p
+https://5bb3298db4821.streamlock.net/ctv/livecredo/playlist.m3u8
+#EXTINF:-1 group-title="religious",Credo TV
+https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
+#EXTINF:-1 group-title="news",Digi 24 720p
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1 group-title="sports",Digi Sport 1
+https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8
+#EXTINF:-1 group-title="sports",Digi Sport 2 1080p
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2522/index.m3u8
+#EXTINF:-1 group-title="sports",Digi Sport 3 576p
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2524/index.m3u8
+#EXTINF:-1 group-title="sports",Digi Sport 4 1080p
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8
+#EXTINF:-1 group-title="kids",Disney Channel
+https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
+#EXTINF:-1 group-title="news",Dotto TV 1080p
+https://live.dottotv.ro/index.m3u8
+#EXTINF:-1 group-title="music",EMI TV
+https://astra.emitv.ro/hls/emi/index.m3u8
+#EXTINF:-1 group-title="news",Euronews Romania
+https://thor1.syndula1.cfd/ernews/usergenx6vkj8aqrnd.m3u8
+#EXTINF:-1 group-title="movies",Film Now
+https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
+#EXTINF:-1 group-title="general",HD365 TV
+https://s2.netstreaming.eu/hd365.m3u8
+#EXTINF:-1 group-title="cooking",Hello Taste
+https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8
+#EXTINF:-1 group-title="general",Hunedoara 1 480p
+https://netstreaming.eu/hd1.m3u8
+#EXTINF:-1 group-title="general",IasiTV Life 1080p
+https://tv.streambox.ro/hls/itv/index.m3u8
+#EXTINF:-1 group-title="music",Impact TV 1080p
+https://live.tvimpact.ro:8088/hevc/index.m3u8
+#EXTINF:-1 group-title="music",Impact TV Dance 1080p
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 group-title="music",Impact TV Manele 1080p
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 group-title="news",Informatia TV
+https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
+#EXTINF:-1 group-title="business",JOB TV 1080p
+https://jobtvserver.eu/hls/stream.m3u8
+#EXTINF:-1 group-title="general",Kanal D 480p
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1 group-title="general",Kapital TV 1080p
+https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
+#EXTINF:-1 group-title="music",Kiss TV 1080p
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 group-title="",Light Channel 480p
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 group-title="music",Magic TV 720p
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:-1 group-title="general",Metropola TV 1080p
+https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
+#EXTINF:-1 group-title="series",Mireasa 720p
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1 group-title="religious",MISA TV
+https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
+#EXTINF:-1 group-title="general",Muscel TV 720p
+https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Nasul TV 720p
+https://live.nasul.tv/live/stream.m3u8
+#EXTINF:-1 group-title="documentary",National Geographic
+https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
+#EXTINF:-1 group-title="documentary",National Geographic Wild
+https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
+#EXTINF:-1 group-title="kids",Nickelodeon
+https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
+#EXTINF:-1 group-title="general",Nova TV Brasov 576p
+http://novapress.ro:2022/live/nova/playlist.m3u8
+#EXTINF:-1 group-title="news",Observator News 360p
+https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1 group-title="general",PROFI 24 TV
+https://live.ro24tv.ro/hls/stream.m3u8
+#EXTINF:-1 group-title="news",PROTV News 1080p
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 group-title="general",Qub TV
+https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
+#EXTINF:-1 group-title="music",Radio Fx Net 720p
+https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
+#EXTINF:-1 group-title="music",Radio Romania Antena Satelor 720p
+https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
+#EXTINF:-1 group-title="",Realitatea Plus 720p
+https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
+#EXTINF:-1 group-title="sports",Realitatea Sportiva 720p
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1 group-title="",Realitatea Star 576i
+https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
+#EXTINF:-1 group-title="music",Rock TV 720p
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 group-title="religious",SperantaTV 1080p
+https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
+#EXTINF:-1 group-title="music",Super TV 1080i
+https://live.supertv.ro/live/supertv/playlist.m3u8
+#EXTINF:-1 group-title="music",Super TV 576p
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="general",Tele7ABC HD 720p
+https://live.tele7abc.ro/hls/stream/index.m3u8
+#EXTINF:-1 group-title="music",Tele7music 576i
+https://live.tele7music.ro/hls/stream/index.m3u8
+#EXTINF:-1 group-title="general",TeleM Botosani 540p
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 group-title="news",TeleMoldova +
+https://vdo.ssl-stream.com:3247/stream/play.m3u8
+#EXTINF:-1 group-title="",Telestar1
+https://dvb.tennet.ro/mobile_tv/telestar.m3u8
+#EXTINF:-1 group-title="",Timeless Dizi Channel
+https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
+#EXTINF:-1 group-title="music",Traditional TV 1080p
+http://83.103.149.75:8085/udp/239.30.0.9:4000
+#EXTINF:-1 group-title="general",TV Buzau 576p
+http://78.96.33.89:8080
+#EXTINF:-1 group-title="lifestyle,travel",TV Paprika
+https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
+#EXTINF:-1 group-title="",TVPlus Suceava 576p
+http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 group-title="",TVPlus Suceava 576p
+http://85.186.146.34:8080
+#EXTINF:-1 group-title="general",TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",TVR 2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",TVR 3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",TVR Cluj
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",TVR Craiova
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
+#EXTINF:-1 group-title="culture",TVR Cultural
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
+#EXTINF:-1 group-title="general,music",TVR Folclor
+https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",TVR Iasi 1080p
+https://tvr-tvriasi.cdn.zitec.com/live/tvriasi/main.m3u8
+#EXTINF:-1 group-title="general",TVR Iasi 1080p
+http://82.208.141.70:8778/1.m3u8
+#EXTINF:-1 group-title="general",TVR Iasi
+https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8
+#EXTINF:-1 group-title="news",TVR Info
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",TVR International
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+#EXTINF:-1 group-title="general,sports",TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",TVR Targu-Mures
+https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",TVR Timisoara
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
+#EXTINF:-1 group-title="",TVSat 576p
+http://89.38.8.130:39443
+#EXTINF:-1 group-title="",TV SE 576p
+http://89.38.8.130:39419
+#EXTINF:-1 group-title="news",TV SUD 1080p
+https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
+#EXTINF:-1 group-title="documentary",Viasat Explore
+https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
+#EXTINF:-1 group-title="documentary",Viasat History
+https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
+#EXTINF:-1 group-title="documentary",Viasat Nature
+https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="news",Al Arabiya English 1080p
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+#EXTINF:-1 group-title="news",Al Arabiya English 1080p
+https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
+#EXTINF:-1 group-title="general",Dr Pal TV 720p
+https://stream.cisk.tech/drpal/index.m3u8
+#EXTINF:-1 group-title="religious",Iqraa Africa & Europe 1080p
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+#EXTINF:-1 group-title="religious",Iqraa Quran 1080p
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:-1 group-title="music",MBC Loud
+https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8
+#EXTINF:-1 group-title="movies",Movies Action 1080p
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+#EXTINF:-1 group-title="movies",Movies Thriller 1080p
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+#EXTINF:-1 group-title="culture",Saudi Thaqafiya TV 1080p
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8

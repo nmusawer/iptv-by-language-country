@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="music",CCTV-15 1080p
+https://xykt-fix.github.io/play/a02e/index.m3u8
+#EXTINF:-1 group-title="music",CCTV-15 720p
+http://74.91.26.218:82/live/cctv15hd.m3u8

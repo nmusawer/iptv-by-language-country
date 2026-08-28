@@ -1,0 +1,417 @@
+#EXTM3U
+#EXTINF:-1 group-title="entertainment",6ter 1080p
+http://145.239.5.177/314/index.m3u8
+#EXTINF:-1 group-title="general",20 Minutes TV 1080p
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 group-title="entertainment",AB1 720p
+http://145.239.5.177/332/index.m3u8
+#EXTINF:-1 group-title="animation",ADN TV+ 720p
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+#EXTINF:-1 group-title="news",Africa 24 1080p
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 group-title="news,sports",Africa 24 Sport 1080p
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="news",Africanews French 720p
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 group-title="general",Alpe d'Huez TV 720p
+https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
+#EXTINF:-1 group-title="general",Antenne Reunion 720p
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+#EXTINF:-1 group-title="entertainment",arte 720p
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 group-title="entertainment",arte 720p
+http://145.239.5.177/300/index.m3u8
+#EXTINF:-1 group-title="news",BFM2 1080p
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 group-title="news",BFM2 1080p
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="general",BFM Alsace 1080p
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="business,news",BFM Business 576p
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 group-title="business,news",BFM Business 1080p
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="news",BFM Cote d'Azur 1080p
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="news",BFM DICI Alpes du Sud 1080p
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="news",BFM DICI Haute-Provence 1080p
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="news",BFM Grand Lille 1080p
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="news",BFM Grand Littoral 1080p
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="news",BFM Lyon 576p
+https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 group-title="news",BFM Lyon 1080p
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="news",BFM Marseille 1080p
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="news",BFM Normandie 1080p
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="science,news",BFM Tech & Co 1080p
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="news",BFM TV 576p
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 group-title="news",BFM TV 1080p
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="news",BFM Var 1080p
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="general",Brionnais TV 720p
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+#EXTINF:-1 group-title="",Caillou
+https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
+#EXTINF:-1 group-title="movies",Canal+ Cinemas 720p
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1 group-title="sports",Canal+ Sport 360
+https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
+#EXTINF:-1 group-title="general",Cannes Lerins TV 1080p
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+#EXTINF:-1 group-title="movies",Cine Nanar 1080p
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="movies",Cine+ Classic
+http://99.27.51.147/CineClassic/index.m3u8
+#EXTINF:-1 group-title="movies",Cine+ Emotion 720p
+http://145.239.5.177/337/index.m3u8
+#EXTINF:-1 group-title="movies",Cine+ Frisson 1080p
+http://99.27.51.147:8080/CineFrisson/index.m3u8
+#EXTINF:-1 group-title="movies",Cine Western 1080p
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="movies",Cine Western 720p
+https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="news",CNews 1080p
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
+#EXTINF:-1 group-title="news",CNews 1080p
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+#EXTINF:-1 group-title="news",CNEWS PRIME 1080p
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
+#EXTINF:-1 group-title="entertainment",C Star 1080p
+http://145.239.5.177/361/index.m3u8
+#EXTINF:-1 group-title="entertainment",C Star 477p
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
+#EXTINF:-1 group-title="music",DBM TV 1080p
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1 group-title="kids",Disney Jr. 1080p
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+#EXTINF:-1 group-title="kids",Disney Jr. 576p
+http://41.205.64.66/DISNEY-JUNIOR/index.m3u8
+#EXTINF:-1 group-title="movies",Emotion L 1080p
+https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="sports",Equidia 1080p
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 group-title="news",Euronews French 720p
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="news",Euronews French 720p
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
+#EXTINF:-1 group-title="news",Euronews French 720p
+https://jmp2.uk/plu-60d35bcaf1ff4a00078af0a6.m3u8
+#EXTINF:-1 group-title="news",Euronews French 720p
+https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/eyJzdGlkIjoiYjA1ZmVmMzAtYjhkZC00Y2E5LThkM2ItMTRkNjE1MjdmYjE0IiwibWt0IjoiZnIiLCJjaCI6NjU2NCwicHRmIjo1fQ==/26032/euronews-fr.m3u8
+#EXTINF:-1 group-title="religious",Evandis Gospel TV 1080p
+https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
+#EXTINF:-1 group-title="lifestyle",FashionTV Paris L'Original 1080p
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 group-title="sports",Foot+
+http://145.239.5.177/556a/index.m3u8
+#EXTINF:-1 group-title="general",France 3
+http://89.187.185.76:8080/France3/index.m3u8
+#EXTINF:-1 group-title="general",France 3 1080p
+http://5.180.164.197:8080/FRANCE3/index.m3u8
+#EXTINF:-1 group-title="general",France 3
+http://85.14.32.26:8800/udp/239.100.10.144:5000
+#EXTINF:-1 group-title="kids",France 4 1080p
+http://41.205.93.154/OKOO/index.m3u8
+#EXTINF:-1 group-title="kids",France 4 1080p
+https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8
+#EXTINF:-1 group-title="kids",France 4
+http://176.65.146.100:8047/play/a074/index.m3u8
+#EXTINF:-1 group-title="general",France 5 720p
+http://145.239.5.177/305/index.m3u8
+#EXTINF:-1 group-title="news",France 24 1080p
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="news",France 24 1080p
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="news",France 24 720p
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="news",France 24 720p
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="news",France 24 576p
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8
+#EXTINF:-1 group-title="news",France 24 576p
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
+#EXTINF:-1 group-title="news",France 24 360p
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
+#EXTINF:-1 group-title="news",France 24 360p
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
+#EXTINF:-1 group-title="news",France 24
+https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
+#EXTINF:-1 group-title="documentary",Francophonie24 1080p
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 group-title="series",Frequence Novelas 1080p
+https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+#EXTINF:-1 group-title="",Generations TV 576p
+https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:-1 group-title="animation",Gong 1080p
+https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 group-title="kids",Gulli
+http://99.27.51.147:8080/Gulli/index.m3u8
+#EXTINF:-1 group-title="lifestyle",HANDICAP TV
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 group-title="",ILTV 720p
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+#EXTINF:-1 group-title="documentary",Into Crime 1080p
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="sports",Kozoom TV 1080p
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
+#EXTINF:-1 group-title="religious",KTO 504p
+http://145.239.5.177/354/index.m3u8
+#EXTINF:-1 group-title="religious",KTO 404p
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:-1 group-title="news",LCI 1080p
+http://145.239.5.177/368/index.m3u8
+#EXTINF:-1 group-title="news",LCI 1080p
+http://151.80.18.177:86/LCI_HD/index.m3u8
+#EXTINF:-1 group-title="general",Le Figaro TV Ile-de-France 1080p
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1 group-title="general",Le Figaro TV Ile-de-France 720p
+https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 group-title="music",Littoral FM TV 720p
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",M6 1080p
+http://99.27.51.147:8080/M6/index.m3u8
+#EXTINF:-1 group-title="music",M6 Music 720p
+http://145.239.5.177/320/index.m3u8
+#EXTINF:-1 group-title="music",M6 Music
+https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
+#EXTINF:-1 group-title="music",MCM Top 1080p
+http://89.33.29.118/MCM/index.m3u8
+#EXTINF:-1 group-title="",MDL 720p
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",Moselle TV 720p
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",MTV
+http://99.27.51.147:8080/MTV/index.m3u8
+#EXTINF:-1 group-title="culture",Museum TV French
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8
+#EXTINF:-1 group-title="relax",MyZen TV 1080p
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 group-title="relax",MyZen TV 1080p
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
+#EXTINF:-1 group-title="kids",Nickelodeon Junior 1080p
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+#EXTINF:-1 group-title="movies",Nollywood TV 720p
+http://145.239.5.177/148/index.m3u8
+#EXTINF:-1 group-title="music",NRJ Hits
+https://test.946985.filegear-sg.me/proxy/a23981548880f405
+#EXTINF:-1 group-title="music",P2M TV 720p
+https://vdo2.pro-fhi.net:3207/stream/play.m3u8
+#EXTINF:-1 group-title="general",Puissance TV
+https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+#EXTINF:-1 group-title="",RFM TV
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8
+#EXTINF:-1 group-title="entertainment,interactive",RMC Life 1080p
+http://145.239.5.177/333/index.m3u8
+#EXTINF:-1 group-title="sports",RMC Sport 1
+https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8
+#EXTINF:-1 group-title="",RMC Story 1080p
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:-1 group-title="news",RT France 1080p
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:-1 group-title="news",RT France 1080p
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",SciFi 720p
+http://41.205.93.154/SYFY/index.m3u8
+#EXTINF:-1 group-title="movies",ScreamIN 1080p
+https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="",Serie Club 720p
+http://145.239.5.177/355/index.m3u8
+#EXTINF:-1 group-title="series",Sony One Blacklist 1080p
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="series",Sony One Blacklist 1080p
+https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="movies",Sony One Favoris 1080p
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="movies",Sony One Favoris 1080p
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="movies",Sony One Hits Action 1080p
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="movies",Sony One Hits Action 1080p
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="movies",Sony One Hits Comedie 1080p
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="movies",Sony One Hits Comedie 1080p
+https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="",Syfy
+http://99.27.51.147:8080/SYFY/index.m3u8
+#EXTINF:-1 group-title="general",T18 1080p
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 group-title="general",TeleGohelle
+https://videas.agglo-lenslievin.fr/index.m3u8
+#EXTINF:-1 group-title="",Teva 1080p
+http://145.239.5.177/356/index.m3u8
+#EXTINF:-1 group-title="entertainment",TF1 720p
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 group-title="entertainment",TF1 576p
+https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8
+#EXTINF:-1 group-title="",TFX 720p
+http://145.239.5.177/315/index.m3u8
+#EXTINF:-1 group-title="",TiVi5 Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
+#EXTINF:-1 group-title="general",TMC 1080p
+http://151.80.18.177:86/TMC/index.m3u8
+#EXTINF:-1 group-title="music",Trace Africa 1080p
+https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
+#EXTINF:-1 group-title="music",Trace Afrikora 1080p
+https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
+#EXTINF:-1 group-title="music",Trace Ayiti 1080p
+https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
+#EXTINF:-1 group-title="music",Trace Caribbean 1080p
+https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
+#EXTINF:-1 group-title="music,religious",Trace Gospel 1080p
+https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
+#EXTINF:-1 group-title="music,religious",Trace Gospel 1080p
+https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
+#EXTINF:-1 group-title="music",Trace Ivoire 1080p
+https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
+#EXTINF:-1 group-title="music",Trace Kitoko 1080p
+https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
+#EXTINF:-1 group-title="music",Trace Latina 1080p
+https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
+#EXTINF:-1 group-title="music",Trace Latina 1080p
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
+#EXTINF:-1 group-title="music",Trace Latina 1080p
+https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="music",Trace Latina 720p
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
+#EXTINF:-1 group-title="music",Trace Latina 1080p
+https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="music",Trace Mboa 1080p
+https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
+#EXTINF:-1 group-title="music",Trace Muzika 1080p
+https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
+#EXTINF:-1 group-title="sports",Trace Sport Stars 1080p
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="sports",Trace Sport Stars 1080p
+http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
+#EXTINF:-1 group-title="sports",Trace Sport Stars 1080p
+https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8
+#EXTINF:-1 group-title="sports",Trace Sport Stars 1080p
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="sports",Trace Sport Stars 1080p
+https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="sports",Trace Sport Stars 1080p
+https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="music",Trace Urban 1080p
+https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
+#EXTINF:-1 group-title="music",Trace Urban 1080p
+https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
+#EXTINF:-1 group-title="music",Trace Urban 1080p
+https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
+#EXTINF:-1 group-title="music",Trace Urban 1080p
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="music",Trace Urban 1080p
+http://145.239.5.177/210/index.m3u8
+#EXTINF:-1 group-title="music",Trace Urban 1080p
+https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
+#EXTINF:-1 group-title="music",Trace Urban 1080p
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8
+#EXTINF:-1 group-title="music",Trace Urban 1080p
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="music",Trace Urban 1080p
+https://amg01131-tracetv-traceurbanse-samsungse-ov22d.amagi.tv/playlist/amg01131-tracetv-traceurbanse-samsungse/playlist.m3u8
+#EXTINF:-1 group-title="music",Trace Urban 1080p
+https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="music",Trace Urban 1080p
+https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="music",Trace Urban 720p
+https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
+#EXTINF:-1 group-title="music",Trace Urban 1080p
+https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="music",Trace Urban 1080p
+https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
+#EXTINF:-1 group-title="music",Trace Vanilla Islands 1080p
+https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
+#EXTINF:-1 group-title="general",TV3V 720p
+https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
+#EXTINF:-1 group-title="",TV5Monde Africa 720p
+http://5.9.121.178/tv5monde/index.m3u8
+#EXTINF:-1 group-title="",TV5Monde Asia 1080p
+http://54.37.19.157/TV5MONDE/index.m3u8
+#EXTINF:-1 group-title="",TV5Monde Asia 720p
+https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
+#EXTINF:-1 group-title="",TV5Monde Asia 576p
+http://27.131.164.187:8080/TV5_Monde/index.m3u8
+#EXTINF:-1 group-title="",TV5Monde Asia
+http://103.172.187.30:12000/stream/allchannel/tv5asie
+#EXTINF:-1 group-title="",TV5Monde Asia
+http://103.190.232.129/stream/tvb/asie/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 group-title="",TV5Monde Asia
+http://103.190.232.129/stream/tvb/asie?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 group-title="",TV5Monde Asia 1080p
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1 group-title="",TV5Monde Asia 576p
+https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8
+#EXTINF:-1 group-title="",TV5Monde Asia
+https://op-group1-swiftservehd-1.dens.tv/h/h121/index.m3u8
+#EXTINF:-1 group-title="lifestyle,cooking",TV5MONDE Chefs 1080p
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+#EXTINF:-1 group-title="general",TV5Monde Europe 1080p
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 group-title="general",TV5Monde Europe 1080p
+http://5.180.164.197:8080/TV5MONDE/index.m3u8
+#EXTINF:-1 group-title="general",TV5Monde Europe 1080p
+http://45.14.84.37/tv5monde/index.m3u8
+#EXTINF:-1 group-title="general",TV5Monde Europe 1080p
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
+#EXTINF:-1 group-title="general",TV5Monde France Belgium Switzerland Monaco 1080p
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 group-title="general",TV5Monde France Belgium Switzerland Monaco
+http://5.78.65.164/TV5Monde/index.m3u8
+#EXTINF:-1 group-title="news",TV5Monde Info 1080p
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 group-title="general",TV5Monde Latin America 720p
+http://45.162.231.38:7779/TV5_Monde/index.m3u8
+#EXTINF:-1 group-title="general",TV5Monde Latin America
+http://45.235.0.78/TV5_Monde/index.m3u8
+#EXTINF:-1 group-title="",TV5Monde Pacific
+http://103.190.232.129/stream/tvb/pacifique/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 group-title="",TV5Monde Pacific
+http://103.190.232.129/stream/tvb/pacifique?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 group-title="",TV5Monde Pacific 1080p
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1 group-title="lifestyle",TV5Monde Style 1080p
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 group-title="lifestyle",TV5Monde Style
+http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 group-title="lifestyle",TV5Monde Style
+http://103.190.232.129/stream/tvb/style?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 group-title="general",TV7 Colmar 576p
+https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 group-title="",TV78 720p
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:-1 group-title="general",TV Alsace 1080p
+http://194.163.157.137:8080/hls/radioalsace.m3u8
+#EXTINF:-1 group-title="",TV Breizh 1080p
+http://145.239.5.177/318/index.m3u8
+#EXTINF:-1 group-title="general",TV Mulhouse 1080p
+http://194.163.157.137:8080/hls/radiomulhouse.m3u8
+#EXTINF:-1 group-title="",TVR 720p
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1 group-title="",ViaMatele 1080p
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:-1 group-title="general",ViaOccitanie 540p
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
+#EXTINF:-1 group-title="general",viaTelePaese 720p
+https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
+#EXTINF:-1 group-title="",Vosges TV 576p
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",W9 1080p
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
+#EXTINF:-1 group-title="entertainment",W9 720p
+http://145.239.5.177/331a/index.m3u8
+#EXTINF:-1 group-title="entertainment",W9 720p
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8
+#EXTINF:-1 group-title="general,culture",zenith 1080p
+https://live.azenagroup.com/zenith/index.ll.m3u8
+#EXTINF:-1 group-title="general,culture",zenith 1080p
+https://live.azenagroup.com/zenith/index.m3u8

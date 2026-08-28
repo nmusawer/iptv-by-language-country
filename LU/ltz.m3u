@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="lifestyle,business,culture",apart TV 1080p
+https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
+#EXTINF:-1 group-title="general",Dudelange TV 720p
+https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",eldo.TV 1080p
+https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
+#EXTINF:-1 group-title="general",MierschTV 1080p
+https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8
+#EXTINF:-1 group-title="music",RTL Gold 1080p
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 group-title="general",RTL Tele Letzebuerg 1080p
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 group-title="general",RTL Web Radio TV 1080p
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1 group-title="general",RTL Zwee 1080p
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8

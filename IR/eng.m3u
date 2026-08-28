@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="movies",iFilm English
+https://live.presstv.ir/hls/ifilmen.m3u8
+#EXTINF:-1 group-title="news",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 group-title="news",Press TV 720p
+https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
+#EXTINF:-1 group-title="news",Press TV
+https://live.presstv.ir/hls/presstv.m3u8

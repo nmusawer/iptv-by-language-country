@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 group-title="entertainment",American Crime Channel
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
+#EXTINF:-1 group-title="documentary,news",BTB Info 1080p
+https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+#EXTINF:-1 group-title="",Buzzfeed Unsolved
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099
+#EXTINF:-1 group-title="animation,kids",Cartoon Classics 576p
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="animation,kids",Cartoon Classics
+https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+#EXTINF:-1 group-title="movies",FILMBOX+ Action
+https://polska.hach.workers.dev/14864.m3u8
+#EXTINF:-1 group-title="movies",FILMBOX+ Comedy
+https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
+#EXTINF:-1 group-title="movies",FILMBOX+ Emotion
+https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8
+#EXTINF:-1 group-title="movies",FILMBOX+ Festival
+https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8
+#EXTINF:-1 group-title="movies",FILMBOX+ Festival 1080p
+https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
+#EXTINF:-1 group-title="movies",FILMBOX+ Festival
+https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="movies",FILMBOX+ Hits
+https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8
+#EXTINF:-1 group-title="movies",FILMBOX+ Hits
+http://88.212.15.19/live/fb_premium_hungary/index.m3u8
+#EXTINF:-1 group-title="movies",FILMBOX+ Love & Crime
+https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
+#EXTINF:-1 group-title="movies",FILMBOX+ Love & Crime
+https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
+#EXTINF:-1 group-title="entertainment",Fox
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6108/index.m3u8
+#EXTINF:-1 group-title="",Hard Knocks Fighting Championship
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
+#EXTINF:-1 group-title="kids",Nicktoons
+http://193.24.244.60:1001/udp/239.254.5.227:6060
+#EXTINF:-1 group-title="sports",RACER International 1080p
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 group-title="",TNA Wrestling Channel
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
+#EXTINF:-1 group-title="",TNA Wrestling Channel 720p
+https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
+#EXTINF:-1 group-title="",TOP Barca 720p
+https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8
+#EXTINF:-1 group-title="",TOP Barca
+https://jmp2.uk/plu-6793ac47f5c74bff95d18a99.m3u8
+#EXTINF:-1 group-title="",TOP Barca 720p
+https://jmp2.uk/plu-67a52c8397782f00081879aa.m3u8
+#EXTINF:-1 group-title="",TOP Barca 1080p
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="",TOP Barca 1080p
+https://amg17560-fcb-amg17560c1-samsung-gb-9839.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="news",TVP World 1080p
+https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
+#EXTINF:-1 group-title="news",TVP World 576p
+https://lowa8026-cmyk.github.io/Poland/POLAIN.m3u8
+#EXTINF:-1 group-title="news",TVP World
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+#EXTINF:-1 group-title="",Twoja.TV 1080p
+https://stream.twoja.tv/ttv_hls/live.m3u8
+#EXTINF:-1 group-title="",Twoja.TV 1080p
+https://stream.twoja.tv/ttv_hls/live_720p/index.m3u8
+#EXTINF:-1 group-title="",World Billiards
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8

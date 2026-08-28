@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="movies",TVCARiB Cinema 720p
+https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
+#EXTINF:-1 group-title="kids",TVCARiB Kids & Teens 720p
+https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8

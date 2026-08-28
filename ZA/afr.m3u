@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="music",BOKTV 720p
+https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
+#EXTINF:-1 group-title="news",e.tv News & Sport 720p
+https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8
+#EXTINF:-1 group-title="religious",Homebase TV 576p
+https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8
+#EXTINF:-1 group-title="religious",Homebase TV 480p
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8

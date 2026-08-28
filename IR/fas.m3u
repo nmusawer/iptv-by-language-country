@@ -1,0 +1,227 @@
+#EXTM3U
+#EXTINF:-1 group-title="entertainment",247 Box TV
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1 group-title="general",Abadan TV
+https://ncdn.telewebion.ir/abadan/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Aflak TV
+https://ncdn.telewebion.ir/aflak/live/playlist.m3u8
+#EXTINF:-1 group-title="music",AFN TV
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 group-title="movies",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="series",Afra Series
+https://afrashls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="",Aftab TV
+https://ncdn.telewebion.ir/aftab/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Alborz TV
+https://ncdn.telewebion.ir/alborz/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Amouzesh TV
+https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Ara TV
+https://ncdn.telewebion.ir/ara/live/playlist.m3u8
+#EXTINF:-1 group-title="",Arax TV
+https://araxhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="",Arko TV
+https://arkhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="",Arvan TV
+https://arvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="",Arvan TV
+https://me2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="general",Atrak TV
+https://ncdn.telewebion.ir/atrak/live/playlist.m3u8
+#EXTINF:-1 group-title="",Atrina TV
+https://atrihls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="family",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="series",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="general",Baran TV
+https://ncdn.telewebion.ir/baran/live/playlist.m3u8
+#EXTINF:-1 group-title="",Boushehr TV
+https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8
+#EXTINF:-1 group-title="movies",Bravo Farsi TV 360p
+https://bravoohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="movies",Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="business",Cafe Trade TV
+https://cafetradehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="classic",Classic TV
+https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="",Datis TV
+https://ronhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="general",Dena TV
+https://ncdn.telewebion.ir/dena/live/playlist.m3u8
+#EXTINF:-1 group-title="movies",Ekran Movies
+https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
+#EXTINF:-1 group-title="",Energy
+https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8
+#EXTINF:-1 group-title="documentary",EPlanet TV
+https://eplhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="general",Eshragh Network
+https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Fars TV
+https://ncdn.telewebion.ir/fars/live/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",FX 1
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="entertainment",FX 2
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="movies",Gold Star
+https://moviethls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="",Golkhane Tv
+https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8
+#EXTINF:-1 group-title="religious",Habib TV
+https://ncdn.telewebion.ir/habib/live/playlist.m3u8
+#EXTINF:-1 group-title="",Hamedan TV
+https://ncdn.telewebion.ir/sina/live/playlist.m3u8
+#EXTINF:-1 group-title="",Hamoon TV
+https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8
+#EXTINF:-1 group-title="kids",HodHod Farsi TV 1080p
+https://northtelecom.b-cdn.net/hodhodtv.m3u8
+#EXTINF:-1 group-title="movies",HomePlus
+https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="movies",iFilm 2
+https://live.presstv.ir/hls/ifilm2.m3u8
+#EXTINF:-1 group-title="movies",iFilm Persian
+https://live.presstv.ir/hls/ifilmfa.m3u8
+#EXTINF:-1 group-title="movies",iFilm Persian
+https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Ilam TV
+https://ncdn.telewebion.ir/ilam/live/playlist.m3u8
+#EXTINF:-1 group-title="religious",Iran Jewish TV
+http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
+#EXTINF:-1 group-title="news",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 group-title="general",IRIB 1
+https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
+#EXTINF:-1 group-title="general",IRIB 2
+https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
+#EXTINF:-1 group-title="sports",IRIB 3
+https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
+#EXTINF:-1 group-title="culture",IRIB 4
+https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
+#EXTINF:-1 group-title="general",IRIB Mostanad
+https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
+#EXTINF:-1 group-title="kids",IRIB Omid
+https://ncdn.telewebion.ir/omid/live/playlist.m3u8
+#EXTINF:-1 group-title="general",IRIB UHD 2160p
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+#EXTINF:-1 group-title="news",IRINN 2
+https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
+#EXTINF:-1 group-title="news",IRINN 576p
+http://185.9.2.18/chid_926/index.m3u8
+#EXTINF:-1 group-title="news",IRINN
+https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Isfahan TV
+https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Jahanbin TV
+https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Kerman TV
+https://ncdn.telewebion.ir/kerman/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Khalij-e Fars TV
+https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Khavaran TV
+https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Khorasan Razavi TV
+https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Khozestan TV
+https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Kish TV
+https://ncdn.telewebion.ir/kish/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Kordestan TV
+https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8
+#EXTINF:-1 group-title="",LabbaykTV
+https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Mahabad TV
+https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8
+#EXTINF:-1 group-title="movies",Meta Film TV
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="news",Mihan TV
+https://iptv.mihantv.com/mihantv/playlist.m3u8
+#EXTINF:-1 group-title="religious",Mohabat TV 540p
+http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="religious",Mohabat TV 540p
+https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Namayesh TV
+https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Nasim
+https://ncdn.telewebion.ir/nasim/live/playlist.m3u8
+#EXTINF:-1 group-title="movies",NewFlix
+https://newfhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="",Noor TV
+https://ncdn.telewebion.ir/noor/live/playlist.m3u8
+#EXTINF:-1 group-title="culture",Ofogh TV
+https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",OXIR TV
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1 group-title="general",Palestinetv
+https://ncdn.telewebion.ir/palestine/live/playlist.m3u8
+#EXTINF:-1 group-title="religious",Payvand TV 720p
+https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 group-title="kids",Pooya TV
+https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
+#EXTINF:-1 group-title="kids",Pooya TV Plus
+https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8
+#EXTINF:-1 group-title="",Qazvin TV
+https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8
+#EXTINF:-1 group-title="religious",Quran TV
+https://ncdn.telewebion.ir/quran/live/playlist.m3u8
+#EXTINF:-1 group-title="religious",RasoulallahTv 1080p
+https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
+#EXTINF:-1 group-title="",Razavi TV
+https://ncdn.telewebion.ir/razavi/live/playlist.m3u8
+#EXTINF:-1 group-title="",Roya TV
+https://ncdn.telewebion.ir/iribu/live/playlist.m3u8
+#EXTINF:-1 group-title="",Sabalan TV
+https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8
+#EXTINF:-1 group-title="general",Sabz TV
+https://ncdn.telewebion.ir/sabz/live/playlist.m3u8
+#EXTINF:-1 group-title="",Sahand TV
+https://ncdn.telewebion.ir/sahand/live/playlist.m3u8
+#EXTINF:-1 group-title="",Salamat TV
+https://ncdn.telewebion.ir/salamat/live/playlist.m3u8
+#EXTINF:-1 group-title="",Sarbedaran TV
+https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8
+#EXTINF:-1 group-title="",Semnan TV
+https://ncdn.telewebion.ir/semnan/live/playlist.m3u8
+#EXTINF:-1 group-title="",Sepehr TV
+https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8
+#EXTINF:-1 group-title="movies",SL 1
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="movies",SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="news",SNN TV
+https://live2.snn.ir/hls/snn2_hd720/index.m3u8
+#EXTINF:-1 group-title="movies",T2 Movies
+https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
+#EXTINF:-1 group-title="music",T2 TV
+https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="general",Tabarestan TV
+https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8
+#EXTINF:-1 group-title="movies",Tamasha
+https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
+#EXTINF:-1 group-title="",TBN Nejat TV
+https://hls.nejat.live/hls/stream.m3u8
+#EXTINF:-1 group-title="general",Tehran TV
+https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
+#EXTINF:-1 group-title="",Tekyemadahi
+https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8
+#EXTINF:-1 group-title="",TVA Nava
+https://ncdn.telewebion.ir/nava/live/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",TV ITN
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="sports",Varzesh TV
+https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
+#EXTINF:-1 group-title="",Velayat TV
+https://ncdn.telewebion.ir/velayat/live/playlist.m3u8
+#EXTINF:-1 group-title="general",West Azerbaijan TV
+https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+#EXTINF:-1 group-title="general",West Azerbaijan TV
+https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+#EXTINF:-1 group-title="",Yazd TV
+https://ncdn.telewebion.ir/taban/live/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1 group-title="entertainment",YourTime TV
+https://live.yourtime.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="general",Zagros TV
+https://ncdn.telewebion.ir/zagros/live/playlist.m3u8

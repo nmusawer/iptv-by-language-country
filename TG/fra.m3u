@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="religious",AC TV 480p
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Chandel TV 720p
+https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
+#EXTINF:-1 group-title="religious",Dynamic Gospel TV 480p
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8
+#EXTINF:-1 group-title="business",NW Economie 576p
+https://hls.newworldtv.com/nw-economie/video/live.m3u8
+#EXTINF:-1 group-title="news",NW Info 576p
+https://hls.newworldtv.com/nw-info/video/live.m3u8
+#EXTINF:-1 group-title="entertainment",NW Magazine 576p
+https://hls.newworldtv.com/nw-magazine/video/live.m3u8
+#EXTINF:-1 group-title="religious",RT JVA 720p
+https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
+#EXTINF:-1 group-title="lifestyle",SOS Docteur TV 480p
+https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="general",Television Espoir 47 720p
+https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
+#EXTINF:-1 group-title="general",TVT 720p
+http://69.64.57.208/tvt/playlist.m3u8

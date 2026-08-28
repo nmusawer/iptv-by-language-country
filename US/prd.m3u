@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="religious",ABN Afghanistan 540p
+https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
+#EXTINF:-1 group-title="news",Amu TV
+https://jmc-live.ercdn.net/amutv/amutv.m3u8
+#EXTINF:-1 group-title="general",Payam-e-Afghan TV 480p
+https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8

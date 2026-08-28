@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="travel",Aruba.TV 1080p
+https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
+#EXTINF:-1 group-title="general",Telearuba 1080p
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
+#EXTINF:-1 group-title="general",Telearuba 1080p
+https://cdn01.setar.aw/Telearuba/telearuba/playlist.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Tele Haiti 1088p
+http://66.175.238.147:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="general",TV Panou 720p
+http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8

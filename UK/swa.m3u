@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="religious",MTA4 Africa 1080p
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
+#EXTINF:-1 group-title="religious",MTA5 Africa 1080p
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8

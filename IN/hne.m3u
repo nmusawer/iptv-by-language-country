@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="news",INH 24x7 396p
+https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
+#EXTINF:-1 group-title="news",INH 24x7 360p
+https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8

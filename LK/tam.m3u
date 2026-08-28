@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="entertainment,family,general",Asia TV 720p
+https://stream.asiatvnet.com/1/live/master.m3u8
+#EXTINF:-1 group-title="culture",Imai TV 1080p
+https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Monara TV 720p
+https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",NDTV LANKA 1080p
+https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
+#EXTINF:-1 group-title="movies",Star Tamil Television 360p
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
+#EXTINF:-1 group-title="",Verbum TV 480p
+https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/index.m3u8

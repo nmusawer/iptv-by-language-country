@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Channel 13 720p
+https://stream.theyraonline.com/live/channel13@live/index.m3u8
+#EXTINF:-1 group-title="general",MMTV 1080p
+https://sendlive.online/hls/mmtv.m3u8
+#EXTINF:-1 group-title="religious",Munnaaru
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8
+#EXTINF:-1 group-title="news",PSM News
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
+#EXTINF:-1 group-title="general",Raajje TV
+https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8
+#EXTINF:-1 group-title="general",TV Maldives
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8
+#EXTINF:-1 group-title="news",VTV 1080p
+https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
+#EXTINF:-1 group-title="news",YES
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8

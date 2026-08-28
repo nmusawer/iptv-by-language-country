@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 group-title="religious",Al-Mahdi TV 1080p
+https://iptv.almahditv.com/almahditv/playlist.m3u8
+#EXTINF:-1 group-title="music",Avang TV 1080p
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1 group-title="news,culture",Channel One
+https://pemirateshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="news",Didgah TV 576p
+https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
+#EXTINF:-1 group-title="general",Ganj e Hozour TV 1080p
+https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8
+#EXTINF:-1 group-title="music",High Vision TV 1080p
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
+#EXTINF:-1 group-title="movies",ICC plus 1080p
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="",Iran National Revolution TV
+https://hls.irannrtv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="religious",Mohabat TV 540p
+http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="",MTC
+https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="news",National Iranian Congress TV
+https://tv.iraniancongress.com/stream/tv.m3u8
+#EXTINF:-1 group-title="entertainment",Omid e Iran TV
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="general",Pars TV
+https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="religious",Payame Aramesh TV 720p
+https://hls.keshishhamid.live/hls/stream.m3u8
+#EXTINF:-1 group-title="education",Payam Javan TV 720p
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="general",PBC Tapesh TV 720p
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 group-title="music",RJTV 1080p
+https://rjtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="entertainment",Shabakeh 7
+https://sh7hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="",Tapesh 2
+https://maxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="entertainment",Tin TV 720p
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Tin TV 720p
+https://tulixcdn.akamaized.net/tintv6/tintv/tintv/playlist.m3u8
+#EXTINF:-1 group-title="general",TM TV 720p
+https://hls.tmtv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="religious",Velayat TV Network 480p
+https://nl.livekadeh.com/hls2/velayattv.m3u8
+#EXTINF:-1 group-title="news",VoA TV Persian
+https://voaphls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="news",VoA TV Persian 1080p
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8

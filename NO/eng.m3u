@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="auto",Canal Motor 720p
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="auto",Canal Motor 720p
+https://digicom.hls.iptvdc.com/motorstv/index.m3u8

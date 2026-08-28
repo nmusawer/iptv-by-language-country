@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="news",4TV News 576p
+https://cdn-4.pishow.tv/live/1007/master.m3u8
+#EXTINF:-1 group-title="news",Bharat Express 480p
+https://stream1.livebox.co.in/VCAREhls/live.m3u8
+#EXTINF:-1 group-title="news",Bharat Express
+https://cdn-2.pishow.tv/live/1139/master.m3u8
+#EXTINF:-1 group-title="news",Bharat Express 576p
+https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8
+#EXTINF:-1 group-title="religious",Channel WIN 576p
+https://mumt05.tangotv.in/87NeALx2CHANNELWIN/index.m3u8
+#EXTINF:-1 group-title="religious",Channel WIN 720p
+https://cdn-4.pishow.tv/live/229/master.m3u8
+#EXTINF:-1 group-title="general",DD Urdu 504p
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
+#EXTINF:-1 group-title="general",DD Urdu 720p
+https://cdn-4.pishow.tv/live/8/master.m3u8
+#EXTINF:-1 group-title="news",News18 Delhi NCR JK 1080p
+https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="news",News18 Urdu 1080p
+https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="news",Salaam TV 720p
+https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
+#EXTINF:-1 group-title="news",Salaam TV 720p
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8
+#EXTINF:-1 group-title="news",Salaam TV 576p
+https://mumt07.tangotv.in/zHjX9OFlZEESALAM/index.m3u8
+#EXTINF:-1 group-title="religious",Zainabia Channel
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8

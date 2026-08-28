@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",BelRos 720p
+https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
+#EXTINF:-1 group-title="general",Soyuzny 480p
+http://178.124.179.122:8080/TRO/index.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="movies",AMC Europe
+http://212.70.131.37:8000/play/a05k
+#EXTINF:-1 group-title="movies",AMC Europe
+http://213.91.179.28:8000/play/a0by

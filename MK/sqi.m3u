@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="general",Alsat
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+#EXTINF:-1 group-title="general",Alsat 576p
+http://5.254.89.106/8713/index.m3u8
+#EXTINF:-1 group-title="culture",MRT 2
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
+#EXTINF:-1 group-title="legislative",MRT Sobraniski kanal
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+#EXTINF:-1 group-title="music",TopEstrada TV 720p
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 group-title="general",TV21
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+#EXTINF:-1 group-title="entertainment",TV ERA
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8

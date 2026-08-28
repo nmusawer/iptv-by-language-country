@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="outdoor",Love Nature 720p
+https://bamus-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="outdoor",Love Nature 720p
+https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
+#EXTINF:-1 group-title="outdoor",Love Nature 1080p
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 group-title="outdoor",Love Nature 1080p
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="documentary",NatureTime 1080p
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 group-title="documentary",NatureTime 720p
+https://jmp2.uk/plu-60dd6b1da79e4d0007309455.m3u8
+#EXTINF:-1 group-title="documentary",NatureTime 1080p
+https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="documentary",NatureTime 684p
+https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
+#EXTINF:-1 group-title="documentary",NatureTime 720p
+https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8
+#EXTINF:-1 group-title="documentary",NatureTime 1080p
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="documentary",NatureTime 1080p
+https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8
+#EXTINF:-1 group-title="music",Stingray Classica 1080p
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="music",Stingray Classica
+https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
+#EXTINF:-1 group-title="music",Stingray iConcerts
+https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8

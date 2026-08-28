@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 group-title="kids",Bravo! Kids TV
+https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
+#EXTINF:-1 group-title="music",CMC TV 1080p
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 group-title="general",Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 group-title="music",Extra TV 1080p
+https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
+#EXTINF:-1 group-title="general",HRT 1 1080p
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+#EXTINF:-1 group-title="general",HRT 1 720p
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+#EXTINF:-1 group-title="general",HRT 2 1080p
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+#EXTINF:-1 group-title="general",HRT 2 720p
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+#EXTINF:-1 group-title="culture,documentary",HRT 3 720p
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+#EXTINF:-1 group-title="culture,documentary",HRT 3 720p
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 group-title="news",HRT 4 720p
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+#EXTINF:-1 group-title="music",Klape i Tambure TV 1080p
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 group-title="movies",Klasik 576p
+https://178.253.194.105/klasiktv/playlist.m3u8
+#EXTINF:-1 group-title="general",Libertas TV 1080p
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 group-title="documentary",National Geographic 1080p
+http://176.61.157.250/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="kids",Nickelodeon 1080p
+http://176.61.157.250/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="general",Nova TV 1080p
+http://176.61.157.250/NovaTV/index.m3u8
+#EXTINF:-1 group-title="news",OTV 720p
+https://stream.agatin.hr:3559/live/otvlive.m3u8
+#EXTINF:-1 group-title="",Radio Televizija Banovina 1080p
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+#EXTINF:-1 group-title="general",SBTV 1080p
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:-1 group-title="auto",Shift TV 1080p
+https://hls.shift.tv/live/shifttv/playlist.m3u8
+#EXTINF:-1 group-title="general",STV 720p
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 group-title="general",Trend TV 480p
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+#EXTINF:-1 group-title="news",TV Jadran 720p
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 group-title="entertainment",TV Nova 720p
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 group-title="general",TV Zapad 1080p
+http://85.94.67.158/TVZAPAD/index.fmp4.m3u8

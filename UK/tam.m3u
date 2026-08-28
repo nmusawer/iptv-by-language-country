@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 group-title="entertainment",Aathavan TV 720p
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 group-title="religious",IBC Bakthi 1080p
+https://ibc.massstream.net/IBC2/index.m3u8
+#EXTINF:-1 group-title="general",IBC Tamil 1080p
+https://ibc.massstream.net/IBC/index.m3u8
+#EXTINF:-1 group-title="religious",MTA6 Asia 1080p
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+#EXTINF:-1 group-title="religious",MTA7 Asia 1080p
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8

@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 group-title="religious",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 group-title="religious",CGNTV Chinese 1080p
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 group-title="general",CTi Variety 720p
+http://23.237.10.66:16372
+#EXTINF:-1 group-title="general",CTS 1080p
+rtmp://59.124.75.138:1935/sat/tv111
+#EXTINF:-1 group-title="news",CTS News
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 group-title="general",DaAi 1 720p
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="general",DaAi 2 720p
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="general",DaAi 2 1080p
+http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
+#EXTINF:-1 group-title="news",EBC Financial News 1080p
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 group-title="news",EBC News 1080p
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 group-title="general",FTV 720p
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 group-title="general",FTV One 720p
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 group-title="news",FTV Taiwan 720p
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 group-title="religious",Good 2 720p
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 group-title="religious",Good TV 720p
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 group-title="culture",Hakka TV
+https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
+#EXTINF:-1 group-title="culture",Indigenous TV 720p
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+#EXTINF:-1 group-title="shop",MOMO TV 1080p
+http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
+#EXTINF:-1 group-title="news",SET News 1080p
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 group-title="general",Taiwan Indigenous TV 720p
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="general",Taiwan Indigenous TV
+https://h5cul1yar48um3t.wcetv.com/hls/titv.m3u8
+#EXTINF:-1 group-title="",TTV 720p
+http://162.19.247.76:22222/live/taishi/index.m3u8
+#EXTINF:-1 group-title="entertainment",TVBS-Asia 1080p
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="news",TVBS News
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 group-title="religious",WXTV 480p
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8

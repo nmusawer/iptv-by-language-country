@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="series",Europa Europa 1080p
+https://cdn1tlinkgo.tlink.cl/europaeuropa/index.m3u8
+#EXTINF:-1 group-title="series",Europa Europa 1080p
+https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
+#EXTINF:-1 group-title="",Kpop Mix 720p
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
+#EXTINF:-1 group-title="",PowerHD
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8

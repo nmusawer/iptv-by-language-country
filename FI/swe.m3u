@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="religious",Himlen TV7 720p
+https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:-1 group-title="general",Nar-TV 360p
+https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8

@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 group-title="kids",Afarin Baxcha 1080p
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="kids",Afarin TV 720p
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="",Al Iraqia Kurdish 720p
+https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
+#EXTINF:-1 group-title="religious",Amozhgary TV
+https://app-live.org/live/3268334b/index.m3u8
+#EXTINF:-1 group-title="",Avar TV 1080p
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+#EXTINF:-1 group-title="news",Channel8 720p
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-1 group-title="family",EmanTv 1080p
+https://avr.host247.net/live/emantv/playlist.m3u8
+#EXTINF:-1 group-title="religious",FarmodaTV 1080p
+https://avr.host247.net/live/FarmodaTV/playlist.m3u8
+#EXTINF:-1 group-title="",Kurd Channel
+https://kurdchhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="news",Kurdistan 24 1080p
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
+#EXTINF:-1 group-title="general",Kurdistan TV 720p
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="entertainment",Kurdsat 1080p
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+#EXTINF:-1 group-title="entertainment",Kurdsat 576p
+http://185.9.2.18/chid_1/index.m3u8
+#EXTINF:-1 group-title="news",Kurdsat News 1080p
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:-1 group-title="family",Mixkurdy 1080p
+https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1 group-title="news",NRT TV 720p
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 group-title="news",Payam TV 1080p
+https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
+#EXTINF:-1 group-title="news",Payam TV 720p
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-1 group-title="news",Rudaw TV 1080p
+https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
+#EXTINF:-1 group-title="news",Rudaw TV 1080p
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+#EXTINF:-1 group-title="",Waar TV 1080p
+https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
+#EXTINF:-1 group-title="",Waar TV 1080p
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
