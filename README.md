@@ -25,6 +25,34 @@ Each `.m3u` file can be loaded directly into any IPTV player (VLC, IPTV Smarters
 vlc US/eng.m3u
 ```
 
+## How to Stream in VLC
+
+You can play any playlist in this repo using VLC in a few ways:
+
+**Option 1 — Open the raw file URL directly (no download needed)**
+1. Open VLC.
+2. Go to **Media > Open Network Stream** (Mac: **File > Open Network...**).
+3. Get the "Raw" URL for the playlist you want, e.g. for US English channels:
+   `https://raw.githubusercontent.com/nmusawer/iptv-by-language-country/main/US/eng.m3u`
+   (On GitHub: open the file, click the **Raw** button, and copy that URL.)
+4. Paste the raw URL into VLC's network stream field and click **Open**.
+5. VLC will load the playlist — use **View > Playlist** (Mac: **Window > Playlist**, or `Cmd+Shift+P`) to see and pick individual channels.
+
+**Option 2 — Clone or download, then open locally**
+1. Clone the repo or download the specific `.m3u` file you want:
+   ```
+   git clone https://github.com/nmusawer/iptv-by-language-country.git
+   ```
+2. Open VLC, then **File/Media > Open File...**, and select the `.m3u` file (e.g. `US/eng.m3u`).
+3. VLC opens the playlist and starts streaming the first channel; use the Playlist panel to switch channels.
+
+**Option 3 — Double-click**
+- On most systems, simply double-clicking a `.m3u` file will open it in VLC (if VLC is your default player for that file type) and start streaming.
+
+**Notes**
+- These are live internet streams sourced from [iptv-org](https://github.com/iptv-org/iptv) — availability and quality of individual channels may vary or go offline over time.
+- Some channels may require a specific `http-user-agent` or referrer header to work; if a stream fails to load in VLC, check the original [iptv-org](https://github.com/iptv-org/iptv) source for that channel for any required headers.
+
 ## Source
 
 Data is derived from the [iptv-org/iptv](https://github.com/iptv-org/iptv) project's public channel, feed, and stream metadata (`channels.json`, `feeds.json`, `streams.json`).
